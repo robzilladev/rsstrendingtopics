@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" version="2.0">
+  <channel>
+    <title>NYT Bits</title>
+    <atom:link href="http://bits.blogs.nytimes.com/feed/" rel="self" type="application/rss+xml" />
+    <link>http://bits.blogs.nytimes.com/</link>
+    <description>Business, Innovation, Technology, Society</description>
+    <lastBuildDate>Wed, 09 Apr 2014 22:46:11 +0000</lastBuildDate>
+    <language>en-US</language>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    <generator>http://wordpress.org/?v=3.6.1</generator>
+    <image>
+      <url>http://graphics8.nytimes.com/images/section/NytSectionHeader.gif</url>
+      <title>NYT</title>
+      <link>http://www.nytimes.com</link>
+    </image>
+    <item>
+      <title>With Declines Slowing, PC Sales Still Struggle</title>
+      <link>http://bits.blogs.nytimes.com/2014/04/09/with-declines-slowing-pc-sales-still-struggle/</link>
+      <comments>http://bits.blogs.nytimes.com/2014/04/09/with-declines-slowing-pc-sales-still-struggle/#respond</comments>
+      <pubDate>Wed, 09 Apr 2014 21:06:54 +0000</pubDate>
+      <dc:creator>By NICK WINGFIELD</dc:creator>
+      <category><![CDATA[Uncategorized]]></category>
+      <category><![CDATA[Computers and the Internet]]></category>
+      <category><![CDATA[Gartner Inc]]></category>
+      <category><![CDATA[IDC Data Corp]]></category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_org_all"><![CDATA[Gartner Inc|IT|NYSE]]></category>
+      <guid isPermaLink="false">http://bits.blogs.nytimes.com/2014/04/09/with-declines-slowing-pc-sales-still-struggle/</guid>
+      <description><![CDATA[Two technology market research firms said on Wednesday that worldwide shipments of PCs continued to decline, but at a slower pace than in the past. During the first quarter of the year, IDC estimated that PC shipments fell 4.4 percent from the same period in 2013 while Gartner estimated a drop of 1.7 percent]]></description>
+      <wfw:commentRss>http://bits.blogs.nytimes.com/2014/04/09/with-declines-slowing-pc-sales-still-struggle/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <media:content url="http://graphics8.nytimes.com/images/2014/04/09/technology/09bits-pc/09bits-pc-thumbStandard.jpg" medium="image" width="75" height="75" />
+    </item>
+    <item>
+      <title>Q. and A. on Heartbleed: A Flaw Missed by the Masses</title>
+      <link>http://bits.blogs.nytimes.com/2014/04/09/qa-on-heartbleed-a-flaw-missed-by-the-masses/</link>
+      <comments>http://bits.blogs.nytimes.com/2014/04/09/qa-on-heartbleed-a-flaw-missed-by-the-masses/#respond</comments>
+      <pubDate>Wed, 09 Apr 2014 18:26:45 +0000</pubDate>
+      <dc:creator>By BRIAN X. CHEN</dc:creator>
+      <category><![CDATA[Security]]></category>
+      <category><![CDATA[Computer Security]]></category>
+      <category><![CDATA[Computers and the Internet]]></category>
+      <category><![CDATA[Cyberattacks and Hackers]]></category>
+      <category><![CDATA[Elastica]]></category>
+      <category><![CDATA[Open-Source Software]]></category>
+      <category><![CDATA[Ramzan, Zulfikar]]></category>
+      <guid isPermaLink="false">http://bits.blogs.nytimes.com/2014/04/09/qa-on-heartbleed-a-flaw-missed-by-the-masses/</guid>
+      <description><![CDATA[Zulfikar Ramzan, the chief technology officer for Elastica, a cloud security start-up, helps explain the security flaw Heartbleed and open-source software, and offers suggestions for how consumers can protect themselves.]]></description>
+      <wfw:commentRss>http://bits.blogs.nytimes.com/2014/04/09/qa-on-heartbleed-a-flaw-missed-by-the-masses/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <media:content url="http://graphics8.nytimes.com/images/2014/04/09/technology/09bits-elastica/09bits-elastica-thumbStandard.jpg" medium="image" width="75" height="75" />
+    </item>
+    <item>
+      <title>Readers Respond: How Should Apple Spend Its Billions?</title>
+      <link>http://bits.blogs.nytimes.com/2014/04/09/readers-respond-where-should-apple-spend-its-billions/</link>
+      <comments>http://bits.blogs.nytimes.com/2014/04/09/readers-respond-where-should-apple-spend-its-billions/#respond</comments>
+      <pubDate>Wed, 09 Apr 2014 13:00:47 +0000</pubDate>
+      <dc:creator>By NICK BILTON</dc:creator>
+      <category><![CDATA[Uncategorized]]></category>
+      <category><![CDATA[Apple Inc]]></category>
+      <category><![CDATA[Corporate Taxes]]></category>
+      <category><![CDATA[Mergers, Acquisitions and Divestitures]]></category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_org_all"><![CDATA[Apple Inc|AAPL|NASDAQ]]></category>
+      <guid isPermaLink="false">http://bits.blogs.nytimes.com/2014/04/09/readers-respond-where-should-apple-spend-its-billions/</guid>
+      <description><![CDATA[Readers offer a wide range of suggestions for how Apple could spend the $159 billion in cash it has on hand.]]></description>
+      <wfw:commentRss>http://bits.blogs.nytimes.com/2014/04/09/readers-respond-where-should-apple-spend-its-billions/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <media:content url="http://graphics8.nytimes.com/images/2014/04/08/technology/bits-Apple/bits-Apple-thumbStandard.jpg" medium="image" width="75" height="75" />
+    </item>
+    <item>
+      <title>Daily Report: Samsung’s Earnings to Decline as Smartphone Sales Slow</title>
+      <link>http://bits.blogs.nytimes.com/2014/04/09/daily-report-samsungs-earnings-to-decline-as-smartphone-sales-slow/</link>
+      <comments>http://bits.blogs.nytimes.com/2014/04/09/daily-report-samsungs-earnings-to-decline-as-smartphone-sales-slow/#respond</comments>
+      <pubDate>Wed, 09 Apr 2014 11:48:28 +0000</pubDate>
+      <dc:creator>By THE NEW YORK TIMES</dc:creator>
+      <category><![CDATA[Mobile]]></category>
+      <category><![CDATA[Company Reports]]></category>
+      <category><![CDATA[Samsung Electronics Co]]></category>
+      <category><![CDATA[Smartphones]]></category>
+      <guid isPermaLink="false">http://bits.blogs.nytimes.com/2014/04/09/daily-report-samsungs-earnings-to-decline-as-smartphone-sales-slow/</guid>
+      <description><![CDATA[The global introduction of Samsung's new premium smartphone, the Galaxy S5, has been marred in its home market of South Korea and is facing mixed reviews. And now, profit and sales appear to be on the decline.]]></description>
+      <wfw:commentRss>http://bits.blogs.nytimes.com/2014/04/09/daily-report-samsungs-earnings-to-decline-as-smartphone-sales-slow/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <media:content url="http://graphics8.nytimes.com/images/2011/11/30/technology/bits-daily-report/bits-daily-report-thumbStandard.jpg" medium="image" width="75" height="75" />
+    </item>
+    <item>
+      <title>Hillary Clinton’s High-Tech Marketing Message</title>
+      <link>http://bits.blogs.nytimes.com/2014/04/08/hillary-clintons-high-tech-marketing-message/</link>
+      <comments>http://bits.blogs.nytimes.com/2014/04/08/hillary-clintons-high-tech-marketing-message/#respond</comments>
+      <pubDate>Wed, 09 Apr 2014 01:37:49 +0000</pubDate>
+      <dc:creator>By QUENTIN HARDY</dc:creator>
+      <category><![CDATA[Uncategorized]]></category>
+      <category><![CDATA[Clinton, Hillary Rodham]]></category>
+      <category><![CDATA[Marketo Inc]]></category>
+      <category><![CDATA[Presidential Election of 2016]]></category>
+      <category><![CDATA[Silicon Valley (Calif)]]></category>
+      <guid isPermaLink="false">http://bits.blogs.nytimes.com/2014/04/08/hillary-clintons-high-tech-marketing-message/</guid>
+      <description><![CDATA[The former Secretary of State and possible 2016 presidential candidate gave a speech to a high-tech marketing crowd that showed how brand and message work in politics as in commerce.]]></description>
+      <wfw:commentRss>http://bits.blogs.nytimes.com/2014/04/08/hillary-clintons-high-tech-marketing-message/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <media:content url="http://graphics8.nytimes.com/images/2014/04/08/technology/08bits-clinton/08bits-clinton-thumbStandard.jpg" medium="image" width="75" height="75" />
+    </item>
+    <item>
+      <title>Heartbleed Security Flaw Emphasizes the Need to Change Passwords</title>
+      <link>http://bits.blogs.nytimes.com/2014/04/08/security-flaw-emphasizes-the-need-to-change-passwords/</link>
+      <comments>http://bits.blogs.nytimes.com/2014/04/08/security-flaw-emphasizes-the-need-to-change-passwords/#respond</comments>
+      <pubDate>Wed, 09 Apr 2014 00:52:44 +0000</pubDate>
+      <dc:creator>By STEVE LOHR</dc:creator>
+      <category><![CDATA[Security]]></category>
+      <category><![CDATA[Computer Security]]></category>
+      <category><![CDATA[Computers and the Internet]]></category>
+      <category><![CDATA[Cyberattacks and Hackers]]></category>
+      <guid isPermaLink="false">http://bits.blogs.nytimes.com/2014/04/08/security-flaw-emphasizes-the-need-to-change-passwords/</guid>
+      <description><![CDATA[Immediately changing passwords after a breach could feed a new password into a website that has not fixed the flaw, a security consultant says.]]></description>
+      <wfw:commentRss>http://bits.blogs.nytimes.com/2014/04/08/security-flaw-emphasizes-the-need-to-change-passwords/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Experts Find a Door Ajar in an Internet Security Method Thought Safe</title>
+      <link>http://bits.blogs.nytimes.com/2014/04/08/flaw-found-in-key-method-for-protecting-data-on-the-internet/</link>
+      <comments>http://bits.blogs.nytimes.com/2014/04/08/flaw-found-in-key-method-for-protecting-data-on-the-internet/#respond</comments>
+      <pubDate>Tue, 08 Apr 2014 21:08:01 +0000</pubDate>
+      <dc:creator>By NICOLE PERLROTH</dc:creator>
+      <category><![CDATA[Security]]></category>
+      <category><![CDATA[Computer Security]]></category>
+      <guid isPermaLink="false">http://bits.blogs.nytimes.com/2014/04/08/flaw-found-in-key-method-for-protecting-data-on-the-internet/</guid>
+      <description><![CDATA[The tiny padlock next to web addresses that promised to protect sensitive information is broken, a team of security researchers has discovered. Experts are examining how best to secure their users’ confidential data.]]></description>
+      <wfw:commentRss>http://bits.blogs.nytimes.com/2014/04/08/flaw-found-in-key-method-for-protecting-data-on-the-internet/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Comcast Gives a Nod to a Future Apple Set-Top Box</title>
+      <link>http://bits.blogs.nytimes.com/2014/04/08/comcast-gives-a-nod-to-a-future-apple-set-top-box/</link>
+      <comments>http://bits.blogs.nytimes.com/2014/04/08/comcast-gives-a-nod-to-a-future-apple-set-top-box/#respond</comments>
+      <pubDate>Tue, 08 Apr 2014 18:32:05 +0000</pubDate>
+      <dc:creator>By BRIAN X. CHEN</dc:creator>
+      <category><![CDATA[Devices]]></category>
+      <category><![CDATA[Apple Inc]]></category>
+      <category><![CDATA[Comcast Corporation]]></category>
+      <category><![CDATA[Computers and the Internet]]></category>
+      <category><![CDATA[Mergers, Acquisitions and Divestitures]]></category>
+      <category><![CDATA[Television Sets]]></category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_org_all"><![CDATA[Apple Inc|AAPL|NASDAQ]]></category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_org_all"><![CDATA[Comcast Corporation|CMCSA|NASDAQ]]></category>
+      <guid isPermaLink="false">http://bits.blogs.nytimes.com/2014/04/08/comcast-gives-a-nod-to-a-future-apple-set-top-box/</guid>
+      <description><![CDATA[In papers relating to its proposed merger with Time Warner Cable, the company gives a nod to a future Apple set-top box, even though Apple hasn't introduced one yet.]]></description>
+      <wfw:commentRss>http://bits.blogs.nytimes.com/2014/04/08/comcast-gives-a-nod-to-a-future-apple-set-top-box/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <media:content url="http://graphics8.nytimes.com/images/2014/04/08/technology/08bits-comcast/08bits-comcast-thumbStandard.jpg" medium="image" width="75" height="75" />
+    </item>
+    <item>
+      <title>Twitter Gives a New Look to User Profiles</title>
+      <link>http://bits.blogs.nytimes.com/2014/04/08/twitter-gives-a-new-look-to-user-profiles/</link>
+      <comments>http://bits.blogs.nytimes.com/2014/04/08/twitter-gives-a-new-look-to-user-profiles/#respond</comments>
+      <pubDate>Tue, 08 Apr 2014 16:25:00 +0000</pubDate>
+      <dc:creator>By VINDU GOEL</dc:creator>
+      <category><![CDATA[Social]]></category>
+      <category><![CDATA[Social Media]]></category>
+      <category><![CDATA[Twitter]]></category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_org_all"><![CDATA[Twitter|TWTR|NYSE]]></category>
+      <guid isPermaLink="false">http://bits.blogs.nytimes.com/2014/04/08/twitter-gives-a-new-look-to-user-profiles/</guid>
+      <description><![CDATA[The social network, which is struggling with slowing growth, will automatically highlight a user's most popular tweets and allow customers to change their profile pages to highlight a favorite photo and favorite tweet.]]></description>
+      <wfw:commentRss>http://bits.blogs.nytimes.com/2014/04/08/twitter-gives-a-new-look-to-user-profiles/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <media:content url="http://graphics8.nytimes.com/images/2014/04/08/technology/08bits-twitter/08bits-twitter-thumbStandard.png" medium="image" width="75" height="75" />
+    </item>
+    <item>
+      <title>Crashing DJI’s New Drone Into Water and Land</title>
+      <link>http://bits.blogs.nytimes.com/2014/04/08/crashing-djis-new-drone-into-water-and-land/</link>
+      <comments>http://bits.blogs.nytimes.com/2014/04/08/crashing-djis-new-drone-into-water-and-land/#respond</comments>
+      <pubDate>Tue, 08 Apr 2014 16:05:25 +0000</pubDate>
+      <dc:creator>By NICK BILTON</dc:creator>
+      <category><![CDATA[Test Run]]></category>
+      <category><![CDATA[Cameras]]></category>
+      <category><![CDATA[Cheng, Eric]]></category>
+      <category><![CDATA[DJI Innovations]]></category>
+      <category><![CDATA[gopro]]></category>
+      <category><![CDATA[Gupta, Amit]]></category>
+      <category><![CDATA[Photography]]></category>
+      <guid isPermaLink="false">http://bits.blogs.nytimes.com/2014/04/08/crashing-djis-new-drone-into-water-and-land/</guid>
+      <description><![CDATA[While flying a drone is really difficult, when you finally get the hang of it you can take some gorgeous photos and videos.]]></description>
+      <wfw:commentRss>http://bits.blogs.nytimes.com/2014/04/08/crashing-djis-new-drone-into-water-and-land/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <media:content url="http://graphics8.nytimes.com/images/2014/04/07/multimedia/bilton-drone/bilton-drone-thumbStandard.jpg" medium="image" width="75" height="75" />
+    </item>
+    <item>
+      <title>Daily Report: The Spy in the Soda Machine</title>
+      <link>http://bits.blogs.nytimes.com/2014/04/08/daily-report-the-spy-in-the-soda-machine/</link>
+      <comments>http://bits.blogs.nytimes.com/2014/04/08/daily-report-the-spy-in-the-soda-machine/#respond</comments>
+      <pubDate>Tue, 08 Apr 2014 11:16:51 +0000</pubDate>
+      <dc:creator>By THE NEW YORK TIMES</dc:creator>
+      <category><![CDATA[Security]]></category>
+      <category><![CDATA[Computer Security]]></category>
+      <category><![CDATA[Cyberattacks and Hackers]]></category>
+      <guid isPermaLink="false">http://bits.blogs.nytimes.com/2014/04/08/daily-report-the-spy-in-the-soda-machine/</guid>
+      <description><![CDATA[Companies are finding that their greatest cybersecurity threats can hide in third-party systems, like networked air-conditioning equipment.]]></description>
+      <wfw:commentRss>http://bits.blogs.nytimes.com/2014/04/08/daily-report-the-spy-in-the-soda-machine/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <media:content url="http://graphics8.nytimes.com/images/2011/11/30/technology/bits-daily-report/bits-daily-report-thumbStandard.jpg" medium="image" width="75" height="75" />
+    </item>
+    <item>
+      <title>Email From Steve Jobs Hints at How Apple Ticks</title>
+      <link>http://bits.blogs.nytimes.com/2014/04/07/email-from-steve-jobs-hints-at-how-apple-ticks/</link>
+      <comments>http://bits.blogs.nytimes.com/2014/04/07/email-from-steve-jobs-hints-at-how-apple-ticks/#respond</comments>
+      <pubDate>Mon, 07 Apr 2014 21:18:56 +0000</pubDate>
+      <dc:creator>By BRIAN X. CHEN</dc:creator>
+      <category><![CDATA[Devices]]></category>
+      <category><![CDATA[Apple Inc]]></category>
+      <category><![CDATA[Computers and the Internet]]></category>
+      <category><![CDATA[Jobs, Steven P]]></category>
+      <category><![CDATA[Samsung Electronics Co]]></category>
+      <category><![CDATA[Suits and Litigation (Civil)]]></category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_org_all"><![CDATA[Apple Inc|AAPL|NASDAQ]]></category>
+      <guid isPermaLink="false">http://bits.blogs.nytimes.com/2014/04/07/email-from-steve-jobs-hints-at-how-apple-ticks/</guid>
+      <description><![CDATA[A 2010 email written by Steven P. Jobs, which Samsung lawyers obtained as evidence to present to jurors, provides an outline that provides several tidbits about how Apple ticks.]]></description>
+      <wfw:commentRss>http://bits.blogs.nytimes.com/2014/04/07/email-from-steve-jobs-hints-at-how-apple-ticks/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <media:content url="http://graphics8.nytimes.com/images/2014/04/07/technology/07bits-jobs/07bits-jobs-thumbStandard.jpg" medium="image" width="75" height="75" />
+    </item>
+    <item>
+      <title>Daily Report: Gravity Hits Highflying Tech Stocks</title>
+      <link>http://bits.blogs.nytimes.com/2014/04/07/daily-report-gravity-hits-highflying-tech-stocks/</link>
+      <comments>http://bits.blogs.nytimes.com/2014/04/07/daily-report-gravity-hits-highflying-tech-stocks/#respond</comments>
+      <pubDate>Mon, 07 Apr 2014 11:31:28 +0000</pubDate>
+      <dc:creator>By THE NEW YORK TIMES</dc:creator>
+      <category><![CDATA[Uncategorized]]></category>
+      <category><![CDATA[biotechnology]]></category>
+      <category><![CDATA[Stocks and Bonds]]></category>
+      <guid isPermaLink="false">http://bits.blogs.nytimes.com/2014/04/07/daily-report-gravity-hits-highflying-tech-stocks/</guid>
+      <description><![CDATA[A turnaround for highflying tech and biotech stocks like Tesla, NXP Semiconductor and Alexion signals that the time to chase eye-popping growth may be over.]]></description>
+      <wfw:commentRss>http://bits.blogs.nytimes.com/2014/04/07/daily-report-gravity-hits-highflying-tech-stocks/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <media:content url="http://graphics8.nytimes.com/images/2011/11/30/technology/bits-daily-report/bits-daily-report-thumbStandard.jpg" medium="image" width="75" height="75" />
+    </item>
+    <item>
+      <title>The Big Data Challenge to Legacy Data Management Companies</title>
+      <link>http://bits.blogs.nytimes.com/2014/04/07/the-big-data-challenge-to-legacy-data-management-companies/</link>
+      <comments>http://bits.blogs.nytimes.com/2014/04/07/the-big-data-challenge-to-legacy-data-management-companies/#respond</comments>
+      <pubDate>Mon, 07 Apr 2014 08:00:52 +0000</pubDate>
+      <dc:creator>By STEVE LOHR</dc:creator>
+      <category><![CDATA[Big Data]]></category>
+      <category><![CDATA[Cloudera]]></category>
+      <category><![CDATA[data storage]]></category>
+      <category><![CDATA[International Business Machines Corporation]]></category>
+      <category><![CDATA[Prague (Czech Republic)]]></category>
+      <category><![CDATA[Teradata Corp]]></category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_org_all"><![CDATA[International Business Machines Corporation|IBM|NYSE]]></category>
+      <guid isPermaLink="false">http://bits.blogs.nytimes.com/2014/04/07/the-big-data-challenge-to-legacy-data-management-companies/</guid>
+      <description><![CDATA[The challenge of big data software tools to traditional data software companies is not that the new technology will be a direct replacement for the old. But big-data software like Hadoop is a formidable threat to the economics of incumbents. A look at Teradata, a leader in data warehouse software, and its announcements this week, shows the challenge and how an incumbent is responding.]]></description>
+      <wfw:commentRss>http://bits.blogs.nytimes.com/2014/04/07/the-big-data-challenge-to-legacy-data-management-companies/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <media:content url="http://graphics8.nytimes.com/images/2014/04/07/technology/07bits-bigdata-mainframe/07bits-bigdata-mainframe-thumbStandard-v2.jpg" medium="image" width="75" height="75" />
+    </item>
+    <item>
+      <title>Apple’s Deep Pockets: What $159 Billion Could Do</title>
+      <link>http://bits.blogs.nytimes.com/2014/04/06/apples-deep-pockets-what-159-billion-could-do/</link>
+      <comments>http://bits.blogs.nytimes.com/2014/04/06/apples-deep-pockets-what-159-billion-could-do/#respond</comments>
+      <pubDate>Sun, 06 Apr 2014 15:00:57 +0000</pubDate>
+      <dc:creator>By NICK BILTON</dc:creator>
+      <category><![CDATA[Disruptions]]></category>
+      <category><![CDATA[Apple Inc]]></category>
+      <category><![CDATA[Mergers, Acquisitions and Divestitures]]></category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_org_all"><![CDATA[Apple Inc|AAPL|NASDAQ]]></category>
+      <guid isPermaLink="false">http://bits.blogs.nytimes.com/2014/04/06/apples-deep-pockets-what-159-billion-could-do/</guid>
+      <description><![CDATA[The maker of iPads and iPhones has a problem that anyone would like to have: What to do with a vast amount of cash.]]></description>
+      <wfw:commentRss>http://bits.blogs.nytimes.com/2014/04/06/apples-deep-pockets-what-159-billion-could-do/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <media:content url="http://graphics8.nytimes.com/images/2014/04/07/business/07bits-disrupt/07bits-disrupt-thumbStandard.jpg" medium="image" width="75" height="75" />
+    </item>
+  </channel>
+</rss>

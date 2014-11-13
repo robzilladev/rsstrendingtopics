@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='http://rss.nytimes.com/xsl/eng/rss.xsl'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" version="2.0">
+  <channel>
+    <atom:link href="http://www.nytimes.com/services/xml/rss/nyt/Technology.xml" rel="self" type="application/rss+xml" />
+    <title>NYT &gt; Technology</title>
+    <link>http://www.nytimes.com/pages/technology/index.html?partner=rss&amp;emc=rss</link>
+    <description>Technology</description>
+    <language>en-us</language>
+    <copyright>Copyright 2014 The New York Times Company</copyright>
+    <pubDate>Wed, 09 Apr 2014 23:03:27 GMT</pubDate>
+    <lastBuildDate>Wed, 09 Apr 2014 23:03:27 GMT</lastBuildDate>
+    <ttl>2</ttl>
+    <image>
+      <title>NYT &gt; Technology</title>
+      <url>http://graphics8.nytimes.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>http://www.nytimes.com/pages/technology/index.html?partner=rss&amp;emc=rss</link>
+    </image>
+    <item>
+      <atom:link href="http://bits.blogs.nytimes.com/2014/04/09/qa-on-heartbleed-a-flaw-missed-by-the-masses/?partner=rss&amp;emc=rss" rel="standout" />
+      <title>Bits Blog: Q. and A. on Heartbleed, a Flaw Missed by the Masses</title>
+      <link>http://rss.nytimes.com/c/34625/f/640387/s/392dfa89/sc/21/l/0Lbits0Bblogs0Bnytimes0N0C20A140C0A40C0A90Cqa0Eon0Eheartbleed0Ea0Eflaw0Emissed0Eby0Ethe0Emasses0C0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+      <description>The chief technology officer for Elastica, a cloud security firm, helped explain the security flaw and open-source software, and offered suggestions for how consumers can protect themselves.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640387/s/392dfa89/sc/21/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/194479977384/u/89/f/640387/c/34625/s/392dfa89/sc/21/rc/1/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/194479977384/u/89/f/640387/c/34625/s/392dfa89/sc/21/rc/1/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/194479977384/u/89/f/640387/c/34625/s/392dfa89/sc/21/rc/2/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/194479977384/u/89/f/640387/c/34625/s/392dfa89/sc/21/rc/2/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/194479977384/u/89/f/640387/c/34625/s/392dfa89/sc/21/rc/3/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/194479977384/u/89/f/640387/c/34625/s/392dfa89/sc/21/rc/3/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/194479977384/u/89/f/640387/c/34625/s/392dfa89/sc/21/a2.htm"&gt;&lt;img src="http://da.feedsportal.com/r/194479977384/u/89/f/640387/c/34625/s/392dfa89/sc/21/a2.img" border="0"/&gt;&lt;/a&gt;&lt;img width="1" height="1" src="http://pi.feedsportal.com/r/194479977384/u/89/f/640387/c/34625/s/392dfa89/sc/21/a2t.img" border="0"/&gt;</description>
+      <category domain="http://www.nytimes.com/namespaces/">Elastica</category>
+      <category domain="http://www.nytimes.com/namespaces/">Computer Security</category>
+      <category domain="http://www.nytimes.com/namespaces/">Ramzan, Zulfikar</category>
+      <category domain="http://www.nytimes.com/namespaces/">Cyberattacks and Hackers</category>
+      <category domain="http://www.nytimes.com/namespaces/">Open-Source Software</category>
+      <category domain="http://www.nytimes.com/namespaces/">Security</category>
+      <category domain="http://www.nytimes.com/namespaces/">Computers and the Internet</category>
+      <pubDate>Wed, 09 Apr 2014 22:46:11 GMT</pubDate>
+      <guid isPermaLink="false">http://bits.blogs.nytimes.com/2014/04/09/qa-on-heartbleed-a-flaw-missed-by-the-masses/</guid>
+      <dc:creator>By BRIAN X. CHEN</dc:creator>
+      <media:credit scheme="urn:ebu" />
+      <media:description>Zulfikar Ramzan, the chief technology officer for Elastica, diagrammed how the Heartbleed bug worked and how hackers may try to exploit it.</media:description>
+      <media:content height="151" lang="" width="151" url="http://graphics8.nytimes.com/images/2014/04/09/technology/09bits-elastica/09bits-elastica-moth.jpg" />
+    </item>
+    <item>
+      <atom:link href="http://bits.blogs.nytimes.com/2014/04/09/with-declines-slowing-pc-sales-still-struggle/?partner=rss&amp;emc=rss" rel="standout" />
+      <title>Bits Blog: With Declines Slowing, PC Sales Still Struggle</title>
+      <link>http://rss.nytimes.com/c/34625/f/640387/s/392f0169/sc/15/l/0Lbits0Bblogs0Bnytimes0N0C20A140C0A40C0A90Cwith0Edeclines0Eslowing0Epc0Esales0Estill0Estruggle0C0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+      <description>Reports from IDC and Gartner, two technology market research firms, showed no sign of a rebound for the PC, which has lost sales to tablets, especially among consumers.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640387/s/392f0169/sc/15/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;</description>
+      <category domain="http://www.nytimes.com/namespaces/">IDC Data Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/">Gartner Inc|IT|NYSE</category>
+      <category domain="http://www.nytimes.com/namespaces/">Gartner Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/">Computers and the Internet</category>
+      <pubDate>Wed, 09 Apr 2014 21:06:54 GMT</pubDate>
+      <guid isPermaLink="false">http://bits.blogs.nytimes.com/2014/04/09/with-declines-slowing-pc-sales-still-struggle/</guid>
+      <dc:creator>By NICK WINGFIELD</dc:creator>
+      <media:credit scheme="urn:ebu">Yuya Shino/Reuters</media:credit>
+      <media:description>Sony laptops on sale at a store in Tokyo in February. Microsoft's decision to end support for the Windows XP operating system spurred more customers to replace their aging PCs, especially in Japan, Gartner and IDC said.</media:description>
+      <media:content height="151" lang="" width="151" url="http://graphics8.nytimes.com/images/2014/04/09/technology/09bits-pc/09bits-pc-moth.jpg" />
+    </item>
+    <item>
+      <atom:link href="http://www.nytimes.com/2014/04/10/technology/personaltech/the-many-alternative-computing-worlds-of-linux.html?partner=rss&amp;emc=rss" rel="standout" />
+      <title>Gadgetwise: The Many Alternative Computing Worlds of Linux</title>
+      <link>http://rss.nytimes.com/c/34625/f/640387/s/392e260b/sc/4/l/0L0Snytimes0N0C20A140C0A40C10A0Ctechnology0Cpersonaltech0Cthe0Emany0Ealternative0Ecomputing0Eworlds0Eof0Elinux0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+      <description>An alternative to Windows or OS X, the open-source operating system comes in a number of varieties, ranging from the familiar to the technical.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640387/s/392e260b/sc/4/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/194479925925/u/89/f/640387/c/34625/s/392e260b/sc/4/rc/1/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/194479925925/u/89/f/640387/c/34625/s/392e260b/sc/4/rc/1/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/194479925925/u/89/f/640387/c/34625/s/392e260b/sc/4/rc/2/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/194479925925/u/89/f/640387/c/34625/s/392e260b/sc/4/rc/2/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/194479925925/u/89/f/640387/c/34625/s/392e260b/sc/4/rc/3/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/194479925925/u/89/f/640387/c/34625/s/392e260b/sc/4/rc/3/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/194479925925/u/89/f/640387/c/34625/s/392e260b/sc/4/a2.htm"&gt;&lt;img src="http://da.feedsportal.com/r/194479925925/u/89/f/640387/c/34625/s/392e260b/sc/4/a2.img" border="0"/&gt;&lt;/a&gt;&lt;img width="1" height="1" src="http://pi.feedsportal.com/r/194479925925/u/89/f/640387/c/34625/s/392e260b/sc/4/a2t.img" border="0"/&gt;</description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Red Hat Inc|RHT|NYSE</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">VMware Inc|VMW|NYSE</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Linux (Operating System)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Open-Source Software</category>
+      <pubDate>Wed, 09 Apr 2014 20:50:56 GMT</pubDate>
+      <guid isPermaLink="false">http://www.nytimes.com/2014/04/10/technology/personaltech/the-many-alternative-computing-worlds-of-linux.html</guid>
+      <dc:creator>By THOMAS J. FITZGERALD</dc:creator>
+    </item>
+    <item>
+      <atom:link href="http://www.nytimes.com/2014/04/10/fashion/fashion-in-the-age-of-instagram.html?partner=rss&amp;emc=rss" rel="standout" />
+      <title>Fashion in the Age of Instagram</title>
+      <link>http://rss.nytimes.com/c/34625/f/640387/s/392e8c77/sc/4/l/0L0Snytimes0N0C20A140C0A40C10A0Cfashion0Cfashion0Ein0Ethe0Eage0Eof0Einstagram0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+      <description>The photo-sharing app has changed the way fashion is made, seen and shared.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640387/s/392e8c77/sc/4/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/194479947778/u/89/f/640387/c/34625/s/392e8c77/sc/4/rc/1/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/194479947778/u/89/f/640387/c/34625/s/392e8c77/sc/4/rc/1/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/194479947778/u/89/f/640387/c/34625/s/392e8c77/sc/4/rc/2/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/194479947778/u/89/f/640387/c/34625/s/392e8c77/sc/4/rc/2/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/194479947778/u/89/f/640387/c/34625/s/392e8c77/sc/4/rc/3/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/194479947778/u/89/f/640387/c/34625/s/392e8c77/sc/4/rc/3/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/194479947778/u/89/f/640387/c/34625/s/392e8c77/sc/4/a2.htm"&gt;&lt;img src="http://da.feedsportal.com/r/194479947778/u/89/f/640387/c/34625/s/392e8c77/sc/4/a2.img" border="0"/&gt;&lt;/a&gt;&lt;img width="1" height="1" src="http://pi.feedsportal.com/r/194479947778/u/89/f/640387/c/34625/s/392e8c77/sc/4/a2t.img" border="0"/&gt;</description>
+      <category domain="http://www.nytimes.com/namespaces/nyt_org_all">Costco Wholesale Corporation|COST|NASDAQ</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Photography</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Design</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Instagram Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fashion and Apparel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Smartphones</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fashion Shows</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <pubDate>Wed, 09 Apr 2014 20:24:46 GMT</pubDate>
+      <guid isPermaLink="false">http://www.nytimes.com/2014/04/10/fashion/fashion-in-the-age-of-instagram.html</guid>
+      <dc:creator>By MATTHEW SCHNEIER</dc:creator>
+      <media:credit scheme="urn:ebu">Phil Knott</media:credit>
+      <media:description>To produce a video of its fall 2014 show relying solely on images captured on the iPhone 5, Edun borrowed 20 smartphones. Hardly an eyebrow was raised.</media:description>
+      <media:content height="151" lang="" width="151" url="http://graphics8.nytimes.com/images/2014/04/10/fashion/10INSTAGRAM/10zINSTAGRAM-moth.jpg" />
+    </item>
+    <item>
+      <atom:link href="http://www.nytimes.com/2014/04/10/business/media/senate-committee-begins-its-review-of-comcast-deal.html?partner=rss&amp;emc=rss" rel="standout" />
+      <title>Senate Committee Begins Its Review of Comcast Deal</title>
+      <link>http://rss.nytimes.com/c/34625/f/640387/s/392d64d4/sc/1/l/0L0Snytimes0N0C20A140C0A40C10A0Cbusiness0Cmedia0Csenate0Ecommittee0Ebegins0Eits0Ereview0Eof0Ecomcast0Edeal0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+      <description>The judiciary panel expressed concern over higher costs for consumers if a merger with Time Warner Cable were approved, but a Comcast executive downplayed the likelihood.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640387/s/392d64d4/sc/1/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/194479977584/u/89/f/640387/c/34625/s/392d64d4/sc/1/rc/1/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/194479977584/u/89/f/640387/c/34625/s/392d64d4/sc/1/rc/1/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/194479977584/u/89/f/640387/c/34625/s/392d64d4/sc/1/rc/2/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/194479977584/u/89/f/640387/c/34625/s/392d64d4/sc/1/rc/2/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/194479977584/u/89/f/640387/c/34625/s/392d64d4/sc/1/rc/3/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/194479977584/u/89/f/640387/c/34625/s/392d64d4/sc/1/rc/3/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/194479977584/u/89/f/640387/c/34625/s/392d64d4/sc/1/a2.htm"&gt;&lt;img src="http://da.feedsportal.com/r/194479977584/u/89/f/640387/c/34625/s/392d64d4/sc/1/a2.img" border="0"/&gt;&lt;/a&gt;&lt;img width="1" height="1" src="http://pi.feedsportal.com/r/194479977584/u/89/f/640387/c/34625/s/392d64d4/sc/1/a2t.img" border="0"/&gt;</description>
+      <category domain="http://www.nytimes.com/namespaces/nyt_org_all">Time Warner Cable Inc|TWC|NYSE</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Antitrust Laws and Competition Issues</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_org_all">Google Inc|GOOGL|NASDAQ</category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_org_all">Comcast Corporation|CMCSA|NASDAQ</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Cable Television</category>
+      <pubDate>Wed, 09 Apr 2014 19:52:03 GMT</pubDate>
+      <guid isPermaLink="false">http://www.nytimes.com/2014/04/10/business/media/senate-committee-begins-its-review-of-comcast-deal.html</guid>
+      <dc:creator>By EDWARD WYATT</dc:creator>
+    </item>
+    <item>
+      <atom:link href="http://www.nytimes.com/2014/04/10/technology/personaltech/review-eerie-and-interesting-apps-for-games-and-amusement.html?partner=rss&amp;emc=rss" rel="standout" />
+      <title>App Smart: Review: Eerie and Interesting Apps for Games and Amusement</title>
+      <link>http://rss.nytimes.com/c/34625/f/640387/s/392d646f/sc/15/l/0L0Snytimes0N0C20A140C0A40C10A0Ctechnology0Cpersonaltech0Creview0Eeerie0Eand0Einteresting0Eapps0Efor0Egames0Eand0Eamusement0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+      <description>Apps that offer little in the way of information, advice or solutions, but much in the way of oddity and fascination.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640387/s/392d646f/sc/15/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/194479975903/u/89/f/640387/c/34625/s/392d646f/sc/15/rc/1/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/194479975903/u/89/f/640387/c/34625/s/392d646f/sc/15/rc/1/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/194479975903/u/89/f/640387/c/34625/s/392d646f/sc/15/rc/2/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/194479975903/u/89/f/640387/c/34625/s/392d646f/sc/15/rc/2/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/194479975903/u/89/f/640387/c/34625/s/392d646f/sc/15/rc/3/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/194479975903/u/89/f/640387/c/34625/s/392d646f/sc/15/rc/3/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/194479975903/u/89/f/640387/c/34625/s/392d646f/sc/15/a2.htm"&gt;&lt;img src="http://da.feedsportal.com/r/194479975903/u/89/f/640387/c/34625/s/392d646f/sc/15/a2.img" border="0"/&gt;&lt;/a&gt;&lt;img width="1" height="1" src="http://pi.feedsportal.com/r/194479975903/u/89/f/640387/c/34625/s/392d646f/sc/15/a2t.img" border="0"/&gt;</description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">3-D Devices and Effects</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_org_all">Apple Inc|AAPL|NASDAQ</category>
+      <pubDate>Wed, 09 Apr 2014 18:34:17 GMT</pubDate>
+      <guid isPermaLink="false">http://www.nytimes.com/2014/04/10/technology/personaltech/review-eerie-and-interesting-apps-for-games-and-amusement.html</guid>
+      <dc:creator>By KIT EATON</dc:creator>
+    </item>
+    <item>
+      <atom:link href="http://dealbook.nytimes.com/2014/04/09/go-daddy-said-to-pick-morgan-stanley-and-jpmorgan-for-i-p-o/?partner=rss&amp;emc=rss" rel="standout" />
+      <title>DealBook: Go Daddy Said to Pick Morgan Stanley and JPMorgan for I.P.O.</title>
+      <link>http://rss.nytimes.com/c/34625/f/640387/s/392d6471/sc/36/l/0Ldealbook0Bnytimes0N0C20A140C0A40C0A90Cgo0Edaddy0Esaid0Eto0Epick0Emorgan0Estanley0Eand0Ejpmorgan0Efor0Ei0Ep0Eo0C0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+      <description>The Internet registrar has hired the two banks to coordinate its initial public offering, though it isn’t clear yet how much money the company plans to raise in an I.P.O.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640387/s/392d6471/sc/36/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/194479975901/u/89/f/640387/c/34625/s/392d6471/sc/36/rc/1/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/194479975901/u/89/f/640387/c/34625/s/392d6471/sc/36/rc/1/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/194479975901/u/89/f/640387/c/34625/s/392d6471/sc/36/rc/2/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/194479975901/u/89/f/640387/c/34625/s/392d6471/sc/36/rc/2/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/194479975901/u/89/f/640387/c/34625/s/392d6471/sc/36/rc/3/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/194479975901/u/89/f/640387/c/34625/s/392d6471/sc/36/rc/3/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/194479975901/u/89/f/640387/c/34625/s/392d6471/sc/36/a2.htm"&gt;&lt;img src="http://da.feedsportal.com/r/194479975901/u/89/f/640387/c/34625/s/392d6471/sc/36/a2.img" border="0"/&gt;&lt;/a&gt;&lt;img width="1" height="1" src="http://pi.feedsportal.com/r/194479975901/u/89/f/640387/c/34625/s/392d6471/sc/36/a2t.img" border="0"/&gt;</description>
+      <category domain="http://www.nytimes.com/namespaces/">Silver Lake Partners</category>
+      <category domain="http://www.nytimes.com/namespaces/">Go Daddy Group</category>
+      <category domain="http://www.nytimes.com/namespaces/">JPMorgan Chase &amp; Company|JPM|NYSE</category>
+      <category domain="http://www.nytimes.com/namespaces/">Morgan Stanley</category>
+      <category domain="http://www.nytimes.com/namespaces/">Technology</category>
+      <category domain="http://www.nytimes.com/namespaces/">Private Equity</category>
+      <category domain="http://www.nytimes.com/namespaces/">JPMorgan Chase &amp; Company</category>
+      <category domain="http://www.nytimes.com/namespaces/">Kohlberg Kravis Roberts &amp; Co</category>
+      <category domain="http://www.nytimes.com/namespaces/">Irving, Blake</category>
+      <category domain="http://www.nytimes.com/namespaces/">I.P.O./Offerings</category>
+      <category domain="http://www.nytimes.com/namespaces/">Initial Public Offerings</category>
+      <category domain="http://www.nytimes.com/namespaces/">Morgan Stanley|MS|NYSE</category>
+      <pubDate>Wed, 09 Apr 2014 17:21:24 GMT</pubDate>
+      <guid isPermaLink="false">http://dealbook.nytimes.com/2014/04/09/go-daddy-said-to-pick-morgan-stanley-and-jpmorgan-for-i-p-o/</guid>
+      <dc:creator>By MICHAEL J. DE LA MERCED</dc:creator>
+      <media:credit scheme="urn:ebu">GoDaddy.com, via Associated Press</media:credit>
+      <media:description>A recent GoDaddy.com ad featuring the Nascar driver Danica Patrick.</media:description>
+      <media:content height="151" lang="" width="151" url="http://graphics8.nytimes.com/images/2014/04/10/business/dbpix-go-daddy/dbpix-go-daddy-moth.jpg" />
+    </item>
+    <item>
+      <atom:link href="http://dealbook.nytimes.com/2014/04/09/question-and-answer-site-quora-raises-80-million/?partner=rss&amp;emc=rss" rel="standout" />
+      <title>DealBook: Question-and-Answer Site Quora Raises $80 Million</title>
+      <link>http://rss.nytimes.com/c/34625/f/640387/s/392b572c/sc/21/l/0Ldealbook0Bnytimes0N0C20A140C0A40C0A90Cquestion0Eand0Eanswer0Esite0Equora0Eraises0E80A0Emillion0C0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+      <description>Quora, a site that specializes in posting questions and answers from users, has raised $80 million from Tiger Global Management and four existing Quora investors.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640387/s/392b572c/sc/21/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/194479934385/u/89/f/640387/c/34625/s/392b572c/sc/21/rc/1/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/194479934385/u/89/f/640387/c/34625/s/392b572c/sc/21/rc/1/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/194479934385/u/89/f/640387/c/34625/s/392b572c/sc/21/rc/2/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/194479934385/u/89/f/640387/c/34625/s/392b572c/sc/21/rc/2/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/194479934385/u/89/f/640387/c/34625/s/392b572c/sc/21/rc/3/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/194479934385/u/89/f/640387/c/34625/s/392b572c/sc/21/rc/3/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/194479934385/u/89/f/640387/c/34625/s/392b572c/sc/21/a2.htm"&gt;&lt;img src="http://da.feedsportal.com/r/194479934385/u/89/f/640387/c/34625/s/392b572c/sc/21/a2.img" border="0"/&gt;&lt;/a&gt;&lt;img width="1" height="1" src="http://pi.feedsportal.com/r/194479934385/u/89/f/640387/c/34625/s/392b572c/sc/21/a2t.img" border="0"/&gt;</description>
+      <category domain="http://www.nytimes.com/namespaces/">Investment Banking</category>
+      <category domain="http://www.nytimes.com/namespaces/">Quora.com</category>
+      <category domain="http://www.nytimes.com/namespaces/">Top Headline 2</category>
+      <category domain="http://www.nytimes.com/namespaces/">Venture Capital</category>
+      <category domain="http://www.nytimes.com/namespaces/">Technology</category>
+      <category domain="http://www.nytimes.com/namespaces/">Tiger Global Management LLC</category>
+      <pubDate>Wed, 09 Apr 2014 17:10:33 GMT</pubDate>
+      <guid isPermaLink="false">http://dealbook.nytimes.com/2014/04/09/question-and-answer-site-quora-raises-80-million/</guid>
+      <dc:creator>By DAVID GELLES</dc:creator>
+      <media:credit scheme="urn:ebu" />
+      <media:description>From left, Marc Bodnick, who leads Quora’s business and community teams, with Adam D'Angelo and Charlie Cheever, the company's founders.</media:description>
+      <media:content height="151" lang="" width="151" url="http://graphics8.nytimes.com/images/2014/04/10/business/dbpix-quora/dbpix-quora-moth.jpg" />
+    </item>
+    <item>
+      <atom:link href="http://bits.blogs.nytimes.com/2014/04/08/hillary-clintons-high-tech-marketing-message/?partner=rss&amp;emc=rss" rel="standout" />
+      <title>Bits Blog: Hillary Clinton’s High-Tech Marketing Message</title>
+      <link>http://rss.nytimes.com/c/34625/f/640387/s/39257d79/sc/30/l/0Lbits0Bblogs0Bnytimes0N0C20A140C0A40C0A80Chillary0Eclintons0Ehigh0Etech0Emarketing0Emessage0C0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+      <description>The former Secretary of State and possible 2016 presidential candidate gave a speech to a high-tech marketing crowd that showed how brand and message work in politics as in commerce.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640387/s/39257d79/sc/30/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;</description>
+      <category domain="http://www.nytimes.com/namespaces/">Presidential Election of 2016</category>
+      <category domain="http://www.nytimes.com/namespaces/">Clinton, Hillary Rodham</category>
+      <category domain="http://www.nytimes.com/namespaces/">Silicon Valley (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/">Marketo Inc</category>
+      <pubDate>Wed, 09 Apr 2014 16:57:34 GMT</pubDate>
+      <guid isPermaLink="false">http://bits.blogs.nytimes.com/2014/04/08/hillary-clintons-high-tech-marketing-message/</guid>
+      <dc:creator>By QUENTIN HARDY</dc:creator>
+      <media:credit scheme="urn:ebu">Ben Margot/Associated Press</media:credit>
+      <media:description>Hillary Rodham Clinton on Tuesday. Social media “is not a substitute for real-life action,” she said.</media:description>
+      <media:content height="151" lang="" width="151" url="http://graphics8.nytimes.com/images/2014/04/08/technology/08bits-clinton/08bits-clinton-moth.jpg" />
+    </item>
+    <item>
+      <atom:link href="http://bits.blogs.nytimes.com/2014/04/08/twitter-gives-a-new-look-to-user-profiles/?partner=rss&amp;emc=rss" rel="standout" />
+      <title>Bits Blog: Twitter Gives a New Look to User Profiles</title>
+      <link>http://rss.nytimes.com/c/34625/f/640387/s/39216fe2/sc/4/l/0Lbits0Bblogs0Bnytimes0N0C20A140C0A40C0A80Ctwitter0Egives0Ea0Enew0Elook0Eto0Euser0Eprofiles0C0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+      <description>The social network, which is struggling with slowing growth, will automatically highlight a user’s most popular tweets and allow customers to customize their profiles more.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640387/s/39216fe2/sc/4/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/194479888119/u/89/f/640387/c/34625/s/39216fe2/sc/4/rc/1/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/194479888119/u/89/f/640387/c/34625/s/39216fe2/sc/4/rc/1/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/194479888119/u/89/f/640387/c/34625/s/39216fe2/sc/4/rc/2/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/194479888119/u/89/f/640387/c/34625/s/39216fe2/sc/4/rc/2/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/194479888119/u/89/f/640387/c/34625/s/39216fe2/sc/4/rc/3/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/194479888119/u/89/f/640387/c/34625/s/39216fe2/sc/4/rc/3/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/194479888119/u/89/f/640387/c/34625/s/39216fe2/sc/4/a2.htm"&gt;&lt;img src="http://da.feedsportal.com/r/194479888119/u/89/f/640387/c/34625/s/39216fe2/sc/4/a2.img" border="0"/&gt;&lt;/a&gt;&lt;img width="1" height="1" src="http://pi.feedsportal.com/r/194479888119/u/89/f/640387/c/34625/s/39216fe2/sc/4/a2t.img" border="0"/&gt;</description>
+      <category domain="http://www.nytimes.com/namespaces/">Twitter|TWTR|NYSE</category>
+      <category domain="http://www.nytimes.com/namespaces/">Social</category>
+      <category domain="http://www.nytimes.com/namespaces/">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/">Twitter</category>
+      <pubDate>Wed, 09 Apr 2014 16:11:33 GMT</pubDate>
+      <guid isPermaLink="false">http://bits.blogs.nytimes.com/2014/04/08/twitter-gives-a-new-look-to-user-profiles/</guid>
+      <dc:creator>By VINDU GOEL</dc:creator>
+      <media:credit scheme="urn:ebu" />
+      <media:description>A screen shot of Michelle Obama's profile page with Twitter's redesign.</media:description>
+      <media:content height="151" lang="" width="151" url="http://graphics8.nytimes.com/images/2014/04/08/technology/08bits-twitter/08bits-twitter-moth.png" />
+    </item>
+    <item>
+      <atom:link href="http://dealbook.nytimes.com/2014/04/08/box-chief-invests-in-supply-chain-software-company/?partner=rss&amp;emc=rss" rel="standout" />
+      <title>DealBook: Box Chief Invests in Supply Chain Software Company</title>
+      <link>http://rss.nytimes.com/c/34625/f/640387/s/391e7441/sc/15/l/0Ldealbook0Bnytimes0N0C20A140C0A40C0A80Cbox0Echief0Einvests0Ein0Esupply0Echain0Esoftware0Ecompany0C0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+      <description>With ambitions of changing supply chain management, a start-up called Elementum has raised $5 million from technology entrepreneurs.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640387/s/391e7441/sc/15/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/194479861772/u/89/f/640387/c/34625/s/391e7441/sc/15/rc/1/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/194479861772/u/89/f/640387/c/34625/s/391e7441/sc/15/rc/1/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/194479861772/u/89/f/640387/c/34625/s/391e7441/sc/15/rc/2/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/194479861772/u/89/f/640387/c/34625/s/391e7441/sc/15/rc/2/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/194479861772/u/89/f/640387/c/34625/s/391e7441/sc/15/rc/3/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/194479861772/u/89/f/640387/c/34625/s/391e7441/sc/15/rc/3/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/194479861772/u/89/f/640387/c/34625/s/391e7441/sc/15/a2.htm"&gt;&lt;img src="http://da.feedsportal.com/r/194479861772/u/89/f/640387/c/34625/s/391e7441/sc/15/a2.img" border="0"/&gt;&lt;/a&gt;&lt;img width="1" height="1" src="http://pi.feedsportal.com/r/194479861772/u/89/f/640387/c/34625/s/391e7441/sc/15/a2t.img" border="0"/&gt;</description>
+      <category domain="http://www.nytimes.com/namespaces/">Workday Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/">Dyson</category>
+      <category domain="http://www.nytimes.com/namespaces/">Basic Materials</category>
+      <category domain="http://www.nytimes.com/namespaces/">Cloud Computing</category>
+      <category domain="http://www.nytimes.com/namespaces/">Technology</category>
+      <category domain="http://www.nytimes.com/namespaces/">Box Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/">I.P.O./Offerings</category>
+      <category domain="http://www.nytimes.com/namespaces/">Workday Inc|WDAY|NYSE</category>
+      <category domain="http://www.nytimes.com/namespaces/">Levie, Aaron W</category>
+      <category domain="http://www.nytimes.com/namespaces/">Computers and the Internet</category>
+      <pubDate>Wed, 09 Apr 2014 13:17:59 GMT</pubDate>
+      <guid isPermaLink="false">http://dealbook.nytimes.com/2014/04/08/box-chief-invests-in-supply-chain-software-company/</guid>
+      <dc:creator>By WILLIAM ALDEN</dc:creator>
+      <media:credit scheme="urn:ebu">Peter DaSilva for The New York Times</media:credit>
+      <media:description>Aaron Levie, the chief executive of Box.</media:description>
+      <media:content height="151" lang="" width="151" url="http://graphics8.nytimes.com/images/2014/04/09/business/dbpix-levie/dbpix-levie-moth-v2.jpg" />
+    </item>
+    <item>
+      <atom:link href="http://bits.blogs.nytimes.com/2014/04/09/readers-respond-where-should-apple-spend-its-billions/?partner=rss&amp;emc=rss" rel="standout" />
+      <title>Bits Blog: Readers Respond: How Should Apple Spend Its Billions?</title>
+      <link>http://rss.nytimes.com/c/34625/f/640387/s/392a84c1/sc/5/l/0Lbits0Bblogs0Bnytimes0N0C20A140C0A40C0A90Creaders0Erespond0Ewhere0Eshould0Eapple0Espend0Eits0Ebillions0C0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+      <description>Among the suggestions for what Apple should do with the $159 billion in cash it has on hand were building a television, paying more taxes and even curing cancer.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640387/s/392a84c1/sc/5/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/194479920049/u/89/f/640387/c/34625/s/392a84c1/sc/5/rc/1/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/194479920049/u/89/f/640387/c/34625/s/392a84c1/sc/5/rc/1/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/194479920049/u/89/f/640387/c/34625/s/392a84c1/sc/5/rc/2/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/194479920049/u/89/f/640387/c/34625/s/392a84c1/sc/5/rc/2/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/194479920049/u/89/f/640387/c/34625/s/392a84c1/sc/5/rc/3/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/194479920049/u/89/f/640387/c/34625/s/392a84c1/sc/5/rc/3/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/194479920049/u/89/f/640387/c/34625/s/392a84c1/sc/5/a2.htm"&gt;&lt;img src="http://da.feedsportal.com/r/194479920049/u/89/f/640387/c/34625/s/392a84c1/sc/5/a2.img" border="0"/&gt;&lt;/a&gt;&lt;img width="1" height="1" src="http://pi.feedsportal.com/r/194479920049/u/89/f/640387/c/34625/s/392a84c1/sc/5/a2t.img" border="0"/&gt;</description>
+      <category domain="http://www.nytimes.com/namespaces/">Corporate Taxes</category>
+      <category domain="http://www.nytimes.com/namespaces/">Apple Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/">Mergers, Acquisitions and Divestitures</category>
+      <category domain="http://www.nytimes.com/namespaces/">Apple Inc|AAPL|NASDAQ</category>
+      <pubDate>Wed, 09 Apr 2014 13:00:47 GMT</pubDate>
+      <guid isPermaLink="false">http://bits.blogs.nytimes.com/2014/04/09/readers-respond-where-should-apple-spend-its-billions/</guid>
+      <dc:creator>By NICK BILTON</dc:creator>
+      <media:credit scheme="urn:ebu">Justin Sullivan/Getty Images</media:credit>
+      <media:description>Apple is under pressure to return its cash holdings to investors, but readers say the company should pay taxes or invest in the future.</media:description>
+      <media:content height="151" lang="" width="151" url="http://graphics8.nytimes.com/images/2014/04/08/technology/bits-Apple/bits-Apple-moth-v2.jpg" />
+    </item>
+    <item>
+      <atom:link href="http://bits.blogs.nytimes.com/2014/04/08/flaw-found-in-key-method-for-protecting-data-on-the-internet/?partner=rss&amp;emc=rss" rel="standout" />
+      <title>Bits Blog: Experts Find a Door Ajar in an Internet Security Method Thought Safe</title>
+      <link>http://rss.nytimes.com/c/34625/f/640387/s/3923168b/sc/21/l/0Lbits0Bblogs0Bnytimes0N0C20A140C0A40C0A80Cflaw0Efound0Ein0Ekey0Emethod0Efor0Eprotecting0Edata0Eon0Ethe0Einternet0C0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+      <description>The software behind the tiny padlock next to web addresses that promised to protect sensitive data is broken, a team of security researchers has discovered.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640387/s/3923168b/sc/21/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/194479880418/u/89/f/640387/c/34625/s/3923168b/sc/21/rc/1/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/194479880418/u/89/f/640387/c/34625/s/3923168b/sc/21/rc/1/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/194479880418/u/89/f/640387/c/34625/s/3923168b/sc/21/rc/2/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/194479880418/u/89/f/640387/c/34625/s/3923168b/sc/21/rc/2/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/194479880418/u/89/f/640387/c/34625/s/3923168b/sc/21/rc/3/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/194479880418/u/89/f/640387/c/34625/s/3923168b/sc/21/rc/3/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/194479880418/u/89/f/640387/c/34625/s/3923168b/sc/21/a2.htm"&gt;&lt;img src="http://da.feedsportal.com/r/194479880418/u/89/f/640387/c/34625/s/3923168b/sc/21/a2.img" border="0"/&gt;&lt;/a&gt;&lt;img width="1" height="1" src="http://pi.feedsportal.com/r/194479880418/u/89/f/640387/c/34625/s/3923168b/sc/21/a2t.img" border="0"/&gt;</description>
+      <category domain="http://www.nytimes.com/namespaces/">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/">Finland</category>
+      <category domain="http://www.nytimes.com/namespaces/">Saratoga (NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/">Computer Security</category>
+      <category domain="http://www.nytimes.com/namespaces/">Tumblr</category>
+      <category domain="http://www.nytimes.com/namespaces/">Google Inc|GOOGL|NASDAQ</category>
+      <category domain="http://www.nytimes.com/namespaces/">Security</category>
+      <pubDate>Wed, 09 Apr 2014 12:30:42 GMT</pubDate>
+      <guid isPermaLink="false">http://bits.blogs.nytimes.com/2014/04/08/flaw-found-in-key-method-for-protecting-data-on-the-internet/</guid>
+      <dc:creator>By NICOLE PERLROTH</dc:creator>
+    </item>
+    <item>
+      <atom:link href="http://bits.blogs.nytimes.com/2014/04/08/security-flaw-emphasizes-the-need-to-change-passwords/?partner=rss&amp;emc=rss" rel="standout" />
+      <title>Bits Blog: Heartbleed Flaw Emphasizes the Need to Change Passwords — in a Bit</title>
+      <link>http://rss.nytimes.com/c/34625/f/640387/s/392999fe/sc/15/l/0Lbits0Bblogs0Bnytimes0N0C20A140C0A40C0A80Csecurity0Eflaw0Eemphasizes0Ethe0Eneed0Eto0Echange0Epasswords0C0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+      <description>Immediately changing passwords after a security breach could feed a new password into a website that has not fixed the flaw, a security consultant said.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640387/s/392999fe/sc/15/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/194479907760/u/89/f/640387/c/34625/s/392999fe/sc/15/rc/1/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/194479907760/u/89/f/640387/c/34625/s/392999fe/sc/15/rc/1/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/194479907760/u/89/f/640387/c/34625/s/392999fe/sc/15/rc/2/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/194479907760/u/89/f/640387/c/34625/s/392999fe/sc/15/rc/2/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/194479907760/u/89/f/640387/c/34625/s/392999fe/sc/15/rc/3/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/194479907760/u/89/f/640387/c/34625/s/392999fe/sc/15/rc/3/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/194479907760/u/89/f/640387/c/34625/s/392999fe/sc/15/a2.htm"&gt;&lt;img src="http://da.feedsportal.com/r/194479907760/u/89/f/640387/c/34625/s/392999fe/sc/15/a2.img" border="0"/&gt;&lt;/a&gt;&lt;img width="1" height="1" src="http://pi.feedsportal.com/r/194479907760/u/89/f/640387/c/34625/s/392999fe/sc/15/a2t.img" border="0"/&gt;</description>
+      <category domain="http://www.nytimes.com/namespaces/">Computer Security</category>
+      <category domain="http://www.nytimes.com/namespaces/">Cyberattacks and Hackers</category>
+      <category domain="http://www.nytimes.com/namespaces/">Security</category>
+      <category domain="http://www.nytimes.com/namespaces/">Computers and the Internet</category>
+      <pubDate>Wed, 09 Apr 2014 12:06:13 GMT</pubDate>
+      <guid isPermaLink="false">http://bits.blogs.nytimes.com/2014/04/08/security-flaw-emphasizes-the-need-to-change-passwords/</guid>
+      <dc:creator>By STEVE LOHR</dc:creator>
+    </item>
+    <item>
+      <atom:link href="http://bits.blogs.nytimes.com/2014/04/08/crashing-djis-new-drone-into-water-and-land/?partner=rss&amp;emc=rss" rel="standout" />
+      <title>Bits Test Run: Crashing DJI’s New Drone Into Water and Land</title>
+      <link>http://rss.nytimes.com/c/34625/f/640387/s/3920dc8b/sc/4/l/0Lbits0Bblogs0Bnytimes0N0C20A140C0A40C0A80Ccrashing0Edjis0Enew0Edrone0Einto0Ewater0Eand0Eland0C0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+      <description>While flying a drone is really difficult, when you finally get the hang of it you can take some gorgeous photos and videos.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640387/s/3920dc8b/sc/4/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/194479924213/u/89/f/640387/c/34625/s/3920dc8b/sc/4/rc/1/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/194479924213/u/89/f/640387/c/34625/s/3920dc8b/sc/4/rc/1/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/194479924213/u/89/f/640387/c/34625/s/3920dc8b/sc/4/rc/2/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/194479924213/u/89/f/640387/c/34625/s/3920dc8b/sc/4/rc/2/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/194479924213/u/89/f/640387/c/34625/s/3920dc8b/sc/4/rc/3/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/194479924213/u/89/f/640387/c/34625/s/3920dc8b/sc/4/rc/3/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/194479924213/u/89/f/640387/c/34625/s/3920dc8b/sc/4/a2.htm"&gt;&lt;img src="http://da.feedsportal.com/r/194479924213/u/89/f/640387/c/34625/s/3920dc8b/sc/4/a2.img" border="0"/&gt;&lt;/a&gt;&lt;img width="1" height="1" src="http://pi.feedsportal.com/r/194479924213/u/89/f/640387/c/34625/s/3920dc8b/sc/4/a2t.img" border="0"/&gt;</description>
+      <category domain="http://www.nytimes.com/namespaces/">Cameras</category>
+      <category domain="http://www.nytimes.com/namespaces/">Photography</category>
+      <category domain="http://www.nytimes.com/namespaces/">Test Run</category>
+      <category domain="http://www.nytimes.com/namespaces/">Gupta, Amit</category>
+      <category domain="http://www.nytimes.com/namespaces/">Cheng, Eric</category>
+      <category domain="http://www.nytimes.com/namespaces/">GoPro</category>
+      <category domain="http://www.nytimes.com/namespaces/">DJI Innovations</category>
+      <pubDate>Wed, 09 Apr 2014 04:06:36 GMT</pubDate>
+      <guid isPermaLink="false">http://bits.blogs.nytimes.com/2014/04/08/crashing-djis-new-drone-into-water-and-land/</guid>
+      <dc:creator>By NICK BILTON</dc:creator>
+      <media:credit scheme="urn:ebu">DJI</media:credit>
+      <media:description>The Phantom 2 Vision Plus has a new built-in camera that eliminates wobble in videos and can travel greater distances.</media:description>
+      <media:content height="151" lang="" width="151" url="http://graphics8.nytimes.com/images/2014/04/07/technology/bits-phantom/bits-phantom-moth.png" />
+    </item>
+    <item>
+      <atom:link href="http://www.nytimes.com/2014/04/09/business/international/european-court-rejects-data-retention-rules-citing-privacy.html?partner=rss&amp;emc=rss" rel="standout" />
+      <title>European Court Rejects Data Retention Rules, Citing Privacy</title>
+      <link>http://rss.nytimes.com/c/34625/f/640387/s/39248f2c/sc/7/l/0L0Snytimes0N0C20A140C0A40C0A90Cbusiness0Cinternational0Ceuropean0Ecourt0Erejects0Edata0Eretention0Erules0Eciting0Eprivacy0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+      <description>The ruling strikes down a law, enacted after 2006 terrorist attacks in London and Madrid, that required telecommunications companies to keep information about calls and emails.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640387/s/39248f2c/sc/7/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/194479893936/u/89/f/640387/c/34625/s/39248f2c/sc/7/rc/1/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/194479893936/u/89/f/640387/c/34625/s/39248f2c/sc/7/rc/1/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/194479893936/u/89/f/640387/c/34625/s/39248f2c/sc/7/rc/2/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/194479893936/u/89/f/640387/c/34625/s/39248f2c/sc/7/rc/2/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/194479893936/u/89/f/640387/c/34625/s/39248f2c/sc/7/rc/3/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/194479893936/u/89/f/640387/c/34625/s/39248f2c/sc/7/rc/3/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/194479893936/u/89/f/640387/c/34625/s/39248f2c/sc/7/a2.htm"&gt;&lt;img src="http://da.feedsportal.com/r/194479893936/u/89/f/640387/c/34625/s/39248f2c/sc/7/a2.img" border="0"/&gt;&lt;/a&gt;&lt;img width="1" height="1" src="http://pi.feedsportal.com/r/194479893936/u/89/f/640387/c/34625/s/39248f2c/sc/7/a2t.img" border="0"/&gt;</description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Surveillance of Citizens by Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Privacy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">European Parliament</category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_org_all">Facebook Inc|FB|NASDAQ</category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_org_all">eBay Inc|EBAY|NASDAQ</category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_org_all">Google Inc|GOOGL|NASDAQ</category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_org_all">Amazon.com Inc|AMZN|NASDAQ</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">European Court of Justice</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">National Security Agency</category>
+      <pubDate>Wed, 09 Apr 2014 00:06:20 GMT</pubDate>
+      <guid isPermaLink="false">http://www.nytimes.com/2014/04/09/business/international/european-court-rejects-data-retention-rules-citing-privacy.html</guid>
+      <dc:creator>By JAMES KANTER</dc:creator>
+    </item>
+    <item>
+      <atom:link href="http://www.nytimes.com/2014/04/09/business/energy-environment/target-to-stock-more-environmentally-friendly-products.html?partner=rss&amp;emc=rss" rel="standout" />
+      <title>Target to Stock More Environmentally Friendly Products</title>
+      <link>http://rss.nytimes.com/c/34625/f/640387/s/39258b49/sc/30/l/0L0Snytimes0N0C20A140C0A40C0A90Cbusiness0Cenergy0Eenvironment0Ctarget0Eto0Estock0Emore0Eenvironmentally0Efriendly0Eproducts0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+      <description>According to the Organic Trade Association, the industry grew to $31.5 billion in sales in the United States in 2012 from $8.4 billion a decade earlier.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640387/s/39258b49/sc/30/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;</description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shopping and Retail</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Organic Foods and Products</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Target Corporation|TGT|NYSE</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Organic Trade Assn</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sustainable Living</category>
+      <pubDate>Tue, 08 Apr 2014 22:00:54 GMT</pubDate>
+      <guid isPermaLink="false">http://www.nytimes.com/2014/04/09/business/energy-environment/target-to-stock-more-environmentally-friendly-products.html</guid>
+      <dc:creator>By ELIZABETH A. HARRIS</dc:creator>
+    </item>
+    <item>
+      <atom:link href="http://bits.blogs.nytimes.com/2014/04/08/comcast-gives-a-nod-to-a-future-apple-set-top-box/?partner=rss&amp;emc=rss" rel="standout" />
+      <title>Bits Blog: Comcast Gives a Nod to a Future Apple Set-Top Box</title>
+      <link>http://rss.nytimes.com/c/34625/f/640387/s/392248b6/sc/15/l/0Lbits0Bblogs0Bnytimes0N0C20A140C0A40C0A80Ccomcast0Egives0Ea0Enod0Eto0Ea0Efuture0Eapple0Eset0Etop0Ebox0C0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+      <description>In papers relating to its proposed merger with Time Warner Cable, the company gives a nod to a future Apple set-top box, even though Apple hasn’t introduced one yet.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640387/s/392248b6/sc/15/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/194479924214/u/89/f/640387/c/34625/s/392248b6/sc/15/rc/1/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/194479924214/u/89/f/640387/c/34625/s/392248b6/sc/15/rc/1/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/194479924214/u/89/f/640387/c/34625/s/392248b6/sc/15/rc/2/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/194479924214/u/89/f/640387/c/34625/s/392248b6/sc/15/rc/2/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/194479924214/u/89/f/640387/c/34625/s/392248b6/sc/15/rc/3/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/194479924214/u/89/f/640387/c/34625/s/392248b6/sc/15/rc/3/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/194479924214/u/89/f/640387/c/34625/s/392248b6/sc/15/a2.htm"&gt;&lt;img src="http://da.feedsportal.com/r/194479924214/u/89/f/640387/c/34625/s/392248b6/sc/15/a2.img" border="0"/&gt;&lt;/a&gt;&lt;img width="1" height="1" src="http://pi.feedsportal.com/r/194479924214/u/89/f/640387/c/34625/s/392248b6/sc/15/a2t.img" border="0"/&gt;</description>
+      <category domain="http://www.nytimes.com/namespaces/">Apple Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/">Television Sets</category>
+      <category domain="http://www.nytimes.com/namespaces/">Comcast Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/">Mergers, Acquisitions and Divestitures</category>
+      <category domain="http://www.nytimes.com/namespaces/">Devices</category>
+      <category domain="http://www.nytimes.com/namespaces/">Comcast Corporation|CMCSA|NASDAQ</category>
+      <category domain="http://www.nytimes.com/namespaces/">Apple Inc|AAPL|NASDAQ</category>
+      <category domain="http://www.nytimes.com/namespaces/">Computers and the Internet</category>
+      <pubDate>Tue, 08 Apr 2014 21:43:24 GMT</pubDate>
+      <guid isPermaLink="false">http://bits.blogs.nytimes.com/2014/04/08/comcast-gives-a-nod-to-a-future-apple-set-top-box/</guid>
+      <dc:creator>By BRIAN X. CHEN</dc:creator>
+      <media:credit scheme="urn:ebu">Larry Busacca/Getty Images for WICT</media:credit>
+      <media:description>In a document on Comcast's corporate website, David L. Cohen, an executive vice president at the company, alluded to it seeing competition from the likes of Apple and Google, as well as more established TV providers like AT&amp;T.</media:description>
+      <media:content height="151" lang="" width="151" url="http://graphics8.nytimes.com/images/2014/04/08/technology/08bits-comcast/08bits-comcast-moth.jpg" />
+    </item>
+    <item>
+      <atom:link href="http://www.nytimes.com/2014/04/09/world/americas/us-agency-defends-social-media-project-in-cuba.html?partner=rss&amp;emc=rss" rel="standout" />
+      <title>Cuba Social Media Project Was No Plot, Agency Says</title>
+      <link>http://rss.nytimes.com/c/34625/f/640387/s/39218e10/sc/1/l/0L0Snytimes0N0C20A140C0A40C0A90Cworld0Camericas0Cus0Eagency0Edefends0Esocial0Emedia0Eproject0Ein0Ecuba0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+      <description>The head of the United States aid agency told Congress that the program was not meant to destabilize the Cuban government, only to promote open communication.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640387/s/39218e10/sc/1/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/194479892511/u/89/f/640387/c/34625/s/39218e10/sc/1/rc/1/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/194479892511/u/89/f/640387/c/34625/s/39218e10/sc/1/rc/1/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/194479892511/u/89/f/640387/c/34625/s/39218e10/sc/1/rc/2/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/194479892511/u/89/f/640387/c/34625/s/39218e10/sc/1/rc/2/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/194479892511/u/89/f/640387/c/34625/s/39218e10/sc/1/rc/3/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/194479892511/u/89/f/640387/c/34625/s/39218e10/sc/1/rc/3/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/194479892511/u/89/f/640387/c/34625/s/39218e10/sc/1/a2.htm"&gt;&lt;img src="http://da.feedsportal.com/r/194479892511/u/89/f/640387/c/34625/s/39218e10/sc/1/a2.img" border="0"/&gt;&lt;/a&gt;&lt;img width="1" height="1" src="http://pi.feedsportal.com/r/194479892511/u/89/f/640387/c/34625/s/39218e10/sc/1/a2t.img" border="0"/&gt;</description>
+      <category domain="http://www.nytimes.com/namespaces/nyt_org_all">Twitter|TWTR|NYSE</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cuba</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Shah, Rajiv</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">United States Agency for International Development</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Leahy, Patrick J</category>
+      <pubDate>Tue, 08 Apr 2014 19:27:38 GMT</pubDate>
+      <guid isPermaLink="false">http://www.nytimes.com/2014/04/09/world/americas/us-agency-defends-social-media-project-in-cuba.html</guid>
+      <dc:creator>By RON NIXON</dc:creator>
+    </item>
+    <item>
+      <atom:link href="http://www.nytimes.com/2014/04/09/arts/video-games/kinect-sports-rivals-includes-new-technology.html?partner=rss&amp;emc=rss" rel="standout" />
+      <title>Video Game Review: Kinect Sports Rivals Includes New Technology</title>
+      <link>http://rss.nytimes.com/c/34625/f/640387/s/39243349/sc/5/l/0L0Snytimes0N0C20A140C0A40C0A90Carts0Cvideo0Egames0Ckinect0Esports0Erivals0Eincludes0Enew0Etechnology0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+      <description>Kinect Sports Rivals uses an upgraded sensor, bundled with Microsoft’s Xbox One console, to try to improve motion gaming.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640387/s/39243349/sc/5/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;</description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Kinect Sports Rivals (Video Game)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer and Video Games</category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_org_all">Microsoft Corporation|MSFT|NASDAQ</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Xbox One (Video Game System)</category>
+      <pubDate>Tue, 08 Apr 2014 19:10:22 GMT</pubDate>
+      <guid isPermaLink="false">http://www.nytimes.com/2014/04/09/arts/video-games/kinect-sports-rivals-includes-new-technology.html</guid>
+      <dc:creator>By STEPHEN TOTILO</dc:creator>
+      <media:credit scheme="urn:ebu">Microsoft</media:credit>
+      <media:description>The game uses the upgraded Kinect sensor for motion-controlled virtual sports, including wall climbing and wake racing.</media:description>
+      <media:content height="151" lang="" width="151" url="http://graphics8.nytimes.com/images/2014/04/09/arts/kinect-1/kinect-1-moth.jpg" />
+    </item>
+    <item>
+      <atom:link href="http://bits.blogs.nytimes.com/2014/04/07/email-from-steve-jobs-hints-at-how-apple-ticks/?partner=rss&amp;emc=rss" rel="standout" />
+      <title>Bits Blog: Email From Steve Jobs Hints at How Apple Ticks</title>
+      <link>http://rss.nytimes.com/c/34625/f/640387/s/3919d861/sc/4/l/0Lbits0Bblogs0Bnytimes0N0C20A140C0A40C0A70Cemail0Efrom0Esteve0Ejobs0Ehints0Eat0Ehow0Eapple0Eticks0C0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+      <description>A 2010 memo written by Steven P. Jobs, which Samsung lawyers obtained as evidence to present to jurors during a patent trial, offered a peek into how the company operates.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640387/s/3919d861/sc/4/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/194479853651/u/89/f/640387/c/34625/s/3919d861/sc/4/rc/1/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/194479853651/u/89/f/640387/c/34625/s/3919d861/sc/4/rc/1/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/194479853651/u/89/f/640387/c/34625/s/3919d861/sc/4/rc/2/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/194479853651/u/89/f/640387/c/34625/s/3919d861/sc/4/rc/2/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/194479853651/u/89/f/640387/c/34625/s/3919d861/sc/4/rc/3/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/194479853651/u/89/f/640387/c/34625/s/3919d861/sc/4/rc/3/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/194479853651/u/89/f/640387/c/34625/s/3919d861/sc/4/a2.htm"&gt;&lt;img src="http://da.feedsportal.com/r/194479853651/u/89/f/640387/c/34625/s/3919d861/sc/4/a2.img" border="0"/&gt;&lt;/a&gt;&lt;img width="1" height="1" src="http://pi.feedsportal.com/r/194479853651/u/89/f/640387/c/34625/s/3919d861/sc/4/a2t.img" border="0"/&gt;</description>
+      <category domain="http://www.nytimes.com/namespaces/">Devices</category>
+      <pubDate>Tue, 08 Apr 2014 17:40:14 GMT</pubDate>
+      <guid isPermaLink="false">http://bits.blogs.nytimes.com/2014/04/07/email-from-steve-jobs-hints-at-how-apple-ticks/</guid>
+      <dc:creator>By BRIAN X. CHEN</dc:creator>
+      <media:credit scheme="urn:ebu">Justin Sullivan/Getty Images</media:credit>
+      <media:description>Steven P. Jobs speaking at an Apple event on Oct 20, 2010. A few days later he sent a memo that revealed tidbits about how the famously secretive company ticks.</media:description>
+      <media:content height="151" lang="" width="151" url="http://graphics8.nytimes.com/images/2014/04/07/technology/07bits-jobs/07bits-jobs-moth.jpg" />
+    </item>
+    <item>
+      <atom:link href="http://www.nytimes.com/2014/04/10/technology/personaltech/samsung-edges-htc-in-battle-of-new-android-phones.html?partner=rss&amp;emc=rss" rel="standout" />
+      <title>Machine Learning: Samsung Edges HTC in New Android Phones</title>
+      <link>http://rss.nytimes.com/c/34625/f/640387/s/39216fd2/sc/15/l/0L0Snytimes0N0C20A140C0A40C10A0Ctechnology0Cpersonaltech0Csamsung0Eedges0Ehtc0Ein0Ebattle0Eof0Enew0Eandroid0Ephones0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+      <description>The Samsung Galaxy S5’s features, including a slightly better camera, make it the more logical choice over the elegantly simple HTC One (M8).&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640387/s/39216fd2/sc/15/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/194479888120/u/89/f/640387/c/34625/s/39216fd2/sc/15/rc/1/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/194479888120/u/89/f/640387/c/34625/s/39216fd2/sc/15/rc/1/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/194479888120/u/89/f/640387/c/34625/s/39216fd2/sc/15/rc/2/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/194479888120/u/89/f/640387/c/34625/s/39216fd2/sc/15/rc/2/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/194479888120/u/89/f/640387/c/34625/s/39216fd2/sc/15/rc/3/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/194479888120/u/89/f/640387/c/34625/s/39216fd2/sc/15/rc/3/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/194479888120/u/89/f/640387/c/34625/s/39216fd2/sc/15/a2.htm"&gt;&lt;img src="http://da.feedsportal.com/r/194479888120/u/89/f/640387/c/34625/s/39216fd2/sc/15/a2.img" border="0"/&gt;&lt;/a&gt;&lt;img width="1" height="1" src="http://pi.feedsportal.com/r/194479888120/u/89/f/640387/c/34625/s/39216fd2/sc/15/a2t.img" border="0"/&gt;</description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cameras</category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_org_all">Qualcomm Inc|QCOM|NASDAQ</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">HTC Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_org_all">Google Inc.|GOOGL|NASDAQ</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Samsung Group</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smartphones</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Android (Operating System)</category>
+      <pubDate>Tue, 08 Apr 2014 16:35:08 GMT</pubDate>
+      <guid isPermaLink="false">http://www.nytimes.com/2014/04/10/technology/personaltech/samsung-edges-htc-in-battle-of-new-android-phones.html</guid>
+      <dc:creator>By MOLLY WOOD</dc:creator>
+      <media:credit scheme="urn:ebu">Photo Illustration by The New York Times</media:credit>
+      <media:description>The Samsung Galaxy S5, left, and the HTC One M8 arrive in stores by Friday.</media:description>
+      <media:content height="151" lang="" width="151" url="http://graphics8.nytimes.com/images/2014/04/10/technology/personaltech/10machine-web1/10machine-web1-moth.png" />
+    </item>
+    <item>
+      <atom:link href="http://www.nytimes.com/2014/04/09/business/media/proposed-merger-would-enhance-competition-say-comcast-and-time-warner-cable.html?partner=rss&amp;emc=rss" rel="standout" />
+      <title>Proposed Merger Would Enhance Competition, Say Comcast and Time Warner Cable</title>
+      <link>http://rss.nytimes.com/c/34625/f/640387/s/391ff879/sc/1/l/0L0Snytimes0N0C20A140C0A40C0A90Cbusiness0Cmedia0Cproposed0Emerger0Ewould0Eenhance0Ecompetition0Esay0Ecomcast0Eand0Etime0Ewarner0Ecable0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+      <description>The companies filed documents in support of the plan, which has faced opposition and will be the subject of a Senate hearing this week.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640387/s/391ff879/sc/1/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/194479879666/u/89/f/640387/c/34625/s/391ff879/sc/1/rc/1/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/194479879666/u/89/f/640387/c/34625/s/391ff879/sc/1/rc/1/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/194479879666/u/89/f/640387/c/34625/s/391ff879/sc/1/rc/2/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/194479879666/u/89/f/640387/c/34625/s/391ff879/sc/1/rc/2/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/194479879666/u/89/f/640387/c/34625/s/391ff879/sc/1/rc/3/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/194479879666/u/89/f/640387/c/34625/s/391ff879/sc/1/rc/3/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/194479879666/u/89/f/640387/c/34625/s/391ff879/sc/1/a2.htm"&gt;&lt;img src="http://da.feedsportal.com/r/194479879666/u/89/f/640387/c/34625/s/391ff879/sc/1/a2.img" border="0"/&gt;&lt;/a&gt;&lt;img width="1" height="1" src="http://pi.feedsportal.com/r/194479879666/u/89/f/640387/c/34625/s/391ff879/sc/1/a2t.img" border="0"/&gt;</description>
+      <category domain="http://www.nytimes.com/namespaces/nyt_org_all">Yahoo! Inc|YHOO|NASDAQ</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Federal Communications Commission</category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_org_all">Google Inc.|GOOGL|NASDAQ</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Time Warner Cable Inc|TWC|NYSE</category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_org_all">Facebook Inc|FB|NASDAQ</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Senate Committee on the Judiciary</category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_org_all">AT&amp;T Inc|T|NYSE</category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_org_all">Verizon Communications Inc|VZ|NYSE</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Antitrust Laws and Competition Issues</category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_org_all">Netflix Inc|NFLX|NASDAQ</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Telephones and Telecommunications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_org_all">Amazon.com Inc|AMZN|NASDAQ</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Comcast Corporation|CMCSA|NASDAQ</category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_org_all">Apple Inc|AAPL|NASDAQ</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cable Television</category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_org_all">Time Warner Inc|TWX|NYSE</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <pubDate>Tue, 08 Apr 2014 14:00:08 GMT</pubDate>
+      <guid isPermaLink="false">http://www.nytimes.com/2014/04/09/business/media/proposed-merger-would-enhance-competition-say-comcast-and-time-warner-cable.html</guid>
+      <dc:creator>By EDWARD WYATT</dc:creator>
+    </item>
+    <item>
+      <atom:link href="http://dealbook.nytimes.com/2014/04/07/tech-firms-may-find-no-poaching-pacts-costly/?partner=rss&amp;emc=rss" rel="standout" />
+      <title>DealBook Column: Tech Firms May Find No-Poaching Pacts Costly</title>
+      <link>http://rss.nytimes.com/c/34625/f/640387/s/391ff874/sc/30/l/0Ldealbook0Bnytimes0N0C20A140C0A40C0A70Ctech0Efirms0Emay0Efind0Eno0Epoaching0Epacts0Ecostly0C0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+      <description>Employees of technology companies have filed a class-action lawsuit that contends that illegal hiring practices among their companies has cost them billions in lost wages.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640387/s/391ff874/sc/30/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;</description>
+      <category domain="http://www.nytimes.com/namespaces/">Hiring and Promotion</category>
+      <category domain="http://www.nytimes.com/namespaces/">Schmidt, Eric E</category>
+      <category domain="http://www.nytimes.com/namespaces/">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/">Apple Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/">Google Inc.|GOOGL|NASDAQ</category>
+      <category domain="http://www.nytimes.com/namespaces/">Technology</category>
+      <category domain="http://www.nytimes.com/namespaces/">Antitrust Laws and Competition Issues</category>
+      <category domain="http://www.nytimes.com/namespaces/">Silicon Valley (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/">Google Inc.</category>
+      <category domain="http://www.nytimes.com/namespaces/">DealBook Column</category>
+      <category domain="http://www.nytimes.com/namespaces/">Top Headline 1</category>
+      <category domain="http://www.nytimes.com/namespaces/">Jobs, Steven P</category>
+      <category domain="http://www.nytimes.com/namespaces/">Justice Department</category>
+      <category domain="http://www.nytimes.com/namespaces/">Apple Inc|AAPL|NASDAQ</category>
+      <pubDate>Tue, 08 Apr 2014 11:32:03 GMT</pubDate>
+      <guid isPermaLink="false">http://dealbook.nytimes.com/2014/04/07/tech-firms-may-find-no-poaching-pacts-costly/</guid>
+      <dc:creator>By ANDREW ROSS SORKIN</dc:creator>
+      <media:credit scheme="urn:ebu">Paul Sakuma/Associated Press</media:credit>
+      <media:description>A class-action suit accuses Steven P. Jobs and Eric Schmidt of colluding to prevent their employees from being hired by rivals.</media:description>
+      <media:content height="151" lang="" width="151" url="http://graphics8.nytimes.com/images/2014/04/08/business/Sorkin/Sorkin-moth.jpg" />
+    </item>
+    <item>
+      <atom:link href="http://bits.blogs.nytimes.com/2014/04/07/the-big-data-challenge-to-legacy-data-management-companies/?partner=rss&amp;emc=rss" rel="standout" />
+      <title>Bits Blog: The Big Data Challenge to Legacy Data Management Companies</title>
+      <link>http://rss.nytimes.com/c/34625/f/640387/s/39131cf8/sc/46/l/0Lbits0Bblogs0Bnytimes0N0C20A140C0A40C0A70Cthe0Ebig0Edata0Echallenge0Eto0Elegacy0Edata0Emanagement0Ecompanies0C0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+      <description>Big-data software is a formidable threat to the economics of incumbents. A look at Teradata, a data warehouse software company, shows the challenge and how an incumbent is responding.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640387/s/39131cf8/sc/46/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/194479829408/u/89/f/640387/c/34625/s/39131cf8/sc/46/rc/1/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/194479829408/u/89/f/640387/c/34625/s/39131cf8/sc/46/rc/1/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/194479829408/u/89/f/640387/c/34625/s/39131cf8/sc/46/rc/2/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/194479829408/u/89/f/640387/c/34625/s/39131cf8/sc/46/rc/2/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/194479829408/u/89/f/640387/c/34625/s/39131cf8/sc/46/rc/3/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/194479829408/u/89/f/640387/c/34625/s/39131cf8/sc/46/rc/3/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/194479829408/u/89/f/640387/c/34625/s/39131cf8/sc/46/a2.htm"&gt;&lt;img src="http://da.feedsportal.com/r/194479829408/u/89/f/640387/c/34625/s/39131cf8/sc/46/a2.img" border="0"/&gt;&lt;/a&gt;&lt;img width="1" height="1" src="http://pi.feedsportal.com/r/194479829408/u/89/f/640387/c/34625/s/39131cf8/sc/46/a2t.img" border="0"/&gt;</description>
+      <category domain="http://www.nytimes.com/namespaces/">Cloudera</category>
+      <category domain="http://www.nytimes.com/namespaces/">data storage</category>
+      <category domain="http://www.nytimes.com/namespaces/">International Business Machines Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/">Big Data</category>
+      <category domain="http://www.nytimes.com/namespaces/">Teradata Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/">International Business Machines Corporation|IBM|NYSE</category>
+      <category domain="http://www.nytimes.com/namespaces/">Prague (Czech Republic)</category>
+      <pubDate>Tue, 08 Apr 2014 11:23:59 GMT</pubDate>
+      <guid isPermaLink="false">http://bits.blogs.nytimes.com/2014/04/07/the-big-data-challenge-to-legacy-data-management-companies/</guid>
+      <dc:creator>By STEVE LOHR</dc:creator>
+      <media:credit scheme="urn:ebu">I.B.M.</media:credit>
+      <media:description>Mainframe computer sales — once the centerpiece of I.B.M. — now account for an estimated 3 percent of the company's revenue.</media:description>
+      <media:content height="151" lang="" width="151" url="http://graphics8.nytimes.com/images/2014/04/07/technology/07bits-bigdata-mainframe/07bits-bigdata-mainframe-moth-v2.jpg" />
+    </item>
+  </channel>
+</rss>

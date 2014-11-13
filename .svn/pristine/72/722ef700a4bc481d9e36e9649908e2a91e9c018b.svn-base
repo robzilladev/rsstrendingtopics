@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>PCWorld</title>
+    <link>http://www.pcworld.com</link>
+    <description />
+    <language>en-us</language>
+    <pubDate>Wed, 09 Apr 2014 16:52:08 -0700</pubDate>
+    <lastBuildDate>Wed, 09 Apr 2014 16:52:08 -0700</lastBuildDate>
+    <item>
+      <title>Even the death of Windows XP failed to jolt the PC market in Q1</title>
+      <pubDate>Wed, 09 Apr 2014 16:49:00 -0700</pubDate>
+      <author>Agam Shah</author>
+      <dc:creator>Agam Shah</dc:creator>
+      <description><![CDATA[<article>
+	<section class="page">
+<p>
+The looming threat of running an unsupported OS wasn’t enough to save PC shipments from continuing their slide in the first quarter.</p><p>
+Worldwide PC shipments fell by 4.4 percent in the first three months of the year to 73.4 million units, IDC <a href="http://www.idc.com/getdoc.jsp?containerId=prUS24794514">said</a> on Wednesday.</p><p>
+The expiration of Windows XP, support for which ended this week, did prompt some businesses to refresh their PCs. And slower demand for tablets, as the market becomes saturated, may have helped lift laptop sales slightly.</p><p>
+But sales were down overall, and the trend toward more mobile devices is unlikely to stop, IDC said.</p><p class="jumpTag"><a href="/article/2142080/windows-xp-expiration-couldnt-save-pc-market-in-q1.html#jump">To read this article in full or to leave a comment, please click here</a></p></section></article>]]></description>
+      <link>http://www.pcworld.com/article/2142080/windows-xp-expiration-couldnt-save-pc-market-in-q1.html#tk.rss_all</link>
+      <media:thumbnail url="http://zapt4.staticworld.net/images/article/2014/04/windows_xp_pc-100260973-primary.idge.jpg" />
+      <media:content url="http://zapt4.staticworld.net/images/article/2014/04/windows_xp_pc-100260973-primary.idge.jpg" />
+    </item>
+    <item>
+      <title>VMware extends Horizon beyond virtual desktop infrastructure</title>
+      <pubDate>Wed, 09 Apr 2014 14:00:12 -0700</pubDate>
+      <author>Joab Jackson</author>
+      <dc:creator>Joab Jackson</dc:creator>
+      <description><![CDATA[<article>
+	<section class="page">
+<p>VMware is about to release a new version of its Horizon VDI (virtual desktop infrastructure) software that will allow administrators to manage VDI and non-VDI deployments in a unified manner, by using multiple VMware technologies.</p><p>“We are extending VMware Horizon beyond VDI, to be able to do virtual desktops,” said Sumit Dhawan, VMware vice president and general manager of desktop products and end-user computing.</p><p>Horizon is now “a complete system, able to handle 100 percent of desktops,” Dhawan said.</p><p>VDI technologies, such as Horizon’s, encapsulate a user’s entire OS and desktop environment within a virtual machine, so it can be accessed or downloaded over a network.</p><p class="jumpTag"><a href="/article/2142000/vmware-extends-horizon-beyond-virtual-desktop-infrastructure.html#jump">To read this article in full or to leave a comment, please click here</a></p></section></article>]]></description>
+      <link>http://www.pcworld.com/article/2142000/vmware-extends-horizon-beyond-virtual-desktop-infrastructure.html#tk.rss_all</link>
+      <media:thumbnail url="http://zapt1.staticworld.net/images/article/2013/11/pcworld-idgns-primaryimage-100154539-medium.png" />
+      <media:content url="http://zapt1.staticworld.net/images/article/2013/11/pcworld-idgns-primaryimage-100154539-medium.png" />
+    </item>
+    <item>
+      <title>No more in-app chat: Facebook moving messages to Messenger</title>
+      <pubDate>Wed, 09 Apr 2014 13:37:00 -0700</pubDate>
+      <author>Caitlin McGarry</author>
+      <dc:creator>Caitlin McGarry</dc:creator>
+      <description>Users will have to install Facebook’s separate Messenger app to keep the conversation going.</description>
+      <link>http://www.techhive.com/article/2141883/no-more-in-app-chat-facebook-moving-messages-to-messenger.html#tk.rss_all</link>
+      <media:thumbnail url="http://zapt3.staticworld.net/images/article/2012/12/fb20messenger-100015801-medium.png" />
+      <media:content url="http://zapt3.staticworld.net/images/article/2012/12/fb20messenger-100015801-medium.png" />
+    </item>
+    <item>
+      <title>HP to pay $108 million for overseas bribery and corruption</title>
+      <pubDate>Wed, 09 Apr 2014 13:12:00 -0700</pubDate>
+      <author>James Niccolai</author>
+      <dc:creator>James Niccolai</dc:creator>
+      <description><![CDATA[<article>
+	<section class="page">
+<p>Hewlett-Packard will pay $108 million in penalties after subsidiaries in Russia, Poland and Mexico were found to have paid bribes to win business, the U.S. Department of Justice said Wednesday.</p><p>An international subsidiary of HP has agreed to plead guilty to violating the U.S. Foreign Corrupt Practices Act and admit to its role in bribing Russian officials to secure a big contract there, the U.S. Department of Justice <a href="http://www.justice.gov/opa/pr/2014/April/14-crm-358.html">said</a>.</p><p>The U.S. is also entering into “criminal resolutions” with HP subsidiaries in Poland and Mexico, relating to contracts with Poland’s national police agency and Mexico’s state-owned petroleum company, the DOJ said.</p><p class="jumpTag"><a href="/article/2141920/hp-to-pay-108-million-for-overseas-bribery-and-corruption.html#jump">To read this article in full or to leave a comment, please click here</a></p></section></article>]]></description>
+      <link>http://www.pcworld.com/article/2141920/hp-to-pay-108-million-for-overseas-bribery-and-corruption.html#tk.rss_all</link>
+      <media:thumbnail url="http://zapt2.staticworld.net/images/article/2013/07/hp-logo-100044624-medium.png" />
+      <media:content url="http://zapt2.staticworld.net/images/article/2013/07/hp-logo-100044624-medium.png" />
+    </item>
+    <item>
+      <title>Is open source to blame for the Heartbleed bug?</title>
+      <pubDate>Wed, 09 Apr 2014 12:55:00 -0700</pubDate>
+      <author>Tony Bradley</author>
+      <dc:creator>Tony Bradley</dc:creator>
+      <description><![CDATA[<article>
+	<section class="page">
+<p>By now you've likely heard about the <a href="http://www.pcworld.com/article/2140920/heartbleed-bug-in-openssl-puts-encrypted-communications-at-risk.html">Heartbleed bug</a>, a critical vulnerability that exposes potentially millions of passwords to attack and <a href="http://www.pcworld.com/article/2141602/the-heartbleed-bug-and-you-a-users-guide.html">undermines the very security of the Internet</a>. Because the flaw exists in OpenSSL—which is an open source implementation of SSL encryption—many will question whether the nature of open source development is in some way at fault. I touched based with security experts to get their thoughts. </p><h2>Closed vs. Open Source</h2>
+<p>First, let’s explain the distinction between closed source and open source. Source refers to the source code of a program—the actual text commands that make the application do whatever it does.</p><p class="jumpTag"><a href="/article/2141740/is-open-source-to-blame-for-the-heartbleed-bug.html#jump">To read this article in full or to leave a comment, please click here</a></p></section></article>]]></description>
+      <link>http://www.pcworld.com/article/2141740/is-open-source-to-blame-for-the-heartbleed-bug.html#tk.rss_all</link>
+      <media:thumbnail url="http://zapt4.staticworld.net/images/article/2014/04/heartbleed-bug-100260024-medium.png" />
+      <media:content url="http://zapt4.staticworld.net/images/article/2014/04/heartbleed-bug-100260024-medium.png" />
+
+    <item>
+      <title>Motorola Mobility names Osterloh COO as Lenovo acquisition looms</title>
+      <pubDate>Wed, 09 Apr 2014 12:35:09 -0700</pubDate>
+      <author>Agam Shah</author>
+      <dc:creator>Agam Shah</dc:creator>
+      <description><![CDATA[<article>
+	<section class="page">
+<p>Rick Osterloh has been promoted to president and chief operating officer of Motorola Mobility, the Google business unit that is being acquired by Lenovo.</p><p>Osterloh, who was previously senior vice president of product management, has frequently been the face of the company at product announcements. He will report to Google’s Motorola operating board until the Lenovo acquisition is complete, Motorola said in a <a href="http://motorola-blog.blogspot.com/2014/04/a-moto-insider-to-lead-us-forward.html">blog entry, “A Moto insider to lead us forward.”</a> Former Motorola Mobility CEO Dennis Woodside became chief operating officer of Dropbox in February, leaving a gap at the top that Osterloh will fill.</p><p class="jumpTag"><a href="/article/2141860/motorola-mobility-names-osterloh-coo-as-lenovo-acquisition-looms.html#jump">To read this article in full or to leave a comment, please click here</a></p></section></article>]]></description>
+      <link>http://www.pcworld.com/article/2141860/motorola-mobility-names-osterloh-coo-as-lenovo-acquisition-looms.html#tk.rss_all</link>
+      <media:thumbnail url="http://zapt1.staticworld.net/images/article/2013/11/pcworld-idgns-primaryimage-100154539-medium.png" />
+      <media:content url="http://zapt1.staticworld.net/images/article/2013/11/pcworld-idgns-primaryimage-100154539-medium.png" />
+    </item>
+    <item>
+      <title>Dropbox looks beyond the cloud with email, photo apps, better business features</title>
+      <pubDate>Wed, 09 Apr 2014 12:24:00 -0700</pubDate>
+      <author>Brad Chacos</author>
+      <dc:creator>Brad Chacos</dc:creator>
+      <description><![CDATA[<article>
+	<section class="page">
+<p>
+Dropbox shook up its service on Wednesday, announcing a slew of updates and new services designed for work and play alike. Amidst the flurry of announcements, one thing became startlingly clear: Google Drive may have the cheapest consumer cloud prices around, but Dropbox wants to be more than just a simple storage locker.</p><h2>Of Mailboxes and Carousels</h2>
+<p>
+After innovative email app Mailbox <a href="http://www.macworld.com/article/2027388/review-mailbox-for-iphone-belongs-in-your-dock.html">won the hearts of iPhone users</a> in February of last year, Dropbox gobbled it up in March.</p><figure class="large "><a class="zoom" href="https://cms-images.idgesg.net/images/article/2014/04/mailbox-android-100260221-orig.png"><img src="https://cms-images.idgesg.net/images/article/2014/04/mailbox-android-100260221-large.png" alt="mailbox android" width="580" height="192"/></a> <figcaption>
+<p>
+Mailbox is officially on Android now and already available in the Play Store.</p><p class="jumpTag"><a href="/article/2141820/dropbox-looks-beyond-the-cloud-with-new-apps-and-dropbox-for-business-roll-out.html#jump">To read this article in full or to leave a comment, please click here</a></p></section></article>]]></description>
+      <link>http://www.pcworld.com/article/2141820/dropbox-looks-beyond-the-cloud-with-new-apps-and-dropbox-for-business-roll-out.html#tk.rss_all</link>
+      <media:thumbnail url="http://zapt2.staticworld.net/images/article/2014/04/dropbox-news-100260218-medium.png" />
+      <media:content url="http://zapt2.staticworld.net/images/article/2014/04/dropbox-news-100260218-medium.png" />
+    </item>
+    <item>
+      <title>Senators: Comcast deal could mean higher broadband prices</title>
+      <pubDate>Wed, 09 Apr 2014 12:03:00 -0700</pubDate>
+      <author>Grant Gross</author>
+      <dc:creator>Grant Gross</dc:creator>
+      <description><![CDATA[<article>
+	<section class="page">
+<p>The proposed $45.2 billion acquisition of Time Warner Cable by Comcast would give the company huge market power to determine broadband prices and Internet content, a group of U.S. senators said Wednesday.</p><p>The deal, <a href="http://www.networkworld.com/news/2014/021314-comcast-buying-time-warner-cable-278742.html">announced in February</a>, raises serious questions about Comcast’s ability to set prices in both the broadband and the cable television markets, several members of the Senate Judiciary Committee said during a hearing.</p><p>The proposed deal would combine Comcast, the largest broadband and cable TV provider in the U.S., with Time Warner Cable, the second largest cable TV provider and third largest broadband provider.</p><p class="jumpTag"><a href="/article/2141840/senators-comcast-deal-could-mean-higher-broadband-prices.html#jump">To read this article in full or to leave a comment, please click here</a></p></section></article>]]></description>
+      <link>http://www.pcworld.com/article/2141840/senators-comcast-deal-could-mean-higher-broadband-prices.html#tk.rss_all</link>
+      <media:thumbnail url="http://zapt4.staticworld.net/images/article/2014/02/comcast_time_warner-100246017-medium.png" />
+      <media:content url="http://zapt4.staticworld.net/images/article/2014/02/comcast_time_warner-100246017-medium.png" />
+    </item>
+    <item>
+      <title>Dropbox for Business exits beta as storage vendor sets sights on workplaces</title>
+      <pubDate>Wed, 09 Apr 2014 11:50:00 -0700</pubDate>
+      <author>Juan Carlos Perez, IDG News Service</author>
+      <dc:creator>Juan Carlos Perez, IDG News Service</dc:creator>
+      <description><![CDATA[<article>
+	<section class="page">
+<p>
+Dropbox unwrapped the enterprise edition of its cloud storage and file sync service on Wednesday, as it seeks to expand its customer base from consumers to businesses.</p><p>
+Dropbox for Business, launched in beta in November, is now <a href="https://www.dropboxatwork.com/2014/04/new-dropbox-business/">generally available</a> and features a variety of IT administration controls intended to make it suitable for workplace use.</p><p>
+“We rebuilt Dropbox for the business use case,” said Ilya Fushman, who heads the Dropbox for Business unit.</p><p>
+The IT controls include remote wipe of Dropbox files in employee devices, audit logs that track how and with whom users are sharing files and the ability to transfer control of employee accounts.</p><p class="jumpTag"><a href="/article/2141780/dropbox-for-business-exits-beta-as-storage-vendor-sets-sights-on-workplaces.html#jump">To read this article in full or to leave a comment, please click here</a></p></section></article>]]></description>
+      <link>http://www.pcworld.com/article/2141780/dropbox-for-business-exits-beta-as-storage-vendor-sets-sights-on-workplaces.html#tk.rss_all</link>
+      <media:thumbnail url="http://zapt0.staticworld.net/images/article/2014/04/dropbox-for-business-100260224-medium.png" />
+      <media:content url="http://zapt0.staticworld.net/images/article/2014/04/dropbox-for-business-100260224-medium.png" />
+    </item>
+    <item>
+      <title>Airline hopes gamification can make its Oracle ERP users soar</title>
+      <pubDate>Wed, 09 Apr 2014 11:30:14 -0700</pubDate>
+      <author>Chris Kanaracus</author>
+      <dc:creator>Chris Kanaracus</dc:creator>
+      <description><![CDATA[<article>
+	<section class="page">
+<p>Canadian airline WestJet believes gamification, the notion of applying elements of game design to a workplace setting, can help its employees use more effectively its Oracle J.D. Edwards ERP (enterprise resource planning) system.</p><p>Gamification is being used increasingly in conjunction with sales, support and employee performance management software, but isn’t often associated with core ERP.</p><p>WestJet worked with Oracle and enterprise gamification vendor Badgeville on its pilot project, which focuses on expense reporting, said Mike Mihaichuk, manager of ERP and finance applications at the roughly 10,000 employee company.</p><p>Expense reporting was chosen because it provides the biggest possible pool of users to test the gamification concept, Mihaichuk said during a presentation Wednesday at the Collaborate conference in Las Vegas.</p><p class="jumpTag"><a href="/article/2141800/airline-hopes-gamification-can-make-its-oracle-erp-users-soar.html#jump">To read this article in full or to leave a comment, please click here</a></p></section></article>]]></description>
+      <link>http://www.pcworld.com/article/2141800/airline-hopes-gamification-can-make-its-oracle-erp-users-soar.html#tk.rss_all</link>
+      <media:thumbnail url="http://zapt1.staticworld.net/images/article/2013/11/pcworld-idgns-primaryimage-100154539-medium.png" />
+      <media:content url="http://zapt1.staticworld.net/images/article/2013/11/pcworld-idgns-primaryimage-100154539-medium.png" />
+    </item>
+    <item>
+      <title>T-Mobile introduces Simple Starter plan for budget users</title>
+      <pubDate>Wed, 09 Apr 2014 10:27:00 -0700</pubDate>
+      <author>Jason Cross</author>
+      <dc:creator>Jason Cross</dc:creator>
+      <description>The $40 plan will offer unlimited data, but only 500MB of LTE.</description>
+      <link>http://www.greenbot.com/article/2141423/t-mobile-introduces-simple-starter-plan-for-budget-users.html#tk.rss_all</link>
+      <media:thumbnail url="http://zapt3.staticworld.net/images/article/2014/01/legere_slide-100224122-primary.idge.png" />
+      <media:content url="http://zapt3.staticworld.net/images/article/2014/01/legere_slide-100224122-primary.idge.png" />
+    </item>
+    <item>
+      <title>Intel cuts 1,500 jobs in Costa Rica in efficiency effort, but plans to hire 1,200 more</title>
+      <pubDate>Wed, 09 Apr 2014 10:25:00 -0700</pubDate>
+      <author>Agam Shah</author>
+      <dc:creator>Agam Shah</dc:creator>
+      <description><![CDATA[<article>
+	<section class="page">
+<p>Intel is cutting 1,500 jobs in Costa Rica as it takes steps to cut 5 percent of its workforce by the end of the fiscal year.</p><p>The job cuts, which will happen over the next two fiscal quarters, are at a site that does chip assembly and testing, said Chuck Mulloy, an Intel spokesman. The assembly and testing operations will be moved to sites in Malaysia, Vietnam and Chengdu, China, where similar functions are already performed.</p><p>“We’ve been clear for over a year now we have to get more efficient in the way we operate,” Mulloy said.</p><p>The move will also put assembly and testing closer to PC and mobile device makers, which are now mostly in Asian countries. The ability to ship chips quicker could help accelerate the release of products from device makers and also cut costs.</p><p class="jumpTag"><a href="/article/2141700/intel-cuts-1500-jobs-in-costa-rica-consolidates-some-operations-in-asia.html#jump">To read this article in full or to leave a comment, please click here</a></p></section></article>]]></description>
+      <link>http://www.pcworld.com/article/2141700/intel-cuts-1500-jobs-in-costa-rica-consolidates-some-operations-in-asia.html#tk.rss_all</link>
+      <media:thumbnail url="http://zapt3.staticworld.net/images/article/2013/09/intel-45-nm-closeup-manufacturing-100053958-medium.jpg" />
+      <media:content url="http://zapt3.staticworld.net/images/article/2013/09/intel-45-nm-closeup-manufacturing-100053958-medium.jpg" />
+    </item>
+    <item>
+      <title>IObit PCTransfer Review: A little help transferring your data from XP</title>
+      <pubDate>Wed, 09 Apr 2014 09:45:00 -0700</pubDate>
+      <author>Jon L. Jacobi</author>
+      <dc:creator>Jon L. Jacobi</dc:creator>
+      <description><![CDATA[<article>
+	<section class="page">
+<p><a href="http://www.pcworld.com/article/2140004/obituary-windows-xp-passes-away-leaving-behind-millions-of-mourning-supporters.html">Microsoft no longer supporting XP</a> doesn’t invalidate it as an operating system—the controllers running the tunnel boring machine here for San Francisco’s new subway use XP. However, it may just spur you to finally check out the more secure and robust <a href="http://www.pcworld.com/article/2139286/the-windows-xp-upgrade-question-windows-7-or-windows-8.html">Windows 7 and 8</a>, especially as the Redmond giant has promised us <a href="http://www.pcworld.com/article/2138443/rejoice-the-start-menu-is-coming-back-to-windows.html">a real Start Menu</a> for the latter. If you decide that it’s time, a transfer utility such as IObit’s free PCTransfer could prove handy—though it doesn’t do much you can’t do on your own.</p><p class="jumpTag"><a href="/article/2140901/iobit-pctransfer-review-a-little-help-transferring-your-data-from-xp.html#jump">To read this article in full or to leave a comment, please click here</a></p></section></article>]]></description>
+      <link>http://www.pcworld.com/article/2140901/iobit-pctransfer-review-a-little-help-transferring-your-data-from-xp.html#tk.rss_all</link>
+      <media:thumbnail url="http://zapt2.staticworld.net/images/article/2014/04/pctransfer6-100260044-primary.idge.jpg" />
+      <media:content url="http://zapt2.staticworld.net/images/article/2014/04/pctransfer6-100260044-primary.idge.jpg" />
+    </item>
+    <item>
+      <title>New Amazon toolset tracks cloud spending</title>
+      <pubDate>Wed, 09 Apr 2014 09:35:10 -0700</pubDate>
+      <author>Mikael Ricknäs, IDG News Service</author>
+      <dc:creator>Mikael Ricknäs, IDG News Service</dc:creator>
+      <description><![CDATA[<article>
+	<section class="page">
+<p>Amazon Web Services’ Cost Explorer aims to make it easier for organizations to view and analyze their historical spending on the company’s hosted services.</p><p>As the use of cloud-based services grow within a company, keeping costs under control isn’t always easy. To help, the free Cost Explorer comes with a number of preconfigured reports. These show monthly spending broken down by service or linked account and total daily spending.</p><p>For example, the daily spending report lets administrators check on spending as it happens, so they can track key areas or projects without waiting until the end of the month. More preconfigured reports will be added over time, according to Amazon.</p><p class="jumpTag"><a href="/article/2141680/new-amazon-toolset-tracks-cloud-spending.html#jump">To read this article in full or to leave a comment, please click here</a></p></section></article>]]></description>
+      <link>http://www.pcworld.com/article/2141680/new-amazon-toolset-tracks-cloud-spending.html#tk.rss_all</link>
+      <media:thumbnail url="http://zapt1.staticworld.net/images/article/2013/11/pcworld-idgns-primaryimage-100154539-medium.png" />
+      <media:content url="http://zapt1.staticworld.net/images/article/2013/11/pcworld-idgns-primaryimage-100154539-medium.png" />
+    </item>
+    <item>
+      <title>Windows XP is still running thousands of websites worldwide</title>
+      <pubDate>Wed, 09 Apr 2014 09:31:00 -0700</pubDate>
+      <author>Ian Paul</author>
+      <dc:creator>Ian Paul</dc:creator>
+      <description><![CDATA[<article>
+	<section class="page">
+<p>It's not just desktop users who <a href="http://www.pcworld.com/article/2139352/true-confessions-from-windows-xp-faithfuls-why-they-refuse-to-move-on.html">refuse to move on</a> from Windows XP. Thousands of websites are still enamored with the now-unsupported OS, too.</p><p>Internet research firm Netcraft recently released its monthly website survey for April. With XP reaching its end of life, the company paid particular attention to <a href="http://news.netcraft.com/archives/2014/04/08/thousands-of-websites-still-hosted-on-windows-xp.html">websites still using XP </a>to run their servers.</p><p>According to Netcraft's findings, China may dominate global Windows XP usage on PCs, but when it comes to running websites with the now-defunct OS, nobody beats the United States.</p><p class="jumpTag"><a href="/article/2141465/windows-xp-still-running-thousands-of-websites-worlwide.html#jump">To read this article in full or to leave a comment, please click here</a></p></section></article>]]></description>
+      <link>http://www.pcworld.com/article/2141465/windows-xp-still-running-thousands-of-websites-worlwide.html#tk.rss_all</link>
+      <media:thumbnail url="http://zapt3.staticworld.net/images/article/2014/04/winxppro-100260104-medium.png" />
+      <media:content url="http://zapt3.staticworld.net/images/article/2014/04/winxppro-100260104-medium.png" />
+    </item>
+    <item>
+      <title>Adobe patches a critical flaw in Flash Player and AIR shown at Pwn2Own contest</title>
+      <pubDate>Wed, 09 Apr 2014 08:44:00 -0700</pubDate>
+      <author>Lucian Constantin</author>
+      <dc:creator>Lucian Constantin</dc:creator>
+      <description><![CDATA[<article>
+	<section class="page">
+<p>Adobe Systems released security updates for Flash Player and AIR in order to address four critical vulnerabilities that could lead to arbitrary code execution and information disclosure.</p><p>One of the vulnerabilities, identified as CVE-2014-0506, stems from a use-after-free memory bug while the other, CVE-2014-0507, is the result of a buffer overflow condition. Both vulnerabilities could be exploited by attackers to take control of an affected system, Adobe said in <a href="http://helpx.adobe.com/security/products/flash-player/apsb14-09.html">a security advisory</a> published Tuesday.</p><p>The CVE-2014-0506 vulnerability was discovered by researchers from French security firm Vupen who <a href="http://www.pcworld.com/article/2108560/all-major-browsers-fall-during-second-day-at-pwn2own-hacking-contest.html">demonstrated it during the Pwn2Own hacking competition</a> in March.</p><p class="jumpTag"><a href="/article/2141580/adobe-patches-a-critical-flaw-in-flash-player-and-air-shown-at-pwn2own-contest.html#jump">To read this article in full or to leave a comment, please click here</a></p></section></article>]]></description>
+      <link>http://www.pcworld.com/article/2141580/adobe-patches-a-critical-flaw-in-flash-player-and-air-shown-at-pwn2own-contest.html#tk.rss_all</link>
+      <media:thumbnail url="http://zapt0.staticworld.net/images/article/2012/10/flash_logo_larg-100007754-medium.jpg" />
+      <media:content url="http://zapt0.staticworld.net/images/article/2012/10/flash_logo_larg-100007754-medium.jpg" />
+    </item>
+    <item>
+      <title>MongoDB 2.6 keeps pace in database speed wars</title>
+      <pubDate>Wed, 09 Apr 2014 08:40:09 -0700</pubDate>
+      <author>Joab Jackson</author>
+      <dc:creator>Joab Jackson</dc:creator>
+      <description><![CDATA[<article>
+	<section class="page">
+<p>Working to keep its place in an increasingly heated competitive landscape, MongoDB has updated its namesake open-source NoSQL database system with considerable performance improvements, a new automated management module and stronger security tools.</p><p>“MongoDB 2.6 was a major endeavor and bringing it to fruition required hard work and coordination across a rapidly growing team,” wrote MongoDB Chief Technology Officer and co-founder Eliot Horowitz, in a <a href="http://blog.mongodb.org/post/82092813806/mongodb-2-6-our-biggest-release-ever">blog post</a>. “There is much still to be done, and with MongoDB 2.6, we have a foundation for the next decade of database innovation.”</p><p class="jumpTag"><a href="/article/2141660/mongodb-26-keeps-pace-in-database-speed-wars.html#jump">To read this article in full or to leave a comment, please click here</a></p></section></article>]]></description>
+      <link>http://www.pcworld.com/article/2141660/mongodb-26-keeps-pace-in-database-speed-wars.html#tk.rss_all</link>
+      <media:thumbnail url="http://zapt1.staticworld.net/images/article/2013/11/pcworld-idgns-primaryimage-100154539-medium.png" />
+      <media:content url="http://zapt1.staticworld.net/images/article/2013/11/pcworld-idgns-primaryimage-100154539-medium.png" />
+    </item>
+    <item>
+      <title>The critical, widespread Heartbleed bug and you: How to keep your private info safe</title>
+      <pubDate>Wed, 09 Apr 2014 08:33:00 -0700</pubDate>
+      <author>Ian Paul</author>
+      <dc:creator>Ian Paul</dc:creator>
+      <description><![CDATA[<article>
+	<section class="page">
+<p>
+No matter how hard you try to stay safe, some aspects of securing your online data are completely out of your hands. That fact was made painfully obvious on Monday, when the Internet got caught with its collective pants down thanks to a critical vulnerability affecting a fundamental tool for secure online communications.</p><p>
+Called <a href="http://www.pcworld.com/article/2140920/heartbleed-bug-in-openssl-puts-encrypted-communications-at-risk.html">Heartbleed</a>, the bug has been in the wild for more than two years now. It allows attackers to exploit a critical programming flaw in OpenSSL—an open source implementation of the SSL/TLS encryption protocol. </p><p class="jumpTag"><a href="/article/2141602/the-heartbleed-bug-and-you-a-users-guide.html#jump">To read this article in full or to leave a comment, please click here</a></p></section></article>]]></description>
+      <link>http://www.pcworld.com/article/2141602/the-heartbleed-bug-and-you-a-users-guide.html#tk.rss_all</link>
+      <media:thumbnail url="http://zapt4.staticworld.net/images/article/2014/04/heartbleed-bug-100260024-medium.png" />
+      <media:content url="http://zapt4.staticworld.net/images/article/2014/04/heartbleed-bug-100260024-medium.png" />
+    </item>
+    <item>
+      <title>Breather bets $25 is a fair price for an hour of peace</title>
+      <pubDate>Wed, 09 Apr 2014 08:30:00 -0700</pubDate>
+      <author>Caitlin McGarry</author>
+      <dc:creator>Caitlin McGarry</dc:creator>
+      <description>Breather makes finding a quiet place to work in Manhattan or Montreal as easy as ordering a car on Uber or a vacation rental on Airbnb.</description>
+      <link>http://www.techhive.com/article/2140827/breather-bets-25-is-a-fair-price-for-an-hour-of-peace.html#tk.rss_all</link>
+      <media:thumbnail url="http://zapt4.staticworld.net/images/article/2014/04/breather_room-100260184-primary.idge.jpg" />
+      <media:content url="http://zapt4.staticworld.net/images/article/2014/04/breather_room-100260184-primary.idge.jpg" />
+    </item>
+    <item>
+      <title>AMD brings Kabini APUs to the desktop with affordable, upgradeable AM1 platform</title>
+      <pubDate>Wed, 09 Apr 2014 07:38:00 -0700</pubDate>
+      <author>Brad Chacos</author>
+      <dc:creator>Brad Chacos</dc:creator>
+      <description><![CDATA[<article>
+	<section class="page">
+<p>
+Cheap PCs sell like hotcakes, and AMD’s rolling out a new “AM1” platform to bring some graphics-assisted <em>oomph</em> to the low end. AM1 is essentially the desktop home for <a href="http://www.pcworld.com/article/2039533/amd-reveals-next-gen-mobile-cpus-claims-unprecedented-graphics-performance.html">AMD’s mobile-focused Kabini APUs</a>—full system-on-a-chip solutions that merge computer processor, graphics processor, and more on a single, energy-efficient chip.</p><p>
+AMD’s new offering goes toe-to-toe with <a href="http://www.pcworld.com/article/2048511/hands-on-with-bay-trail-intels-latest-best-hope-for-tablet-relevance.html">Intel’s Bay Trail chips</a>, but while Intel’s chips typically come soldered to a motherboard (and aren’t upgradeable as a result), the AM1 platform is built around the all-new FS1b Socket, allowing you to swap out APUs as you see fit—and that’s never a bad thing.</p><p class="jumpTag"><a href="/article/2141383/amds-brings-kabini-apus-to-the-desktop-with-affordable-upgradeable-am1-platform.html#jump">To read this article in full or to leave a comment, please click here</a></p></section></article>]]></description>
+      <link>http://www.pcworld.com/article/2141383/amds-brings-kabini-apus-to-the-desktop-with-affordable-upgradeable-am1-platform.html#tk.rss_all</link>
+      <media:thumbnail url="http://zapt2.staticworld.net/images/article/2014/04/amd-am1-100260183-medium.png" />
+      <media:content url="http://zapt2.staticworld.net/images/article/2014/04/amd-am1-100260183-medium.png" />
+    </item>
+    <item>
+      <title>Interview: VR movie pioneer on the challenges and future of virtual reality filmmaking</title>
+      <pubDate>Wed, 09 Apr 2014 06:10:00 -0700</pubDate>
+      <author>Hayden Dingman</author>
+      <dc:creator>Hayden Dingman</dc:creator>
+      <description>Danfung Dennis started his company Condition One because he thinks virtual reality filmmaking is the future—but it's not without some challenges. Interview inside.</description>
+      <link>http://www.techhive.com/article/2141202/interview-vr-movie-pioneer-on-the-challenges-and-future-of-virtual-reality-filmmaking.html#tk.rss_all</link>
+      <media:thumbnail url="http://zapt0.staticworld.net/images/article/2014/04/screenshot.145-100260056-primary.idge.png" />
+      <media:content url="http://zapt0.staticworld.net/images/article/2014/04/screenshot.145-100260056-primary.idge.png" />
+    </item>
+    <item>
+      <title>Geeksphone sells Android and Mozilla phone via Amazon in Europe</title>
+      <pubDate>Wed, 09 Apr 2014 05:30:00 -0700</pubDate>
+      <author>Mikael Ricknäs, IDG News Service</author>
+      <dc:creator>Mikael Ricknäs, IDG News Service</dc:creator>
+      <description>The device ships from stores in France, Germany, Spain and the UK for $330</description>
+      <link>http://www.greenbot.com/article/2141560/geeksphone-sells-android-and-mozilla-phone-via-amazon-in-europe.html#tk.rss_all</link>
+      <media:thumbnail url="http://zapt4.staticworld.net/images/article/2014/04/geeksphone_primary-100260188-primary.idge.jpg" />
+      <media:content url="http://zapt4.staticworld.net/images/article/2014/04/geeksphone_primary-100260188-primary.idge.jpg" />
+    </item>
+    <item>
+      <title>You can drive, you just can’t have any fun: Ford MyKey curbs teen drivers</title>
+      <pubDate>Wed, 09 Apr 2014 05:05:00 -0700</pubDate>
+      <author>John Brandon</author>
+      <dc:creator>John Brandon</dc:creator>
+      <description>Hand over the keys with fewer qualms. Ford MyKey lets parents set speed limits and other controls to help teen drivers stay safe.</description>
+      <link>http://www.techhive.com/article/2084003/you-can-drive-you-just-can-t-have-any-fun-ford-mykey-curbs-teen-drivers.html#tk.rss_all</link>
+      <media:thumbnail url="http://zapt4.staticworld.net/images/article/2014/04/2014_ford_f150_lariat_eat_my_dust-100260109-primary.idge.jpg" />
+      <media:content url="http://zapt4.staticworld.net/images/article/2014/04/2014_ford_f150_lariat_eat_my_dust-100260109-primary.idge.jpg" />
+    </item>
+    <item>
+      <title>Need Wi-Fi access? Just reach out and touch your router</title>
+      <pubDate>Wed, 09 Apr 2014 05:00:00 -0700</pubDate>
+      <author>Yardena Arar</author>
+      <dc:creator>Yardena Arar</dc:creator>
+      <description><![CDATA[<article>
+	<section class="page">
+<p>Networking devices that don’t have conventional user interfaces is one of the bigger barriers to realizing the Internet of Things. To make that process easier, the Wi-Fi Alliance has added support for NFC (near-field communication) technology to its WPS (Wi-Fi Protected Setup) security standard. Instead of typing characters or pushing buttons, you'll soon be able to add an NFC device to your network by simply tapping it against your router.</p><p>NFC is becoming ubiquitous in cell phones and tablets, but the Wi-Fi Alliance expects NFC setup to be even more useful for adding simpler devices—everything from thermostats to household appliances—to networks.</p><p class="jumpTag"><a href="/article/2141540/need-wi-fi-access-reach-out-and-touch-your-router.html#jump">To read this article in full or to leave a comment, please click here</a></p></section></article>]]></description>
+      <link>http://www.pcworld.com/article/2141540/need-wi-fi-access-reach-out-and-touch-your-router.html#tk.rss_all</link>
+      <media:thumbnail url="http://zapt3.staticworld.net/images/article/2013/01/wifi-alliance-100019656-medium.jpg" />
+      <media:content url="http://zapt3.staticworld.net/images/article/2013/01/wifi-alliance-100019656-medium.jpg" />
+    </item>
+    <item>
+      <title>Tested: Why almost every PC could use a video card upgrade</title>
+      <pubDate>Wed, 09 Apr 2014 03:30:00 -0700</pubDate>
+      <author>Marco Chiappetta</author>
+      <dc:creator>Marco Chiappetta</dc:creator>
+      <description><![CDATA[<article>
+	<section class="page">
+<p>
+There was a time when no PC could play a decent game unless it was outfitted with a discrete graphics processor. Today, most off-the-shelf desktop rigs—and nearly all notebook PCs—rely entirely on the CPU for video and graphics processing. And yet the market for <em>discrete</em> graphics continues to thrive. If you don’t give a flying joystick about playing AAA PC games, is a video card a <a href="http://www.pcworld.com/article/2110083/tested-which-pc-upgrades-offer-the-biggest-performance-boost-for-your-buck.html">worthwhile upgrade</a>? Let’s compare the performance of integrated and discrete graphics processors to find out.</p><figure class="medium right"><a class="zoom" href="http://images.techhive.com/images/article/2014/04/kaveri-100259326-orig.jpg"><img src="http://images.techhive.com/images/article/2014/04/kaveri-100259326-medium.jpg" alt="AMD Kaveri " width="300" height="184"/></a> <figcaption>
+<p>
+AMD’s Kaveri-series APUs deliver stronger integrated graphics than Intel’s CPUs.</p><p class="jumpTag"><a href="/article/2139341/tested-why-almost-every-pc-could-use-a-video-card-upgrade.html#jump">To read this article in full or to leave a comment, please click here</a></p></section></article>]]></description>
+      <link>http://www.pcworld.com/article/2139341/tested-why-almost-every-pc-could-use-a-video-card-upgrade.html#tk.rss_all</link>
+      <media:thumbnail url="http://zapt1.staticworld.net/images/article/2014/04/whoneedsvideocards_primary-100260115-medium.jpg" />
+      <media:content url="http://zapt1.staticworld.net/images/article/2014/04/whoneedsvideocards_primary-100260115-medium.jpg" />
+    </item>
+    <item>
+      <title>XOEye smartglasses could be the all-work, no-play wearable that people actually use</title>
+      <pubDate>Wed, 09 Apr 2014 03:00:00 -0700</pubDate>
+      <author>Jon Phillips</author>
+      <dc:creator>Jon Phillips</dc:creator>
+      <description><![CDATA[<article>
+	<section class="page">
+<p>The future of smartglasses will be realized by a factory worker operating a 3000-pound stamp press, not a gamer stomping on virtual-reality bad guys. Face computers will be all about scanning bar codes on cardboard boxes, not scanning tourist attractions for augmented reality overlays.</p><p>Dig it: Smartglasses are a productivity story. <em>They’re about getting things done.</em> This is the vision of <a href="http://www.xoeye.com/">XOEye Technologies</a>, which this Friday will begin seeding its XOne smartglasses to some two-dozen companies in blue-collar business sectors ranging from overnight delivery to oil and gas.</p><figure class="large "><img src="http://images.techhive.com/images/article/2014/04/xone_factory-100260154-large.jpg" alt="xone factory" width="580" height="387"/> <small class="credit">Image: XOEye</small> <figcaption>
+<p>A factory worker operating heavy machinery could give her foreman a clear point-of-view video of everything she’s seeing. Here we see an early XOne hardware prototype.</p><p class="jumpTag"><a href="/article/2141381/xoeye-smartglasses-could-be-the-all-work-no-play-wearable-that-people-actually-use.html#jump">To read this article in full or to leave a comment, please click here</a></p></section></article>]]></description>
+      <link>http://www.pcworld.com/article/2141381/xoeye-smartglasses-could-be-the-all-work-no-play-wearable-that-people-actually-use.html#tk.rss_all</link>
+      <media:thumbnail url="http://zapt0.staticworld.net/images/article/2014/04/xone-100260128-primary.idge.jpg" />
+      <media:content url="http://zapt0.staticworld.net/images/article/2014/04/xone-100260128-primary.idge.jpg" />
+    </item>
+    <item>
+      <title>Apple details $2.2 billion damages claim against Samsung</title>
+      <pubDate>Tue, 08 Apr 2014 19:21:00 -0700</pubDate>
+      <author>Martyn Williams</author>
+      <dc:creator>Martyn Williams</dc:creator>
+      <description><![CDATA[<article>
+	<section class="page">
+<p>
+Apple began to lay out its $2.2 billion damages claim against Samsung Electronics for the first time on Tuesday, arguing to an eight-person jury in California that Samsung’s alleged patent infringement was large and significantly damaged Apple.</p><p>
+Apple is demanding the money for lost sales and royalties it says it suffered as a result of Samsung’s sale of more than 37 million smartphones and tablets between August 2011 and the end of 2013, the company told the court.</p><p>
+The trial, which began last week, involves five Apple patents and 10 Samsung products: nine models of smartphones and one tablet.</p><p>
+The patents are the “slide-to-unlock” function that takes the phone from the lock screen to home screen; universal search, which pulls in results from the phone and the Internet; the ability to sync data in the background; automatic word correction as a user types; and contextual links that attach a menu to items such as phone numbers, email addresses and postal addresses.</p><p class="jumpTag"><a href="/article/2141520/apple-details-22b-damages-claim-against-samsung.html#jump">To read this article in full or to leave a comment, please click here</a></p></section></article>]]></description>
+      <link>http://www.pcworld.com/article/2141520/apple-details-22b-damages-claim-against-samsung.html#tk.rss_all</link>
+      <media:thumbnail url="http://zapt0.staticworld.net/images/article/2013/07/legal-100046669-medium.jpg" />
+      <media:content url="http://zapt0.staticworld.net/images/article/2013/07/legal-100046669-medium.jpg" />
+    </item>
+    <item>
+      <title>Intel and SGI cool servers by dunking them</title>
+      <pubDate>Tue, 08 Apr 2014 15:52:00 -0700</pubDate>
+      <author>Agam Shah</author>
+      <dc:creator>Agam Shah</dc:creator>
+      <description><![CDATA[<article>
+	<section class="page">
+<p>
+Intel and SGI have been testing a supercomputer that’s kept cool by submerging the electronics completely in fluid, a system they say can dramatically reduce energy bills.</p><p>
+The companies built a proof-of-concept supercomputer that’s kept cool using a fluid developed by 3M called Novec. It’s a dielectric liquid, which means electronics can be submerged in it and continue to operate normally.</p><p>
+Novec is already used in fire suppression systems, and Intel and SGI are now testing its viability as a more efficient cooling system for computers, where they say it could replace fans and eliminate the need to use tons of municipal water to cool data centers.</p><p class="jumpTag"><a href="/article/2141500/intel-and-sgi-test-fullimmersion-cooling-for-servers.html#jump">To read this article in full or to leave a comment, please click here</a></p></section></article>]]></description>
+      <link>http://www.pcworld.com/article/2141500/intel-and-sgi-test-fullimmersion-cooling-for-servers.html#tk.rss_all</link>
+      <media:thumbnail url="http://zapt2.staticworld.net/images/article/2014/04/icex-blades-100260162-primary.idge.jpg" />
+      <media:content url="http://zapt2.staticworld.net/images/article/2014/04/icex-blades-100260162-primary.idge.jpg" />
+    </item>
+    <item>
+      <title>Cybercriminals use sophisticated PowerShell-based malware</title>
+      <pubDate>Tue, 08 Apr 2014 14:11:00 -0700</pubDate>
+      <author>Lucian Constantin</author>
+      <dc:creator>Lucian Constantin</dc:creator>
+      <description><![CDATA[<article>
+	<section class="page">
+<p>Cybercriminals have been developing increasingly sophisticated malware that make use of Windows PowerShell scripts in an attempt to fly under the radar.</p><p>The Windows PowerShell is a command-line shell and scripting environment designed for automating system and application administration tasks. It is installed by default in Windows 7 and above, but old versions are also available for Windows XP as a separate package.</p><p>The abuse of Windows PowerShell for malicious purposes is not new, but it seems that some capable malware developers have turned their focus to this powerful feature lately, as security researchers from both Symantec and Trend Micro have come across new and sophisticated threats that use it.</p><p class="jumpTag"><a href="/article/2141341/cybercriminals-use-sophisticated-powershellbased-malware.html#jump">To read this article in full or to leave a comment, please click here</a></p></section></article>]]></description>
+      <link>http://www.pcworld.com/article/2141341/cybercriminals-use-sophisticated-powershellbased-malware.html#tk.rss_all</link>
+      <media:thumbnail url="http://zapt4.staticworld.net/images/article/2013/02/powershellplus-100024266-medium.jpg" />
+      <media:content url="http://zapt4.staticworld.net/images/article/2013/02/powershellplus-100024266-medium.jpg" />
+    </item>
+    <item>
+      <title>Shareholders slam Facebook over 'incongruent' PAC contributions on gay rights, online piracy</title>
+      <pubDate>Tue, 08 Apr 2014 14:07:00 -0700</pubDate>
+      <author>Zach Miners</author>
+      <dc:creator>Zach Miners</dc:creator>
+      <description><![CDATA[<article>
+	<section class="page">
+<p>Facebook shareholders are taking the company to task for political contributions to politicians whose positions on issues such as gay rights and online piracy counter Facebook’s.</p><p>The contributions do not agree with Facebook’s public statements on issues including the Stop Online Piracy Act, the Protect IP Act, and lesbian, gay, bisexual and transgender (LGBT) rights, according to a document filed Tuesday with the U.S. Securities and Exchange Commission by shareholder NorthStar Asset Management, which represents more than 55,000 Facebook shares.</p><p>“Facebook has made political contributions that support politicians whose voting records directly contrast the company’s stated public policy priorities, and may undermine the company’s business model,” <a href="http://investor.fb.com/secfiling.cfm?filingid=1214659-14-2682&amp;CIK=1326801">the filing said</a>.</p><p class="jumpTag"><a href="/article/2141300/shareholders-slam-facebook-over-incongruent-pac-contributions-on-gay-rights-online-piracy.html#jump">To read this article in full or to leave a comment, please click here</a></p></section></article>]]></description>
+      <link>http://www.pcworld.com/article/2141300/shareholders-slam-facebook-over-incongruent-pac-contributions-on-gay-rights-online-piracy.html#tk.rss_all</link>
+      <media:thumbnail url="http://zapt2.staticworld.net/images/article/2013/04/facebook_home_logo_580-100034106-medium.jpg" />
+      <media:content url="http://zapt2.staticworld.net/images/article/2013/04/facebook_home_logo_580-100034106-medium.jpg" />
+    </item>
+  </channel>
+</rss>

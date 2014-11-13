@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" version="2.0">
+  <channel>
+    <title>Computerworld Articles</title>
+    <link>http://www.computerworld.com/</link>
+    <description />
+    <language>en_US</language>
+    <copyright>(c) Copyright 2014 Computerworld, Inc. All Rights Reserved.</copyright>
+    <pubDate>Wed, 09 Apr 2014 23:19:23 GMT</pubDate>
+    <dc:date>2014-04-09T23:19:23Z</dc:date>
+    <dc:language>en_US</dc:language>
+    <dc:rights>(c) Copyright 2014 Computerworld, Inc. All Rights Reserved.</dc:rights>
+    <item>
+      <title>Motorola Mobility names COO with Lenovo buy looming</title>
+      <link>http://www.computerworld.com/s/article/9247559/Motorola_Mobility_names_COO_with_Lenovo_buy_looming</link>
+      <description>Rick Osterloh has been promoted to president and chief operating officer of Motorola Mobility, the Google business unit that is being acquired by Lenovo.</description>
+      <pubDate>Wed, 09 Apr 2014 22:42:00 GMT</pubDate>
+      <author>(Agam Shah)</author>
+      <guid>http://www.computerworld.com/s/article/9247559/Motorola_Mobility_names_COO_with_Lenovo_buy_looming</guid>
+      <dc:date>2014-04-09T22:42:00Z</dc:date>
+    </item>
+    <item>
+      <title>HP to pay $108M in bribery, corruption case</title>
+      <link>http://www.computerworld.com/s/article/9247560/HP_to_pay_108M_in_bribery_corruption_case</link>
+      <description>Hewlett-Packard will pay $108 million in penalties after subsidiaries in Russia, Poland and Mexico were found to have paid bribes to win business, the U.S. Department of Justice said Wednesday.</description>
+      <pubDate>Wed, 09 Apr 2014 22:41:00 GMT</pubDate>
+      <author>(James Niccolai)</author>
+      <guid>http://www.computerworld.com/s/article/9247560/HP_to_pay_108M_in_bribery_corruption_case</guid>
+      <dc:date>2014-04-09T22:41:00Z</dc:date>
+    </item>
+    <item>
+      <title>VMware extends Horizon beyond virtual desktop</title>
+      <link>http://www.computerworld.com/s/article/9247561/VMware_extends_Horizon_beyond_virtual_desktop</link>
+      <description>VMware is about to release a new version of its Horizon VDI (virtual desktop infrastructure) software that will allow administrators to manage VDI and non-VDI deployments in a unified manner, by using multiple VMware technologies.</description>
+      <pubDate>Wed, 09 Apr 2014 21:50:00 GMT</pubDate>
+      <author>(Joab Jackson)</author>
+      <guid>http://www.computerworld.com/s/article/9247561/VMware_extends_Horizon_beyond_virtual_desktop</guid>
+      <dc:date>2014-04-09T21:50:00Z</dc:date>
+    </item>
+    <item>
+      <title>Land Rover reveals 'transparent' hood</title>
+      <link>http://www.computerworld.com/s/article/9247558/Land_Rover_reveals_transparent_hood</link>
+      <description>In what is definitely the stuff of science fiction, Land Rover has created a virtual transparent hood that allows drivers to see the ground directly in front of them.</description>
+      <pubDate>Wed, 09 Apr 2014 20:30:00 GMT</pubDate>
+      <author>lmearian@computerworld.com (Lucas Mearian)</author>
+      <guid>http://www.computerworld.com/s/article/9247558/Land_Rover_reveals_transparent_hood</guid>
+      <dc:date>2014-04-09T20:30:00Z</dc:date>
+    </item>
+    <item>
+      <title>Tip of the Hat: What the Heartbleed bug means for you</title>
+      <link>http://www.computerworld.com/s/article/9247557/Tip_of_the_Hat_What_the_Heartbleed_bug_means_for_you</link>
+      <description>&lt;i&gt;Computerworld&lt;/i&gt; offers a Tip of the Hat to &lt;b&gt;Shane Dingman&lt;/b&gt; of the &lt;i&gt;Toronto Globe and Mail&lt;/i&gt; for an easy-to-understand look at the Heartbleed security bug -- what happened, what key websites are among the hundreds of thousands affected, and whether users can do anything at this point.</description>
+      <pubDate>Wed, 09 Apr 2014 20:25:00 GMT</pubDate>
+      <author>mike_bucken@computerworld.com (Mike Bucken)</author>
+      <guid>http://www.computerworld.com/s/article/9247557/Tip_of_the_Hat_What_the_Heartbleed_bug_means_for_you</guid>
+      <dc:date>2014-04-09T20:25:00Z</dc:date>
+    </item>
+    <item>
+      <title>TWC-Comcast deal could mean higher broadband prices</title>
+      <link>http://www.computerworld.com/s/article/9247556/TWC_Comcast_deal_could_mean_higher_broadband_prices</link>
+      <description>The proposed $45.2 billion acquisition of Time Warner Cable by Comcast would give the company huge market power to determine broadband prices and Internet content, a group of U.S. senators said Wednesday.</description>
+      <pubDate>Wed, 09 Apr 2014 18:32:00 GMT</pubDate>
+      <author>(Grant Gross)</author>
+      <guid>http://www.computerworld.com/s/article/9247556/TWC_Comcast_deal_could_mean_higher_broadband_prices</guid>
+      <dc:date>2014-04-09T18:32:00Z</dc:date>
+    </item>
+    <item>
+      <title>WestJet turns to gamification to help its Oracle ERP users soar</title>
+      <link>http://www.computerworld.com/s/article/9247553/WestJet_turns_to_gamification_to_help_its_Oracle_ERP_users_soar</link>
+      <description>Canadian airline WestJet believes gamification, the notion of applying elements of game design to a workplace setting, can help its employees use more effectively its Oracle J.D. Edwards ERP (enterprise resource planning) system.</description>
+      <pubDate>Wed, 09 Apr 2014 18:19:00 GMT</pubDate>
+      <author>(Chris Kanaracus)</author>
+      <guid>http://www.computerworld.com/s/article/9247553/WestJet_turns_to_gamification_to_help_its_Oracle_ERP_users_soar</guid>
+      <dc:date>2014-04-09T18:19:00Z</dc:date>
+    </item>
+    <item>
+      <title>Dropbox for Business leaves beta, aims for workplace adoption</title>
+      <link>http://www.computerworld.com/s/article/9247554/Dropbox_for_Business_leaves_beta_aims_for_workplace_adoption</link>
+      <description>Dropbox unwrapped the enterprise edition of its cloud storage and file sync service on Wednesday, as it seeks to expand its customer base from consumers to businesses.</description>
+      <pubDate>Wed, 09 Apr 2014 18:09:00 GMT</pubDate>
+      <author>(Juan Carlos Perez)</author>
+      <guid>http://www.computerworld.com/s/article/9247554/Dropbox_for_Business_leaves_beta_aims_for_workplace_adoption</guid>
+      <dc:date>2014-04-09T18:09:00Z</dc:date>
+    </item>
+    <item>
+      <title>With MongoDB 2.6, NoSQL database gets a speed boost</title>
+      <link>http://www.computerworld.com/s/article/9247555/With_MongoDB_2.6_NoSQL_database_gets_a_speed_boost</link>
+      <description>Working to keep its place in an increasingly heated competitive landscape, MongoDB has updated its namesake open-source NoSQL database system with considerable performance improvements, a new automated management module and stronger security tools.</description>
+      <pubDate>Wed, 09 Apr 2014 15:29:00 GMT</pubDate>
+      <author>(Joab Jackson)</author>
+      <guid>http://www.computerworld.com/s/article/9247555/With_MongoDB_2.6_NoSQL_database_gets_a_speed_boost</guid>
+      <dc:date>2014-04-09T15:29:00Z</dc:date>
+    </item>
+    <item>
+      <title>MediaFire offers 1TB of cloud storage for $2.50, 50GB for free</title>
+      <link>http://www.computerworld.com/s/article/9247551/MediaFire_offers_1TB_of_cloud_storage_for_2.50_50GB_for_free</link>
+      <description>MediaFire has launched a storage and file-sharing service that it argues is more secure than Amazon's.</description>
+      <pubDate>Wed, 09 Apr 2014 15:00:00 GMT</pubDate>
+      <author>lmearian@computerworld.com (Lucas Mearian)</author>
+      <guid>http://www.computerworld.com/s/article/9247551/MediaFire_offers_1TB_of_cloud_storage_for_2.50_50GB_for_free</guid>
+      <dc:date>2014-04-09T15:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Torpedo-shaped robot joins search for missing Malaysian flight</title>
+      <link>http://www.computerworld.com/s/article/9247550/Torpedo_shaped_robot_joins_search_for_missing_Malaysian_flight</link>
+      <description>As the hunt for missing Malaysian flight 370 narrows, searchers are preparing to use the Bluefin 21, a 16-foot-long autonomous robot, to look for wreckage beneath the ocean's surface.</description>
+      <pubDate>Wed, 09 Apr 2014 14:26:00 GMT</pubDate>
+      <author>sgaudin@computerworld.com (Sharon Gaudin)</author>
+      <guid>http://www.computerworld.com/s/article/9247550/Torpedo_shaped_robot_joins_search_for_missing_Malaysian_flight</guid>
+      <dc:date>2014-04-09T14:26:00Z</dc:date>
+    </item>
+    <item>
+      <title>Adobe patches critical flaws in Flash Player and AIR</title>
+      <link>http://www.computerworld.com/s/article/9247548/Adobe_patches_critical_flaws_in_Flash_Player_and_AIR</link>
+      <description>Adobe Systems released security updates for Flash Player and AIR in order to address four critical vulnerabilities that could lead to arbitrary code execution and information disclosure.</description>
+      <pubDate>Wed, 09 Apr 2014 12:28:00 GMT</pubDate>
+      <author>(Lucian Constantin)</author>
+      <guid>http://www.computerworld.com/s/article/9247548/Adobe_patches_critical_flaws_in_Flash_Player_and_AIR</guid>
+      <dc:date>2014-04-09T12:28:00Z</dc:date>
+    </item>
+    <item>
+      <title>Microsoft suspends Windows 8.1 Update release to businesses</title>
+      <link>http://www.computerworld.com/s/article/9247547/Microsoft_suspends_Windows_8.1_Update_release_to_businesses</link>
+      <description>Microsoft suspended serving Windows 8.1 Update to businesses that rely on WSUS (Windows Server Update Services), saying that a bug would prevent devices from recognizing future updates.</description>
+      <pubDate>Wed, 09 Apr 2014 11:30:00 GMT</pubDate>
+      <author>gkeizer@computerworld.com (Gregg Keizer)</author>
+      <guid>http://www.computerworld.com/s/article/9247547/Microsoft_suspends_Windows_8.1_Update_release_to_businesses</guid>
+      <dc:date>2014-04-09T11:30:00Z</dc:date>
+    </item>
+    <item>
+      <title>One user's path to a Chromebook enterprise</title>
+      <link>http://www.computerworld.com/s/article/9247451/One_user_s_path_to_a_Chromebook_enterprise_</link>
+      <description>Microsoft's dominance in business may be mammoth but it isn't absolute, as Tim Dickson, the director of technology at Auberge Resorts, has found.</description>
+      <pubDate>Wed, 09 Apr 2014 10:22:00 GMT</pubDate>
+      <author>pthibodeau@computerworld.com (Patrick Thibodeau)</author>
+      <guid>http://www.computerworld.com/s/article/9247451/One_user_s_path_to_a_Chromebook_enterprise_</guid>
+      <dc:date>2014-04-09T10:22:00Z</dc:date>
+    </item>
+    <item>
+      <title>Yahoo email anti-spoofing policy breaks mailing lists</title>
+      <link>http://www.computerworld.com/s/article/9247512/Yahoo_email_anti_spoofing_policy_breaks_mailing_lists</link>
+      <description>In an attempt to block email spoofing attacks on yahoo.com addresses, Yahoo began imposing a stricter email validation policy that unfortunately breaks the usual workflow on legitimate mailing lists.</description>
+      <pubDate>Wed, 09 Apr 2014 08:47:00 GMT</pubDate>
+      <author>(Lucian Constantin)</author>
+      <guid>http://www.computerworld.com/s/article/9247512/Yahoo_email_anti_spoofing_policy_breaks_mailing_lists</guid>
+      <dc:date>2014-04-09T08:47:00Z</dc:date>
+    </item>
+    <item>
+      <title>Apple lays out its $2.2B claim against Samsung</title>
+      <link>http://www.computerworld.com/s/article/9247528/Apple_lays_out_its_2.2B_claim_against_Samsung</link>
+      <description>Apple began to lay out its $2.2 billion damages claim against Samsung Electronics for the first time on Tuesday, arguing to an eight-person jury in California that Samsung&amp;#39;s alleged patent infringement was large and significantly damaged Apple.</description>
+      <pubDate>Tue, 08 Apr 2014 23:20:00 GMT</pubDate>
+      <author>(Martyn Williams)</author>
+      <guid>http://www.computerworld.com/s/article/9247528/Apple_lays_out_its_2.2B_claim_against_Samsung</guid>
+      <dc:date>2014-04-08T23:20:00Z</dc:date>
+    </item>
+    <item>
+      <title>Ice X: Intel and SGI test full-immersion cooling for servers</title>
+      <link>http://www.computerworld.com/s/article/9247529/Ice_X_Intel_and_SGI_test_full_immersion_cooling_for_servers</link>
+      <description>Intel and SGI have been testing a supercomputer that&amp;#39;s kept cool by submerging the electronics completely in fluid, a system they say can dramatically reduce energy bills.</description>
+      <pubDate>Tue, 08 Apr 2014 22:19:00 GMT</pubDate>
+      <author>(Agam Shah)</author>
+      <guid>http://www.computerworld.com/s/article/9247529/Ice_X_Intel_and_SGI_test_full_immersion_cooling_for_servers</guid>
+      <dc:date>2014-04-08T22:19:00Z</dc:date>
+    </item>
+    <item>
+      <title>Phantom flying drone shoots improved, more stable video</title>
+      <link>http://www.computerworld.com/s/article/9247546/Phantom_flying_drone_shoots_improved_more_stable_video</link>
+      <description>Aerial videography drone maker DJI introduced its next generation quad-copter, the Phantom 2 Vision Plus, at NAB in Las Vegas Monday.</description>
+      <pubDate>Tue, 08 Apr 2014 20:57:00 GMT</pubDate>
+      <author>(Nick Barber)</author>
+      <guid>http://www.computerworld.com/s/article/9247546/Phantom_flying_drone_shoots_improved_more_stable_video</guid>
+      <dc:date>2014-04-08T20:57:00Z</dc:date>
+    </item>
+    <item>
+      <title>Wendy&amp;#39;s makes an Oracle ERP upgrade quick and tasty</title>
+      <link>http://www.computerworld.com/s/article/9247527/Wendy_39_s_makes_an_Oracle_ERP_upgrade_quick_and_tasty</link>
+      <description>It&amp;#39;s not uncommon for ERP projects to take longer and cost more money than initially planned, but neither outcome ended up being on the menu for fast-food giant Wendy&amp;#39;s recent Oracle E-Business Suite upgrade.</description>
+      <pubDate>Tue, 08 Apr 2014 20:53:00 GMT</pubDate>
+      <author>(Chris Kanaracus)</author>
+      <guid>http://www.computerworld.com/s/article/9247527/Wendy_39_s_makes_an_Oracle_ERP_upgrade_quick_and_tasty</guid>
+      <dc:date>2014-04-08T20:53:00Z</dc:date>
+    </item>
+    <item>
+      <title>Microsoft Patch Tuesday bids adieu to Windows XP</title>
+      <link>http://www.computerworld.com/s/article/9247525/Microsoft_Patch_Tuesday_bids_adieu_to_Windows_XP</link>
+      <description>This month&amp;#39;s &amp;quot;Patch Tuesday&amp;quot; includes the final round of security fixes Microsoft will issue for Windows XP, potentially leaving millions that continue to use the OS open to attack.</description>
+      <pubDate>Tue, 08 Apr 2014 20:20:00 GMT</pubDate>
+      <author>(Joab Jackson)</author>
+      <guid>http://www.computerworld.com/s/article/9247525/Microsoft_Patch_Tuesday_bids_adieu_to_Windows_XP</guid>
+      <dc:date>2014-04-08T20:20:00Z</dc:date>
+    </item>
+    <item>
+      <title>Vendors and admins rush to patch OpenSSL vulnerability</title>
+      <link>http://www.computerworld.com/s/article/9247526/Vendors_and_admins_rush_to_patch_OpenSSL_vulnerability</link>
+      <description>Since news of the OpenSSL bug started to spread on Monday, administrators and vendors have made a mad scramble to patch the Heartbleed bug, named for the flawed implementation of the heartbeat option in the cryptographic library.</description>
+      <pubDate>Tue, 08 Apr 2014 19:58:00 GMT</pubDate>
+      <author>(Steve Ragan)</author>
+      <guid>http://www.computerworld.com/s/article/9247526/Vendors_and_admins_rush_to_patch_OpenSSL_vulnerability</guid>
+      <dc:date>2014-04-08T19:58:00Z</dc:date>
+    </item>
+    <item>
+      <title>Lawmakers push attorney general for NSA changes</title>
+      <link>http://www.computerworld.com/s/article/9247524/Lawmakers_push_attorney_general_for_NSA_changes</link>
+      <description>Several U.S. lawmakers on Tuesday urged the nation&amp;#39;s attorney general to curtail the National Security Agency&amp;#39;s collection of overseas electronic communications, saying President Barack Obama&amp;#39;s promise to revamp a surveillance program focused on U.S. telephone records didn&amp;#39;t go far enough.</description>
+      <pubDate>Tue, 08 Apr 2014 18:15:00 GMT</pubDate>
+      <author>(Grant Gross)</author>
+      <guid>http://www.computerworld.com/s/article/9247524/Lawmakers_push_attorney_general_for_NSA_changes</guid>
+      <dc:date>2014-04-08T18:15:00Z</dc:date>
+    </item>
+    <item>
+      <title>Windows 8.1 Update arrives today</title>
+      <link>http://www.computerworld.com/s/article/9247522/Windows_8.1_Update_arrives_today</link>
+      <description>Microsoft will deliver the much-awaited update to Windows 8.1 Tuesday, and with it comes a packed goody bag of treats for laptop and PC users.</description>
+      <pubDate>Tue, 08 Apr 2014 16:35:00 GMT</pubDate>
+      <author>(Juan Carlos Perez)</author>
+      <guid>http://www.computerworld.com/s/article/9247522/Windows_8.1_Update_arrives_today</guid>
+      <dc:date>2014-04-08T16:35:00Z</dc:date>
+    </item>
+    <item>
+      <title>Lenovo to roll out more low-priced Android tablets in May</title>
+      <link>http://www.computerworld.com/s/article/9247523/Lenovo_to_roll_out_more_low_priced_Android_tablets_in_May</link>
+      <description>More inexpensive Android tablets with prices from US$129 to $249 are coming from Lenovo.</description>
+      <pubDate>Tue, 08 Apr 2014 16:23:00 GMT</pubDate>
+      <author>(Agam Shah)</author>
+      <guid>http://www.computerworld.com/s/article/9247523/Lenovo_to_roll_out_more_low_priced_Android_tablets_in_May</guid>
+      <dc:date>2014-04-08T16:23:00Z</dc:date>
+    </item>
+    <item>
+      <title>Microsoft requires migration to Windows 8.1 Update within 5 weeks</title>
+      <link>http://www.computerworld.com/s/article/9247520/Microsoft_requires_migration_to_Windows_8.1_Update_within_5_weeks</link>
+      <description>Windows 8.1 users have a narrow window to upgrade to Windows 8.1 Update, the refresh that begins rolling out to customers today, to continue receiving future bug fixes, patches and enhancements.</description>
+      <pubDate>Tue, 08 Apr 2014 15:27:00 GMT</pubDate>
+      <author>gkeizer@computerworld.com (Gregg Keizer)</author>
+      <guid>http://www.computerworld.com/s/article/9247520/Microsoft_requires_migration_to_Windows_8.1_Update_within_5_weeks</guid>
+      <dc:date>2014-04-08T15:27:00Z</dc:date>
+    </item>
+    <item>
+      <title>Google pushes I/O registration deadline back to April 15</title>
+      <link>http://www.computerworld.com/s/article/9247519/Google_pushes_I_O_registration_deadline_back_to_April_15</link>
+      <description>If you thought you'd spend part of today signing up to attend this year's Google I/O, think again.</description>
+      <pubDate>Tue, 08 Apr 2014 15:02:00 GMT</pubDate>
+      <author>sgaudin@computerworld.com (Sharon Gaudin)</author>
+      <guid>http://www.computerworld.com/s/article/9247519/Google_pushes_I_O_registration_deadline_back_to_April_15</guid>
+      <dc:date>2014-04-08T15:02:00Z</dc:date>
+    </item>
+    <item>
+      <title>3D printer Kickstarter project aims for $50K, nets more than $1M</title>
+      <link>http://www.computerworld.com/s/article/9247518/3D_printer_Kickstarter_project_aims_for_50K_nets_more_than_1M</link>
+      <description>The Micro is being touted by its inventors as the first true mainstream 3D printer; apparently, people donating to the Kickstarter project agree.</description>
+      <pubDate>Tue, 08 Apr 2014 14:45:00 GMT</pubDate>
+      <author>lmearian@computerworld.com (Lucas Mearian)</author>
+      <guid>http://www.computerworld.com/s/article/9247518/3D_printer_Kickstarter_project_aims_for_50K_nets_more_than_1M</guid>
+      <dc:date>2014-04-08T14:45:00Z</dc:date>
+    </item>
+    <item>
+      <title>Building your own rocket or robot? NASA has code for you</title>
+      <link>http://www.computerworld.com/s/article/9247517/Building_your_own_rocket_or_robot_NASA_has_code_for_you</link>
+      <description>Ever wish you could get your hands on the software that NASA used to launch its Apollo lunar missions or to get robots working on Mars? If so, NASA has something for you.</description>
+      <pubDate>Tue, 08 Apr 2014 14:42:00 GMT</pubDate>
+      <author>sgaudin@computerworld.com (Sharon Gaudin)</author>
+      <guid>http://www.computerworld.com/s/article/9247517/Building_your_own_rocket_or_robot_NASA_has_code_for_you</guid>
+      <dc:date>2014-04-08T14:42:00Z</dc:date>
+    </item>
+    <item>
+      <title>Google looks to push Glass into the enterprise</title>
+      <link>http://www.computerworld.com/s/article/9247515/Google_looks_to_push_Glass_into_the_enterprise</link>
+      <description>Google is looking to push its wearable computer Glass into the enterprise.</description>
+      <pubDate>Tue, 08 Apr 2014 13:55:00 GMT</pubDate>
+      <author>sgaudin@computerworld.com (Sharon Gaudin)</author>
+      <guid>http://www.computerworld.com/s/article/9247515/Google_looks_to_push_Glass_into_the_enterprise</guid>
+      <dc:date>2014-04-08T13:55:00Z</dc:date>
+    </item>
+    <item>
+      <title>FAQ: Good-bye old pal, old paint, Windows XP</title>
+      <link>http://www.computerworld.com/s/article/9247513/FAQ_Good_bye_old_pal_old_paint_Windows_XP</link>
+      <description>Today's the day: Microsoft will serve up its final public patches for Windows XP, the aging OS that's been around since 2001.</description>
+      <pubDate>Tue, 08 Apr 2014 13:36:00 GMT</pubDate>
+      <author>gkeizer@computerworld.com (Gregg Keizer)</author>
+      <guid>http://www.computerworld.com/s/article/9247513/FAQ_Good_bye_old_pal_old_paint_Windows_XP</guid>
+      <dc:date>2014-04-08T13:36:00Z</dc:date>
+    </item>
+    <item>
+      <title>Gogo increases in-flight bandwidth to 70Mbps</title>
+      <link>http://www.computerworld.com/s/article/9247510/Gogo_increases_in_flight_bandwidth_to_70Mbps</link>
+      <description>In-flight Internet access provider Gogo is working on a service that will increase the maximum data speed on planes to 70Mbps.</description>
+      <pubDate>Tue, 08 Apr 2014 10:51:00 GMT</pubDate>
+      <author>(Mikael Rickn&amp;#228;s)</author>
+      <guid>http://www.computerworld.com/s/article/9247510/Gogo_increases_in_flight_bandwidth_to_70Mbps</guid>
+      <dc:date>2014-04-08T10:51:00Z</dc:date>
+    </item>
+    <item>
+      <title>China obtains patent concessions in return for approving Microsoft-Nokia deal</title>
+      <link>http://www.computerworld.com/s/article/9247506/China_obtains_patent_concessions_in_return_for_approving_Microsoft_Nokia_deal</link>
+      <description>China is requiring Microsoft and Nokia to make promises on fair patent use, fearing that the proposed acquisition between the two companies could spell trouble for the nation&amp;#39;s Android device makers.</description>
+      <pubDate>Tue, 08 Apr 2014 10:11:00 GMT</pubDate>
+      <author>(Michael Kan)</author>
+      <guid>http://www.computerworld.com/s/article/9247506/China_obtains_patent_concessions_in_return_for_approving_Microsoft_Nokia_deal</guid>
+      <dc:date>2014-04-08T10:11:00Z</dc:date>
+    </item>
+    <item>
+      <title>Samsung sees Q1 profit decline amid market saturation</title>
+      <link>http://www.computerworld.com/s/article/9247507/Samsung_sees_Q1_profit_decline_amid_market_saturation</link>
+      <description>Samsung Electronics on Tuesday warned that it would post a drop in operating profit during the first quarter of 2014.</description>
+      <pubDate>Tue, 08 Apr 2014 09:42:00 GMT</pubDate>
+      <author>(Tim Hornyak)</author>
+      <guid>http://www.computerworld.com/s/article/9247507/Samsung_sees_Q1_profit_decline_amid_market_saturation</guid>
+      <dc:date>2014-04-08T09:42:00Z</dc:date>
+    </item>
+    <item>
+      <title>Jury rules against NXP in patent dispute with BlackBerry</title>
+      <link>http://www.computerworld.com/s/article/9247508/Jury_rules_against_NXP_in_patent_dispute_with_BlackBerry</link>
+      <description>A jury in Florida has decided in favor of BlackBerry in a patent dispute with NXP.</description>
+      <pubDate>Tue, 08 Apr 2014 06:56:00 GMT</pubDate>
+      <author>(John Ribeiro)</author>
+      <guid>http://www.computerworld.com/s/article/9247508/Jury_rules_against_NXP_in_patent_dispute_with_BlackBerry</guid>
+      <dc:date>2014-04-08T06:56:00Z</dc:date>
+    </item>
+    <item>
+      <title>&amp;#39;Heartbleed&amp;#39; bug in OpenSSL leaves encrypted communications at risk</title>
+      <link>http://www.computerworld.com/s/article/9247511/_39_Heartbleed_39_bug_in_OpenSSL_leaves_encrypted_communications_at_risk</link>
+      <description>Computer security experts are advising administrators to patch a severe flaw in a software library used by millions of websites to encrypt sensitive communications.</description>
+      <pubDate>Tue, 08 Apr 2014 01:54:00 GMT</pubDate>
+      <author>(Jeremy Kirk)</author>
+      <guid>http://www.computerworld.com/s/article/9247511/_39_Heartbleed_39_bug_in_OpenSSL_leaves_encrypted_communications_at_risk</guid>
+      <dc:date>2014-04-08T01:54:00Z</dc:date>
+    </item>
+    <item>
+      <title>AT&amp;amp;T cites power problem in U-verse outage</title>
+      <link>http://www.computerworld.com/s/article/9247503/AT_amp_T_cites_power_problem_in_U_verse_outage</link>
+      <description>A power problem caused a widespread outage on AT&amp;amp;T&amp;#39;s U-verse broadband service Monday that some customers said affected both TV and Internet service.</description>
+      <pubDate>Tue, 08 Apr 2014 00:40:00 GMT</pubDate>
+      <author>(Stephen Lawson)</author>
+      <guid>http://www.computerworld.com/s/article/9247503/AT_amp_T_cites_power_problem_in_U_verse_outage</guid>
+      <dc:date>2014-04-08T00:40:00Z</dc:date>
+    </item>
+    <item>
+      <title>Windows XP: The end is nigh</title>
+      <link>http://www.computerworld.com/s/article/9247504/Windows_XP_The_end_is_nigh</link>
+      <description>When Microsoft ends support for Windows XP on Tuesday, a security sinkhole will likely open and gradually widen, threatening hundreds of millions of PCs worldwide in homes, companies, government agencies and schools.</description>
+      <pubDate>Mon, 07 Apr 2014 21:51:00 GMT</pubDate>
+      <author>(Juan Carlos Perez)</author>
+      <guid>http://www.computerworld.com/s/article/9247504/Windows_XP_The_end_is_nigh</guid>
+      <dc:date>2014-04-07T21:51:00Z</dc:date>
+    </item>
+    <item>
+      <title>Intel's Thunderbolt 2 supports peer-to-peer Mac connections</title>
+      <link>http://www.computerworld.com/s/article/9247502/Intel_s_Thunderbolt_2_supports_peer_to_peer_Mac_connections</link>
+      <description>Intel is bringing peer-to-peer computer networking capabilities to Thunderbolt 2 with a feature that allows Macs -- and soon, PCs -- to connect directly for high-speed data transfers.</description>
+      <pubDate>Mon, 07 Apr 2014 21:06:00 GMT</pubDate>
+      <author>(Agam Shah)</author>
+      <guid>http://www.computerworld.com/s/article/9247502/Intel_s_Thunderbolt_2_supports_peer_to_peer_Mac_connections</guid>
+      <dc:date>2014-04-07T21:06:00Z</dc:date>
+    </item>
+    <item>
+      <title>Hynix reveals world's first 128GB DDR4 memory module</title>
+      <link>http://www.computerworld.com/s/article/9247500/Hynix_reveals_world_s_first_128GB_DDR4_memory_module</link>
+      <description>SK Hynix said it has developed the world's first 128GB DDR4 memory module, with twice the capacity of the company's current 64GB module.</description>
+      <pubDate>Mon, 07 Apr 2014 18:07:00 GMT</pubDate>
+      <author>lmearian@computerworld.com (Lucas Mearian)</author>
+      <guid>http://www.computerworld.com/s/article/9247500/Hynix_reveals_world_s_first_128GB_DDR4_memory_module</guid>
+      <dc:date>2014-04-07T18:07:00Z</dc:date>
+    </item>
+    <item>
+      <title>HP touts speedy Z Turbo Drive PCI-Express SSDs</title>
+      <link>http://www.computerworld.com/s/article/9247501/HP_touts_speedy_Z_Turbo_Drive_PCI_Express_SSDs</link>
+      <description>Hewlett-Packard&amp;#39;s new Z Turbo Drive solid-state drives will be faster than conventional SSDs that plug into hard-drive slots, the company said.</description>
+      <pubDate>Mon, 07 Apr 2014 17:59:00 GMT</pubDate>
+      <author>(Agam Shah)</author>
+      <guid>http://www.computerworld.com/s/article/9247501/HP_touts_speedy_Z_Turbo_Drive_PCI_Express_SSDs</guid>
+      <dc:date>2014-04-07T17:59:00Z</dc:date>
+    </item>
+    <item>
+      <title>Supreme Court takes a pass on NSA surveillance case</title>
+      <link>http://www.computerworld.com/s/article/9247498/Supreme_Court_takes_a_pass_on_NSA_surveillance_case</link>
+      <description>The U.S. Supreme Court has declined to hear a lawsuit challenging the U.S. National Security Agency&amp;#39;s collection of U.S. phone records filed by a conservative activist, despite a lower court&amp;#39;s ruling that the program may be illegal.</description>
+      <pubDate>Mon, 07 Apr 2014 16:54:00 GMT</pubDate>
+      <author>(Grant Gross)</author>
+      <guid>http://www.computerworld.com/s/article/9247498/Supreme_Court_takes_a_pass_on_NSA_surveillance_case</guid>
+      <dc:date>2014-04-07T16:54:00Z</dc:date>
+    </item>
+    <item>
+      <title>U.S. hits H-1B cap with 'high number' of petitions</title>
+      <link>http://www.computerworld.com/s/article/9247496/U.S._hits_H_1B_cap_with_high_number_of_petitions</link>
+      <description>The U.S. government said today it has reached the H-1B cap, and if this year is similar to previous years, 70% of applicants are under the age of 35, and a major portion will take jobs at offshore outsourcing companies.</description>
+      <pubDate>Mon, 07 Apr 2014 16:38:00 GMT</pubDate>
+      <author>pthibodeau@computerworld.com (Patrick Thibodeau)</author>
+      <guid>http://www.computerworld.com/s/article/9247496/U.S._hits_H_1B_cap_with_high_number_of_petitions</guid>
+      <dc:date>2014-04-07T16:38:00Z</dc:date>
+    </item>
+    <item>
+      <title>ICANN delays uncorking .wine and .vin domains</title>
+      <link>http://www.computerworld.com/s/article/9247494/ICANN_delays_uncorking_.wine_and_.vin_domains</link>
+      <description>European lawmakers are concerned that cyber-squatting could undermine the entire wine industry and welcomed a decision to put the allocation of new top level domains on hold.</description>
+      <pubDate>Mon, 07 Apr 2014 14:54:00 GMT</pubDate>
+      <author>(Jennifer Baker)</author>
+      <guid>http://www.computerworld.com/s/article/9247494/ICANN_delays_uncorking_.wine_and_.vin_domains</guid>
+      <dc:date>2014-04-07T14:54:00Z</dc:date>
+    </item>
+    <item>
+      <title>Low adoption rate of HSTS website security mechanism is worrying, EFF says</title>
+      <link>http://www.computerworld.com/s/article/9247495/Low_adoption_rate_of_HSTS_website_security_mechanism_is_worrying_EFF_says</link>
+      <description>Almost a year and a half after the HTTP Strict Transport Security (HSTS) mechanism was established as a standard, its adoption rate by websites remains low because developers are not aware of its benefits and Internet Explorer still doesn&amp;#39;t support it, according to advocacy group the Electronic Frontier Foundation.</description>
+      <pubDate>Mon, 07 Apr 2014 14:52:00 GMT</pubDate>
+      <author>(Lucian Constantin)</author>
+      <guid>http://www.computerworld.com/s/article/9247495/Low_adoption_rate_of_HSTS_website_security_mechanism_is_worrying_EFF_says</guid>
+      <dc:date>2014-04-07T14:52:00Z</dc:date>
+    </item>
+    <item>
+      <title>Microsoft touts next-gen Windows for connected cars</title>
+      <link>http://www.computerworld.com/s/article/9247497/Microsoft_touts_next_gen_Windows_for_connected_cars</link>
+      <description>Microsoft is moving Windows to the car, again.</description>
+      <pubDate>Mon, 07 Apr 2014 13:56:00 GMT</pubDate>
+      <author>(Mark Hachman)</author>
+      <guid>http://www.computerworld.com/s/article/9247497/Microsoft_touts_next_gen_Windows_for_connected_cars</guid>
+      <dc:date>2014-04-07T13:56:00Z</dc:date>
+    </item>
+    <item>
+      <title>Security and quality are companies&amp;#39; top reasons for using open source</title>
+      <link>http://www.computerworld.com/s/article/9247499/Security_and_quality_are_companies_39_top_reasons_for_using_open_source</link>
+      <description>Why should you use open-source software? The fact that it&amp;#39;s usually free can be an attractive selling point, but that&amp;#39;s not the reason most companies choose to use it. Instead, security and quality are the most commonly cited reasons, according to new research.</description>
+      <pubDate>Mon, 07 Apr 2014 13:53:00 GMT</pubDate>
+      <author>(Katherine Noyes)</author>
+      <guid>http://www.computerworld.com/s/article/9247499/Security_and_quality_are_companies_39_top_reasons_for_using_open_source</guid>
+      <dc:date>2014-04-07T13:53:00Z</dc:date>
+    </item>
+    <item>
+      <title>Raspberry Pi plans new modular computer for maker audience</title>
+      <link>http://www.computerworld.com/s/article/9247491/Raspberry_Pi_plans_new_modular_computer_for_maker_audience</link>
+      <description>Raspberry Pi -- popular for its $25 PC -- plans later this year to ship new hardware in the form of a smaller board that plugs into a custom motherboard slot, which could appeal to a new audience of makers, enthusiasts and enterprise users.</description>
+      <pubDate>Mon, 07 Apr 2014 12:31:00 GMT</pubDate>
+      <author>(Agam Shah)</author>
+      <guid>http://www.computerworld.com/s/article/9247491/Raspberry_Pi_plans_new_modular_computer_for_maker_audience</guid>
+      <dc:date>2014-04-07T12:31:00Z</dc:date>
+    </item>
+    <item>
+      <title>Qualcomm talks up its fastest ever 64-bit Snapdragon chip</title>
+      <link>http://www.computerworld.com/s/article/9247488/Qualcomm_talks_up_its_fastest_ever_64_bit_Snapdragon_chip</link>
+      <description>Qualcomm is getting high on 64-bit chips with its fastest ever Snapdragon processor, which will render 4K video, support LTE Advanced and could run the 64-bit Android OS.</description>
+      <pubDate>Mon, 07 Apr 2014 11:31:00 GMT</pubDate>
+      <author>(Agam Shah)</author>
+      <guid>http://www.computerworld.com/s/article/9247488/Qualcomm_talks_up_its_fastest_ever_64_bit_Snapdragon_chip</guid>
+      <dc:date>2014-04-07T11:31:00Z</dc:date>
+    </item>
+    <item>
+      <title>6 ways the Internet of Things will transform enterprise security</title>
+      <link>http://www.computerworld.com/s/article/9247485/6_ways_the_Internet_of_Things_will_transform_enterprise_security</link>
+      <description>It's already started, with a refrigerator that sent out email spam. The Internet of Things trend shows how even a benign consumer appliance  could pose a danger to enterprises if connected to the Internet without proper security.</description>
+      <pubDate>Mon, 07 Apr 2014 11:08:00 GMT</pubDate>
+      <author>jvijayan@computerworld.com (Jaikumar Vijayan)</author>
+      <guid>http://www.computerworld.com/s/article/9247485/6_ways_the_Internet_of_Things_will_transform_enterprise_security</guid>
+      <dc:date>2014-04-07T11:08:00Z</dc:date>
+    </item>
+    <item>
+      <title>In Apple v. Samsung, it's a &amp;#39;holy war&amp;#39; for $2B</title>
+      <link>http://www.computerworld.com/s/article/9247486/In_Apple_v._Samsung_it_s_a_39_holy_war_39_for_2B</link>
+      <description>Apple and Samsung were back in San Jose federal court last week arguing over more patents and another set of devices. Apple is demanding more than $2 billion in damages, in the second case between the companies in California.</description>
+      <pubDate>Mon, 07 Apr 2014 11:01:00 GMT</pubDate>
+      <author>(Martyn Williams)</author>
+      <guid>http://www.computerworld.com/s/article/9247486/In_Apple_v._Samsung_it_s_a_39_holy_war_39_for_2B</guid>
+      <dc:date>2014-04-07T11:01:00Z</dc:date>
+    </item>
+  </channel>
+</rss>

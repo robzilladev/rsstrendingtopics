@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>WSJ.com: WSJD</title>
+    <link>http://online.wsj.com</link>
+    <description>WSJD - Technology</description>
+    <language>en-us</language>
+    <copyright>copyright  © 2014 Dow Jones &amp; Company, Inc.</copyright>
+    <lastBuildDate>Wed, 09 Apr 2014 20:01:20 EDT</lastBuildDate>
+    <image>
+      <title>WSJ.com: WSJD</title>
+      <url>http://online.wsj.com/img/wsj_sm_logo.gif</url>
+      <link>http://online.wsj.com</link>
+    </image>
+    <atom:link href="http://online.wsj.com" rel="self" type="application/rss+xml" />
+    <!--Item 1 of Technology_WSJD_1 -->
+    <item>
+      <title>H-P Settles Corruption Probe</title>
+      <guid isPermaLink="false">SB10001424052702303873604579491544174653138</guid>
+      <link>http://online.wsj.com/article/SB10001424052702303873604579491544174653138.html?mod=rss_Technology</link>
+      <description>H-P agreed to pay $108 million to resolve a U.S. investigation of bribery in Russia, Poland and Mexico.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss" url="http://s.wsj.net/public/resources/images/BN-CH551_hp0409_G_20140409171031.jpg" type="image/jpeg" medium="image" height="369" width="553">
+        <media:description>image</media:description>
+      </media:content>
+      <category>PAID</category>
+      <pubDate>Wed, 09 Apr 2014 19:59:43 EDT</pubDate>
+    </item>
+    <!--Item 2 of Technology_WSJD_1 -->
+    <item>
+      <title>Apple's Star Designer Set to Expand Software Role</title>
+      <guid isPermaLink="false">SB10001424052702303873604579491960622990576</guid>
+      <link>http://online.wsj.com/article/SB10001424052702303873604579491960622990576.html?mod=rss_Technology</link>
+      <description>Apple's Greg Christie, who led the company's 'human interface' team that designs software for its products, is retiring. His departure comes as the company's star designer Jonathan Ive expands his role into software.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss" url="http://s.wsj.net/public/resources/images/BN-CH589_ive040_G_20140409183207.jpg" type="image/jpeg" medium="image" height="369" width="553">
+        <media:description>image</media:description>
+      </media:content>
+      <category>FREE</category>
+      <pubDate>Wed, 09 Apr 2014 19:31:08 EDT</pubDate>
+    </item>
+    <!--Item 1 of Technology_WSJD_2 -->
+    <item>
+      <title>Why Yahoo Has Small Firms Yelping</title>
+      <guid isPermaLink="false">SB10001424052702304819004579489451327998582</guid>
+      <link>http://online.wsj.com/article/SB10001424052702304819004579489451327998582.html?mod=rss_Technology</link>
+      <description>Some small-business owners are complaining that a recent deal in which Yelp provides business listings for Yahoo searches, is erasing years of positive feedback from customers.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss" url="http://s.wsj.net/public/resources/images/BN-CH469_0409SB_G_20140409150750.jpg" type="image/jpeg" medium="image" height="369" width="553">
+        <media:description>image</media:description>
+      </media:content>
+      <category>FREE</category>
+      <pubDate>Wed, 09 Apr 2014 19:30:15 EDT</pubDate>
+    </item>
+    <!--Item 2 of Technology_WSJD_2 -->
+    <item>
+      <title>Flaws Found in Web Security Tool</title>
+      <guid isPermaLink="false">SB10001424052702304819004579489813056799076</guid>
+      <link>http://online.wsj.com/article/SB10001424052702304819004579489813056799076.html?mod=rss_Technology</link>
+      <description>An encryption tool used by a large chunk of the Internet is flawed, potentially exposing reams of data meant to be hidden from prying eyes.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss" url="http://s.wsj.net/public/resources/images/BN-CH440_lock04_G_20140409140822.jpg" type="image/jpeg" medium="image" height="369" width="553">
+        <media:description>image</media:description>
+      </media:content>
+      <category>FREE</category>
+      <pubDate>Wed, 09 Apr 2014 17:13:27 EDT</pubDate>
+    </item>
+    <!--Item 3 of Technology_WSJD_2 -->
+    <item>
+      <title>Lenders Place Their Bets on Mobile Banking</title>
+      <guid isPermaLink="false">SB10001424052702303847804579481811781070456</guid>
+      <link>http://online.wsj.com/article/SB10001424052702303847804579481811781070456.html?mod=rss_Technology</link>
+      <description>Stephan Roulland used to walk to his nearest bank branch every time he wanted to deposit a check. Now, he snaps a picture of it with his smartphone and deposits it without leaving his office.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss" url="http://s.wsj.net/public/resources/images/MI-CC283_MOBILE_G_20140409174849.jpg" type="image/jpeg" medium="image" height="369" width="553">
+        <media:description>image</media:description>
+      </media:content>
+      <category>FREE</category>
+      <pubDate>Wed, 09 Apr 2014 19:41:24 EDT</pubDate>
+    </item>
+    <!--Item 1 of Technology_WSJD_3 -->
+    <item>
+      <title>Samsung Galaxy S5 Review: Watertight Yet Still Not Quite Right</title>
+      <guid isPermaLink="false">SB10001424052702304819004579487392797543028</guid>
+      <link>http://online.wsj.com/article/SB10001424052702304819004579487392797543028.html?mod=rss_Technology</link>
+      <description>Samsung's newest version of its top-selling Android phone is best considered a refinement to the year-old Galaxy S4 and raises the question: Has smartphone evolution stalled?</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss" url="http://s.wsj.net/public/resources/images/BN-CG617_PTECH3_G_20140407220739.jpg" type="image/jpeg" medium="image" height="369" width="553">
+        <media:description>image</media:description>
+      </media:content>
+      <category>FREE</category>
+      <pubDate>Tue, 08 Apr 2014 21:41:01 EDT</pubDate>
+    </item>
+    <!--Item 1 of Digits BlogFrom Digits Blog -->
+    <item>
+      <title>In IPO Year, Twitter CEO Dick Costolo's Pay Plunged to $130,250</title>
+      <guid isPermaLink="false">BL-DGB-34221</guid>
+      <link>http://blogs.wsj.com/digits/2014/04/09/in-ipo-year-twitter-ceo-dick-costolos-pay-plunged-to-130250/?mod=rss_Technology</link>
+      <description>Twitter's top earner during its IPO year was CFO Mike Gupta, whose compensation far outstrips the amount paid to CEO Dick Costolo.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss" url="http://s.wsj.net/public/resources/images/BN-BY345_twitte_G_20140317065445.jpg" type="image/jpeg" medium="image" height="369" width="553">
+        <media:description>BN-BY345_twitte_G_20140317065445.jpg</media:description>
+      </media:content>
+      <category>FREE</category>
+      <pubDate>Wed, 09 Apr 2014 19:43:01 EDT</pubDate>
+    </item>
+    <!--Item 2 of Digits BlogFrom Digits Blog -->
+    <item>
+      <title>Sports Apparel Purveyor Fanatics Swipes One Kings Lane Chief</title>
+      <guid isPermaLink="false">BL-DGB-34218</guid>
+      <link>http://blogs.wsj.com/digits/2014/04/09/sports-apparel-purveyor-fanatics-swipes-one-kings-lane-chief/?mod=rss_Technology</link>
+      <description>Fanatics, which sells licensed sports apparel online, has hired the leader of buzzy online e-commerce outfit One Kings Lane to be its CEO.</description>
+      <category>FREE</category>
+      <pubDate>Wed, 09 Apr 2014 18:59:44 EDT</pubDate>
+    </item>
+    <!--Item 3 of Digits BlogFrom Digits Blog -->
+    <item>
+      <title>Facebook Enlarges Advertisements on its Desktop Website</title>
+      <guid isPermaLink="false">BL-DGB-34217</guid>
+      <link>http://blogs.wsj.com/digits/2014/04/09/facebook-enlarges-advertisements-on-its-desktop-website/?mod=rss_Technology</link>
+      <description>Ads on the far right-hand side of Facebook pages  are easy to miss. But it has a solution--making them a lot bigger.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss" url="http://s.wsj.net/public/resources/images/BN-CH546_fbook0_G_20140409165030.jpg" type="image/jpeg" medium="image" height="369" width="553">
+        <media:description>BN-CH546_fbook0_G_20140409165030.jpg</media:description>
+      </media:content>
+      <category>FREE</category>
+      <pubDate>Wed, 09 Apr 2014 17:23:27 EDT</pubDate>
+    </item>
+    <!--Item 4 of Digits BlogFrom Digits Blog -->
+    <item>
+      <title>H-P Bribery Files: Bags of Cash, Watches, Grand Canyon Tours</title>
+      <guid isPermaLink="false">BL-DGB-34215</guid>
+      <link>http://blogs.wsj.com/digits/2014/04/09/h-p-bribery-files-bags-of-cash-watches-grand-canyon-tours/?mod=rss_Technology</link>
+      <description>Hewlett-Packard has agreed to pay $108 million and plead guilty to bribery charges associated with dealings in Russia, Poland and Mexico. It also agreed to the facts laid out by the U.S. authorities, which give a detailed glimpse at the mechanics of corruption.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss" url="http://s.wsj.net/public/resources/images/BN-CH551_hp0409_G_20140409171031.jpg" type="image/jpeg" medium="image" height="369" width="553">
+        <media:description>BN-CH551_hp0409_G_20140409171031.jpg</media:description>
+      </media:content>
+      <category>FREE</category>
+      <pubDate>Wed, 09 Apr 2014 18:03:48 EDT</pubDate>
+    </item>
+    <!--Item 5 of Digits BlogFrom Digits Blog -->
+    <item>
+      <title>New Dropbox 'Carousel' App Moves Company Beyond Storage</title>
+      <guid isPermaLink="false">BL-DGB-34209</guid>
+      <link>http://blogs.wsj.com/digits/2014/04/09/dropbox-were-more-than-just-storage/?mod=rss_Technology</link>
+      <description>Dropbox unveiled a suite of new apps as part of a broader push to show it is more than about storing and sharing files.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss" url="http://s.wsj.net/public/resources/images/BN-CH473_dropbo_G_20140409151803.jpg" type="image/jpeg" medium="image" height="369" width="553">
+        <media:description>BN-CH473_dropbo_G_20140409151803.jpg</media:description>
+      </media:content>
+      <category>FREE</category>
+      <pubDate>Wed, 09 Apr 2014 18:27:35 EDT</pubDate>
+    </item>
+    <!--Item 6 of Digits BlogFrom Digits Blog -->
+    <item>
+      <title>Sandberg Says She's 'Ruled Out' Politics, Isn't Leaving Facebook</title>
+      <guid isPermaLink="false">BL-DGB-34206</guid>
+      <link>http://blogs.wsj.com/digits/2014/04/09/sandberg-says-shes-ruled-out-politics-isnt-leaving-facebook/?mod=rss_Technology</link>
+      <description>Facebook Chief Operating Officer Sheryl Sandberg knocked down rumors Wednesday that she might one day run for political office, and said she isn't leaving the company.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss" url="http://s.wsj.net/public/resources/images/BF-AC124_facebo_G_20120113174118.jpg" type="image/jpeg" medium="image" height="369" width="553">
+        <media:description>BF-AC124_facebo_G_20120113174118.jpg</media:description>
+      </media:content>
+      <category>FREE</category>
+      <pubDate>Wed, 09 Apr 2014 14:54:32 EDT</pubDate>
+    </item>
+    <!--Item 7 of Digits BlogFrom Digits Blog -->
+    <item>
+      <title>Google Knocks on Living Room Door, Quietly, for Android TV</title>
+      <guid isPermaLink="false">BL-DGB-34188</guid>
+      <link>http://blogs.wsj.com/digits/2014/04/09/google-knocks-on-living-room-door-quietly-for-android-tv/?mod=rss_Technology</link>
+      <description>Google has tried to penetrate the living room for several years, with limited results. Its latest approach suggests a desire to learn from past mistakes.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss" url="http://s.wsj.net/public/resources/images/BN-CH082_hisens_G_20140408190329.jpg" type="image/jpeg" medium="image" height="369" width="553">
+        <media:description>BN-CH082_hisens_G_20140408190329.jpg</media:description>
+      </media:content>
+      <category>FREE</category>
+      <pubDate>Wed, 09 Apr 2014 13:07:56 EDT</pubDate>
+    </item>
+    <!--Item 8 of Digits BlogFrom Digits Blog -->
+    <item>
+      <title>Hollande's Phone Ban Gets Good Reception</title>
+      <guid isPermaLink="false">BL-DGB-34202</guid>
+      <link>http://blogs.wsj.com/digits/2014/04/09/hollandes-phone-ban-gets-good-reception/?mod=rss_Technology</link>
+      <description>French President François Hollande has found a new way to make his ministers focus: take away their cellphones during cabinet meetings.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss" url="http://s.wsj.net/public/resources/images/BN-CH358_hollan_G_20140409094016.jpg" type="image/jpeg" medium="image" height="369" width="553">
+        <media:description>BN-CH358_hollan_G_20140409094016.jpg</media:description>
+      </media:content>
+      <category>FREE</category>
+      <pubDate>Wed, 09 Apr 2014 10:09:09 EDT</pubDate>
+    </item>
+    <!--Item 9 of Digits BlogFrom Digits Blog -->
+    <item>
+      <title>Loved Amiga, Atari and Pong? Huge Old-School Collection Seeks New Home</title>
+      <guid isPermaLink="false">BL-DGB-34200</guid>
+      <link>http://blogs.wsj.com/digits/2014/04/09/loved-amiga-atari-and-pong-huge-old-school-collection-seeks-new-home/?mod=rss_Technology</link>
+      <description>"The Games Museum" in Denmark is seeking a new home for approximately 10,000  old-school console and computer games, 4,000 arcade games and 1,400 arcade machines.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss" url="http://s.wsj.net/public/resources/images/BN-CH360_Danish_G_20140409094446.jpg" type="image/jpeg" medium="image" height="369" width="553">
+        <media:description>BN-CH360_Danish_G_20140409094446.jpg</media:description>
+      </media:content>
+      <category>FREE</category>
+      <pubDate>Wed, 09 Apr 2014 10:23:54 EDT</pubDate>
+    </item>
+    <!--Item 10 of Digits BlogFrom Digits Blog -->
+    <item>
+      <title>With $80 Million in New Capital, Quora Still Has No Business Model</title>
+      <guid isPermaLink="false">BL-DGB-34191</guid>
+      <link>http://blogs.wsj.com/digits/2014/04/09/with-80-million-in-new-capital-quora-still-has-no-business-model/?mod=rss_Technology</link>
+      <description>On Quora, people ask and answer a wide range of questions. But one question remains a mystery: "How does Quora make money?"</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss" url="http://s.wsj.net/public/resources/images/BN-CH145_angelo_G_20140408214747.jpg" type="image/jpeg" medium="image" height="369" width="553">
+        <media:description>BN-CH145_angelo_G_20140408214747.jpg</media:description>
+      </media:content>
+      <category>FREE</category>
+      <pubDate>Wed, 09 Apr 2014 09:17:16 EDT</pubDate>
+    </item>
+    <!--Item 11 of Digits BlogFrom Digits Blog -->
+    <item>
+      <title>Ex-Alibaba Executive's Fund Raises More Money</title>
+      <guid isPermaLink="false">BL-DGB-34198</guid>
+      <link>http://blogs.wsj.com/digits/2014/04/09/ex-alibaba-executives-fund-raises-more-money/?mod=rss_Technology</link>
+      <description>As Alibaba Group prepares for a U.S. listing that could raise more than $15 billion, one former executive of the company is doing a bit of fundraising of his own.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss" url="http://s.wsj.net/public/resources/images/BN-CH223_0409DI_G_20140409011626.jpg" type="image/jpeg" medium="image" height="369" width="553">
+        <media:description>BN-CH223_0409DI_G_20140409011626.jpg</media:description>
+      </media:content>
+      <category>FREE</category>
+      <pubDate>Wed, 09 Apr 2014 01:20:06 EDT</pubDate>
+    </item>
+    <!--Item 12 of Digits BlogFrom Digits Blog -->
+    <item>
+      <title>Apple Seeks $2.2 Billion in Damages From Samsung in Patent Trial</title>
+      <guid isPermaLink="false">BL-DGB-34193</guid>
+      <link>http://blogs.wsj.com/digits/2014/04/08/apple-seeks-2-2-billion-in-damages-from-samsung-in-patent-trial/?mod=rss_Technology</link>
+      <description>Apple said it is entitled to $2.2 billion in damages from Samsung for infringing on five of its patents because the infringement came during a period of rapid expansion of the smartphone market.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss" url="http://s.wsj.net/public/resources/images/BN-CH143_apple0_G_20140408214040.jpg" type="image/jpeg" medium="image" height="369" width="553">
+        <media:description>BN-CH143_apple0_G_20140408214040.jpg</media:description>
+      </media:content>
+      <category>FREE</category>
+      <pubDate>Wed, 09 Apr 2014 12:16:44 EDT</pubDate>
+    </item>
+    <!--Item 1 of Technology_WSJD_4 -->
+    <item>
+      <title>Priced Out of Silicon Valley</title>
+      <guid isPermaLink="false">SB10001424052702303847804579479930243974564</guid>
+      <link>http://online.wsj.com/article/SB10001424052702303847804579479930243974564.html?mod=rss_Technology</link>
+      <description>As housing costs have skyrocketed in Silicon Valley and elsewhere, more people have been forced to live in their vehicles, and cities are cracking down.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss" url="http://s.wsj.net/public/resources/images/NA-CA707_VANS_G_20140408204857.jpg" type="image/jpeg" medium="image" height="369" width="553">
+        <media:description>image</media:description>
+      </media:content>
+      <category>FREE</category>
+      <pubDate>Wed, 09 Apr 2014 14:57:42 EDT</pubDate>
+    </item>
+    <!--Item 2 of Technology_WSJD_4 -->
+    <item>
+      <title>GOP Seeks to Block Internet Domain Organization Transition</title>
+      <guid isPermaLink="false">SB10001424052702303873604579492052533190902</guid>
+      <link>http://online.wsj.com/article/SB10001424052702303873604579492052533190902.html?mod=rss_Technology</link>
+      <description>Republicans opposed to the Obama administration's plan to relinquish oversight of the body that manages the architecture of the Internet are starting to push legislation to prevent or slow down the move.</description>
+      <category>PAID</category>
+      <pubDate>Wed, 09 Apr 2014 18:57:23 EDT</pubDate>
+    </item>
+    <!--Item 3 of Technology_WSJD_4 -->
+    <item>
+      <title>PC Shipments Decline Again</title>
+      <guid isPermaLink="false">SB10001424052702304058204579491894071817128</guid>
+      <link>http://online.wsj.com/article/SB10001424052702304058204579491894071817128.html?mod=rss_Technology</link>
+      <description>Computer shipments declined for yet another quarter, as the need for businesses to update aging PCs using older operating systems couldn't reverse the multimonth trend, according to a pair of data trackers.</description>
+      <category>PAID</category>
+      <pubDate>Wed, 09 Apr 2014 18:34:45 EDT</pubDate>
+    </item>
+    <!--Item 4 of Technology_WSJD_4 -->
+    <item>
+      <title>Comcast, Time Warner Cable Defend $45 Billion Deal</title>
+      <guid isPermaLink="false">SB10001424052702303603904579491781283389694</guid>
+      <link>http://online.wsj.com/article/SB10001424052702303603904579491781283389694.html?mod=rss_Technology</link>
+      <description>Executives from Comcast and Time Warner Cable face questions from lawmakers on how the proposed combination of the nation's two largest cable companies would help consumers.</description>
+      <category>PAID</category>
+      <pubDate>Wed, 09 Apr 2014 17:53:08 EDT</pubDate>
+    </item>
+    <!--Item 5 of Technology_WSJD_4 -->
+    <item>
+      <title>Google Checks In to the Hotel Business</title>
+      <guid isPermaLink="false">SB10001424052702304819004579487931119016044</guid>
+      <link>http://online.wsj.com/article/SB10001424052702304819004579487931119016044.html?mod=rss_Technology</link>
+      <description>Google is moving to play a larger role in booking hotel rooms—at the risk of offending important advertisers.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss" url="http://s.wsj.net/public/resources/images/BN-CH141_goog04_G_20140408211837.jpg" type="image/jpeg" medium="image" height="369" width="553">
+        <media:description>image</media:description>
+      </media:content>
+      <category>FREE</category>
+      <pubDate>Wed, 09 Apr 2014 13:16:57 EDT</pubDate>
+    </item>
+    <!--Item 6 of Technology_WSJD_4 -->
+    <item>
+      <title>Opening the Box on Tech Stocks' Next Move</title>
+      <guid isPermaLink="false">SB10001424052702303873604579491753321919732</guid>
+      <link>http://online.wsj.com/article/SB10001424052702303873604579491753321919732.html?mod=rss_Technology</link>
+      <description>Watch the IPO market for clues on whether the tech selloff is for real.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss" url="http://s.wsj.net/public/resources/images/BN-CH501_0409te_G_20140409154303.jpg" type="image/jpeg" medium="image" height="369" width="553">
+        <media:description>image</media:description>
+      </media:content>
+      <category>PAID</category>
+      <pubDate>Wed, 09 Apr 2014 18:21:00 EDT</pubDate>
+    </item>
+    <!--Item 7 of Technology_WSJD_4 -->
+    <item>
+      <title>The Littlest Entrepreneurs</title>
+      <guid isPermaLink="false">SB10001424052702304640104579489453482766662</guid>
+      <link>http://online.wsj.com/article/SB10001424052702304640104579489453482766662.html?mod=rss_Technology</link>
+      <description>Younger children are filling classes, camps and other programs that promise to develop entrepreneurial skills.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss" url="http://s.wsj.net/public/resources/images/PJ-BU186_KIDBOS_G_20140408193055.jpg" type="image/jpeg" medium="image" height="369" width="553">
+        <media:description>image</media:description>
+      </media:content>
+      <category>FREE</category>
+      <pubDate>Wed, 09 Apr 2014 15:17:40 EDT</pubDate>
+    </item>
+    <!--Item 8 of Technology_WSJD_4 -->
+    <item>
+      <title>Wal-Mart Expands in India</title>
+      <guid isPermaLink="false">SB10001424052702304819004579488843785884708</guid>
+      <link>http://online.wsj.com/article/SB10001424052702304819004579488843785884708.html?mod=rss_Technology</link>
+      <description>Wal-Mart Stores Inc. is launching e-commerce and adding wholesale stores in India to sell to small businesses after shelving its hopes last year to open retail stores in the country.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss" url="http://s.wsj.net/public/resources/images/MK-CL438_IWALMA_G_20140408195333.jpg" type="image/jpeg" medium="image" height="369" width="553">
+        <media:description>image</media:description>
+      </media:content>
+      <category>FREEASIA</category>
+      <category>FREEEUROPE</category>
+      <category>FREEINDIA</category>
+      <pubDate>Wed, 09 Apr 2014 13:08:01 EDT</pubDate>
+    </item>
+    <!--Item 9 of Technology_WSJD_4 -->
+    <item>
+      <title>Amazon: Prime Video Streams Nearly Triple</title>
+      <guid isPermaLink="false">SB10001424052702304640104579489300852019152</guid>
+      <link>http://online.wsj.com/article/SB10001424052702304640104579489300852019152.html?mod=rss_Technology</link>
+      <description>Amazon.com said video streams on its Prime Instant Video service nearly tripled year-over-year, helped along by the company's heavy spending on original shows and new content.</description>
+      <category>PAID</category>
+      <pubDate>Tue, 08 Apr 2014 13:56:15 EDT</pubDate>
+    </item>
+    <!--Item 10 of Technology_WSJD_4 -->
+    <item>
+      <title>Big Data: Love It or Face 'Permanent Pink Slip'</title>
+      <guid isPermaLink="false">SB10001424052702304819004579489541746990638</guid>
+      <link>http://online.wsj.com/article/SB10001424052702304819004579489541746990638.html?mod=rss_Technology</link>
+      <description>Whether you believe analytics is a tired corporate buzzword or the key to future business growth, hundreds of companies are searching, and paying richly, for hires with quantitative skills.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss" url="http://s.wsj.net/public/resources/images/MK-CL439_Analyt_G_20140408200819.jpg" type="image/jpeg" medium="image" height="369" width="553">
+        <media:description>image</media:description>
+      </media:content>
+      <category>FREE</category>
+      <pubDate>Wed, 09 Apr 2014 14:05:10 EDT</pubDate>
+    </item>
+    <!--Item 1 of Technology_WSJD_5 -->
+    <item>
+      <title>Samsung Gear Fit Review: The Smartwatch Gets in Shape</title>
+      <guid isPermaLink="false">SB10001424052702304819004579487393809401188</guid>
+      <link>http://online.wsj.com/article/SB10001424052702304819004579487393809401188.html?mod=rss_Technology</link>
+      <description>Samsung's Gear Fit smartwatch combines advanced fitness tracking with essential smartphone functions in a design our reviewer could wear.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss" url="http://s.wsj.net/public/resources/images/BN-CG673_gearfi_G_20140408004945.jpg" type="image/jpeg" medium="image" height="369" width="553">
+        <media:description>image</media:description>
+      </media:content>
+      <category>FREE</category>
+      <pubDate>Wed, 09 Apr 2014 08:19:29 EDT</pubDate>
+    </item>
+    <!--Item 2 of Technology_WSJD_5 -->
+    <item>
+      <title>Underwater Digital Cameras Dive Deep</title>
+      <guid isPermaLink="false">SB10001424052702304886904579473430519350554</guid>
+      <link>http://online.wsj.com/article/SB10001424052702304886904579473430519350554.html?mod=rss_Technology</link>
+      <description>Waterproof models from Canon, GoPro and Nikon. Plus, National Geographic contributor Brian Skerry shares tips for snapping photos under the sea.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss" url="http://s.wsj.net/public/resources/images/OD-BB746_WATERC_G_20140402151951.jpg" type="image/jpeg" medium="image" height="369" width="553">
+        <media:description>image</media:description>
+      </media:content>
+      <category>FREE</category>
+      <pubDate>Fri, 04 Apr 2014 22:21:20 EDT</pubDate>
+    </item>
+    <!--Item 3 of Technology_WSJD_5 -->
+    <item>
+      <title>Does Office Turn an iPad Into a Workhorse?</title>
+      <guid isPermaLink="false">SB10001424052702304441304579477412371682896</guid>
+      <link>http://online.wsj.com/article/SB10001424052702304441304579477412371682896.html?mod=rss_Technology</link>
+      <description>How Word, Excel and PowerPoint perform on Apple's market-leading tablet.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss" url="http://s.wsj.net/public/resources/images/BN-CE864_ptech3_G_20140402193657.jpg" type="image/jpeg" medium="image" height="369" width="553">
+        <media:description>image</media:description>
+      </media:content>
+      <category>FREE</category>
+      <pubDate>Thu, 03 Apr 2014 13:47:29 EDT</pubDate>
+    </item>
+    <!--Item 4 of Technology_WSJD_5 -->
+    <item>
+      <title>Cortana: Microsoft's Siri Rival</title>
+      <guid isPermaLink="false">SB10001424052702303978304579475760709953726</guid>
+      <link>http://online.wsj.com/article/SB10001424052702303978304579475760709953726.html?mod=rss_Technology</link>
+      <description>Cortana, Microsoft's personal-assistant service with a quirky personality, anticipates what you want by  really getting to know you.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss" url="http://s.wsj.net/public/resources/images/BN-CE623_cortan_G_20140402121026.jpg" type="image/jpeg" medium="image" height="369" width="553">
+        <media:description>image</media:description>
+      </media:content>
+      <category>FREE</category>
+      <pubDate>Thu, 03 Apr 2014 07:33:04 EDT</pubDate>
+    </item>
+  </channel>
+</rss>
+<!-- fastdynapage - sbkj2kwebappp12 - Wed 04/09/14 - 20:01:20 EDT -->

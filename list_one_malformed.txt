@@ -1,0 +1,5 @@
+file
+feeds/tech_feed_1.xml
+feeds/tech_feed_2.xml
+feeds/tech_feed_malformed_test.xml
+feeds/tech_feed_4.xml

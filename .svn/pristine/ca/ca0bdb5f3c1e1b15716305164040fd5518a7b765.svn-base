@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>PCWorld</title>
+    <link>http://www.pcworld.com</link>
+    <description />
+    <language>en-us</language>
+    <pubDate>Wed, 09 Apr 2014 16:52:08 -0700</pubDate>
+    <lastBuildDate>Wed, 09 Apr 2014 16:52:08 -0700</lastBuildDate>
+    <item>
+      <title>Apple Apple Apple Apple Apple Apple's Apple's Apple's Apple's APpLe's</title>
+      <pubDate>Wed, 09 Apr 2014 16:49:00 -0700</pubDate>
+	<author>Tester Test</author>
+      <dc:creator>Agam Shah</dc:creator>
+      <description><![CDATA[<article>
+	<section class="page">
+<p>
+The looming threat of running an unsupported OS wasnt enough to save PC shipments from continuing their slide in the first quarter.</p><p>
+Worldwide PC shipments fell by 4.4 percent in the first three months of the year to 73.4 million units, IDC <a href="http://www.idc.com/getdoc.jsp?containerId=prUS24794514">said</a> on Wednesday.</p><p>
+The expiration of Windows XP, support for which ended this week, did prompt some businesses to refresh their PCs. And slower demand for tablets, as the market becomes saturated, may have helped lift laptop sales slightly.</p><p>
+But sales were down overall, and the trend toward more mobile devices is unlikely to stop, IDC said.</p><p class="jumpTag"><a href="/article/2142080/windows-xp-expiration-couldnt-save-pc-market-in-q1.html#jump">To read this article in full or to leave a comment, please click here</a></p></section></article>]]></description>
+      <link>http://www.pcworld.com/article/2142080/windows-xp-expiration-couldnt-save-pc-market-in-q1.html#tk.rss_all</link>
+      <media:thumbnail url="http://zapt4.staticworld.net/images/article/2014/04/windows_xp_pc-100260973-primary.idge.jpg" />
+      <media:content url="http://zapt4.staticworld.net/images/article/2014/04/windows_xp_pc-100260973-primary.idge.jpg" />
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,1898 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <atom:link rel="self" type="application/rss+xml" href="http://www.anandtech.com/rss/" />
+    <title>AnandTech</title>
+    <description>This channel features the latest computer hardware related articles.</description>
+    <link>http://www.anandtech.com</link>
+    <language>en-us</language>
+    <copyright>Copyright 2014 AnandTech</copyright>
+    <dc:creator>Anand Lal Shimpi</dc:creator>
+    <item>
+      <title>The Desktop Kabini Review Part 1: AMD Athlon 5350 (AM1) Tested</title>
+      <author>Ian Cutress</author>
+      <description><![CDATA[<p>
+	Last month AMD announced their Socketed AM1 Kabini platform to focus on the low-end desktop market where low cost, low power and upgradability are important factors for system integrators. The socketed Kabini APUs build on those released for mobile last year, and today is officially launch day for four APU models under the Athlon and Sempron ranges. AMD is aiming for an APU and motherboard system cost of $60-$90 with an APU TDP of 25W. We square the Athlon 5350 against the competition.</p>
+<p align="center"><a href='http://dynamic1.anandtech.com/www/delivery/ck.php?n=a1f2f01f&amp;cb=1871606420' target='_blank'><img src='http://dynamic1.anandtech.com/www/delivery/avw.php?zoneid=24&amp;cb=1871606420&amp;n=a1f2f01f' border='0' alt='' /></a></p>]]></description>
+      <link>http://www.anandtech.com/show/7933/the-desktop-kabini-review-part-1-athlon-5350-am1</link>
+      <pubDate>Wed, 09 Apr 2014 08:00:00 EDT</pubDate>
+      <guid isPermaLink="false">tag:www.anandtech.com,7933:news</guid>
+      <category><![CDATA[CPUs]]></category>
+    </item>
+    <item>
+      <title>The AMD Radeon R9 295X2 Review</title>
+      <author>Ryan Smith</author>
+      <description><![CDATA[<p>
+	Launching today is AMD&#39;s Radeon R9 295X2. After much consumer speculation and <a href="http://www.anandtech.com/show/7881/amd-teases-dualgpu-video-card-once-more">more than a few teasers</a>, AMD is releasing their long-awaited Hawaii-powered entry to their dual-GPU series of cards. With Hawaii AMD has a very powerful (and very power hungry) GPU at their disposal, and for its incarnation in the R9 295X2 AMD is going above and beyond anything they&rsquo;ve done before, making it very clear that they&rsquo;re playing to win.</p>]]></description>
+      <link>http://www.anandtech.com/show/7930/the-amd-radeon-r9-295x2-review</link>
+      <pubDate>Tue, 08 Apr 2014 08:00:00 EDT</pubDate>
+      <guid isPermaLink="false">tag:www.anandtech.com,7930:news</guid>
+      <category><![CDATA[GPUs]]></category>
+    </item>
+    <item>
+      <title>CyberLink Launches PowerDVD 14 with HEVC Support</title>
+      <author>Ganesh T S</author>
+      <description><![CDATA[<p align="center"><a href="http://www.anandtech.com/show/7932/cyberlink-launches-powerdvd-14-with-hevc-support"><img src="http://images.anandtech.com/doci/7932/carousel_575px.png" alt="" /></a></p><p><p>
+	A couple of years back, we <a href="http://www.anandtech.com/show/5482/cyberlink-powerdvd-12-complementing-your-mobile-lifestyle ">reviewed</a> CyberLink&#39;s PowerDVD 12 in detail. At that time, support for the mobile ecosystem was one of the most important targets for CyberLink. This year, the vendors in this space need to provide HEVC/H.265 support on the core features front. The other buzz-word that has been making the rounds in the tech industry is the &#39;cloud&#39;. CyberLink has been quick to latch on to this trend, and is offering a cloud backend for their latest PowerDVD version along with HEVC support. Without further digression, we move on to the new features in CyberLink PowerDVD 14. But, before, that, a table summarizing the various editions of PowerDVD 14 is provided below:</p>
+<table>
+	<tbody>
+		<tr class="tlgrey">
+			<td class="tlgrey" width="200">
+				&nbsp;</td>
+			<td style="text-align: center;" width="120">
+				<strong>Live</strong></td>
+			<td style="text-align: center;" width="120">
+				Ultra</td>
+			<td style="text-align: center;" width="120">
+				<strong>Pro</strong></td>
+			<td style="text-align: center;" width="120">
+				<strong>Standard</strong></td>
+		</tr>
+		<tr>
+			<td class="tlgrey" style="vertical-align: middle; width: 200px;">
+				PowerDVD 14</td>
+			<td style="vertical-align: middle; text-align: center;" width="135">
+				<p>
+					$14.99 / 3 mo</p>
+				<p>
+					$44.99 / 1 yr</p>
+			</td>
+			<td style="vertical-align: middle; text-align: center;" width="135">
+				$99.95</td>
+			<td style="vertical-align: middle; text-align: center;" width="135">
+				$79.95</td>
+			<td style="vertical-align: middle; text-align: center;" width="135">
+				$49.95</td>
+		</tr>
+		<tr>
+			<td class="tlgrey" style="vertical-align: middle;" width="200">
+				PowerDVD Remote v2</td>
+			<td colspan="2" rowspan="1" style="vertical-align: middle; text-align: center;" width="135">
+				Free</td>
+			<td style="vertical-align: middle; text-align: center;" width="135">
+				Free</td>
+			<td style="vertical-align: middle; text-align: center;" width="135">
+				Free</td>
+		</tr>
+		<tr>
+			<td class="tlgrey" style="vertical-align: middle;" width="200">
+				Power Media Player (Android / iOS)</td>
+			<td colspan="2" rowspan="1" style="vertical-align: middle; text-align: center;" width="135">
+				Free</td>
+			<td style="vertical-align: middle; text-align: center;" width="135">
+				$19.99</td>
+			<td style="vertical-align: middle; text-align: center;" width="135">
+				$19.99</td>
+		</tr>
+		<tr>
+			<td class="tlgrey" style="vertical-align: middle;" width="200">
+				Power Media Player (Windows 8.x)</td>
+			<td colspan="2" rowspan="1" style="vertical-align: middle; text-align: center;" width="135">
+				Free</td>
+			<td style="vertical-align: middle; text-align: center;" width="135">
+				$14.99</td>
+			<td style="vertical-align: middle; text-align: center;" width="135">
+				$14.99</td>
+		</tr>
+		<tr>
+			<td class="tlgrey" rowspan="2" style="vertical-align: middle;" width="200">
+				Feature Differences</td>
+			<td colspan="2" rowspan="3" style="vertical-align: middle; text-align: center;" width="135">
+				<p>
+					Integrated Cloud Services</p>
+				<p>
+					Full Blu-ray Support (3D / Live)</p>
+				<p>
+					3D Photos &amp; Videos</p>
+				<p>
+					UltraViolet Ready</p>
+				<p>
+					DLNA Support (DMS / DMP)</p>
+				<p>
+					7.1 Channel Audio Support (5.1 for AAC)</p>
+			</td>
+			<td style="vertical-align: middle; text-align: center;" width="135">
+				<p>
+					Blu-ray Support up to Profile 2.0 (BD Live OK, no 3D)</p>
+				<p>
+					No 3D Support</p>
+			</td>
+			<td style="vertical-align: middle; text-align: center;" width="135">
+				<p>
+					DVD-Only (No Blu-ray Support)</p>
+				<p>
+					No HD Audio Support</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" rowspan="1" style="vertical-align: middle; text-align: center;" width="135">
+				<p>
+					No UltraViolet Support</p>
+				<p>
+					DLNA DMP (Digital Media Player) Only</p>
+				5.1 Channel Audio Support</td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	A new entry in the above table is the PowerDVD Live version which is basically the Ultra edition packaged in a subscription model with guaranteed access to the latest version of the software as long as the subscription is live. Along with the cloud subscription offering (PowerDVD LIVE allows for seamless experience across multiple devices using the &#39;PLAY with CyberLink Cloud&#39; and Director Suite LIVE allows users to &#39;CREATE with CyberLink Cloud&#39;), this points to CyberLink ensuring stability of revenue generation in its business model that has seen rough weather due to declining PC (and in turn, OEM licensing of its software) sales.</p>
+<p align="center">
+	<a href="http://www.anandtech.com/show/7932/cyberlink-launches-powerdvd-14-with-hevc-support"><img alt="" src="http://images.anandtech.com/doci/7932/cloud_575px.png" /></a></p>
+<p>
+	As Blu-ray continues to lose relevance as the primary method of content consumption in HTPCs, CyberLink has started to retarget the PowerDVD application as a &#39;Power Media Player&#39;. The new features of PowerDVD 14 include:</p>
+<ul>
+	<li>
+		HEVC/H.265 support: PowerDVD 14 supports software decode of HEVC videos in MKV, MP4 and M2TS containers, with a maximum resolution of 8192x4320.</li>
+	<li>
+		CyberLink Cloud: PowerDVD 14 Ultra users get 10 GB of cloud storage for free for a year. The rates for Pro and Standard users (as well as Ultra users who want to upgrade storage or extend availability after one year) come in at $1/GB/year. Available options include 10GB, 20GB, 50GB and 100 GB. Key aspects to note include automatic content syncing, streaming from the cloud using the companion mobile apps and easy media sharing via download link generation.</li>
+	<li>
+		Multiple angle support in MKV files</li>
+	<li>
+		WASAPI exclusive mode support for audio</li>
+	<li>
+		Ability to download YouTube videos for offline viewing</li>
+	<li>
+		Ability to access UltraViolet account, view and download content from within PowerDVD: CyberLink touts PowerDVD14 as UltraViolet Ready, as this functionality is set to be enabled later this year after some <a href="https://www.uvvu.com/en/us/where-to-watch">announced UV services</a> come out of the beta phase (these are not under CyberLink&#39;s control)</li>
+	<li>
+		Support for embedded SRT subtitles in MP4 files</li>
+	<li>
+		Customizable interface / skinning</li>
+</ul>
+<p>
+	Improvements include addition of an ALAC audio decoder, faster decoding of RAW image files and support for Vimeo. CyberLink is also providing a touch-friendly Power Media Player app free along with the Ultra edition for use on Windows 8 devices.</p>
+<p align="center">
+	<a href="http://www.anandtech.com/show/7932/cyberlink-launches-powerdvd-14-with-hevc-support"><img alt="" src="http://images.anandtech.com/doci/7932/mobile_apps_575px.png" /></a></p>
+<p>
+	We hope that CyberLink will quickly add hardware decode support of HEVC as and when the platforms become available. Also, it would be better if they provide a way to turn off all in-software advertising / MoovieLive features, at least for paying customers. Other than this minor complaint, PowerDVD 14 promises to be an interesting upgrade. CyberLink is keeping in sync with the changes in the ecosystem by adding HEVC/H.265 support as well as cloud capabilities to PowerDVD, and that is good news for HTPC users.</p>
+</p>]]></description>
+      <link>http://www.anandtech.com/show/7932/cyberlink-launches-powerdvd-14-with-hevc-support</link>
+      <pubDate>Tue, 08 Apr 2014 06:00:00 EDT</pubDate>
+      <guid isPermaLink="false">tag:www.anandtech.com,7932:news</guid>
+      <category><![CDATA[HTPC]]></category>
+    </item>
+    <item>
+      <title>Samsung Galaxy S 5 Review</title>
+      <author>Anand Lal Shimpi &amp; Joshua Ho</author>
+      <description><![CDATA[<p>
+	Samsung is now the undisputed king of the Android smartphone space. It was only a few years ago that the general public referred to every Android phone as a &ldquo;Droid&rdquo;. Now, it&rsquo;s not uncommon for people to refer to every Android device as a &ldquo;Galaxy&rdquo;, and it speaks to the level of market penetration that Samsung has achieved with their Galaxy line-up. The Galaxy S series has been a sales hit, and with the initial impressions piece, it was said that the average consumer lives and dies by what&rsquo;s familiar. Samsung continues to iterate with their Galaxy S line with consistent improvement and little, if no regression from generation to generation. This is where Samsung dominates, as the Galaxy S5 is clear evolution of the Galaxy S3 and S4, but made more mature. To find out more, read on for the full review.</p>]]></description>
+      <link>http://www.anandtech.com/show/7903/samsung-galaxy-s-5-review</link>
+      <pubDate>Tue, 08 Apr 2014 00:00:00 EDT</pubDate>
+      <guid isPermaLink="false">tag:www.anandtech.com,7903:news</guid>
+      <category><![CDATA[Smartphones]]></category>
+    </item>
+    <item>
+      <title>Samsung Releases Standard, EVO and PRO SD Cards</title>
+      <author>Kristian Vättö</author>
+      <description><![CDATA[<p align="center"><a href="http://www.anandtech.com/show/7928/samsung-releases-standard-evo-and-pro-sd-cards"><img src="http://images.anandtech.com/doci/7928/lineup_microSD and SD cards_575px.jpg" alt="" /></a></p><p><p>
+	With the rapid decrease of NAND prices in the last few years, the SD card market has more or less become a commodity with very little differentiation. We don&#39;t typically note minor product releases but we&#39;ll make an exception here given that this one is a bit more significant than the average.&nbsp;</p>
+<p>
+	Samsung is revamping their whole SD card lineup at once by simplifying it into three product series: Standard, EVO and the PRO. Those who are familiar with Samsung&#39;s SSDs notice that the EVO and PRO brands are adopted from the 840 SSD series, which makes sense given Samsung&#39;s success in the SSD space and the brand they&#39;ve been able to build with the 840 EVO and Pro.</p>
+<p>
+	Samsung&#39;s goal with the branding is to make it as easy as possible for the customer to select an SD card that fits their needs because oftentimes SD cards are marketed using the class system (like class 10), which may not tell much to an average SD card shopper. Electronics stores tend to have isles of SD cards available and differentiating in that space is extremely hard, so Samsung hopes that its simple branding will help to boost sales. Each brand also has a unique color (turquoise for Standard, orange for EVO and black for PRO) that aims to simplify branding even further and to allure customers (we all like vibrant colors, don&#39;t we?).&nbsp;</p>
+<div>
+	<a href="http://www.anandtech.com/show/7928/samsung-releases-standard-evo-and-pro-sd-cards"><img alt="" src="http://images.anandtech.com/doci/7928/Screen%20Shot%202014-04-07%20at%2016.24.07_575px.png" /></a></div>
+<div>
+	&nbsp;</div>
+<div>
+	All models are available in both microSD and SD form factors, although available capacities vary as the table above shows. Retail packages with SD and USB adapters are also available.</div>
+<div>
+	&nbsp;</div>
+<div>
+	As one would expect, the PRO is of course the fastest offering available and provides rather impressive transfers rate of up to 90MB/s. Most SD card use scenarios don&#39;t require that high throughputs but as 4K video is steadily making its way into the hands of consumers, the storage media has to evolve as well. Some DSLRs can also be picky with SD card performance and especially professionals like to have the fastest card available to make sure the SD card isn&#39;t bottlenecking the performance of the DSLR.</div>
+<div>
+	<p align="center">
+		<a href="http://www.anandtech.com/show/7928/samsung-releases-standard-evo-and-pro-sd-cards"><img alt="" src="http://images.anandtech.com/doci/7928/Screen%20Shot%202014-04-07%20at%2016.50.35_575px.png" /></a></p>
+	<p>
+		<strike>At the low level these are all MLC NAND designs but with varying quality of NAND being used.</strike> In fact only a small portion of the NAND meets the requirements for SSDs, the rest of the NAND is used in products where endurance and performance aren&#39;t as critical (such as USB drives, SD cards, eMMC...).&nbsp;</p>
+	<p>
+		<strong>Update:</strong> As some of you speculated in the comments, the Standard and EVO models do in fact use TLC NAND, while MLC NAND is only used in the PRO model. The info we got from Samsung during the initial briefing was incorrect and we apologize for the confusion.&nbsp;</p>
+	<p>
+		All in all, the SD card market as a whole is quite uninteresting. When you can get a decent SD card for a tenner or two, it&#39;s logical that not much time is spent on the purchase decision or research. Simple branding can help with that and the high-end niche for the PRO model does exist, but I still believe that the average buyer will just get the cheapest card available or the one that is recommended by the sales rep.&nbsp;</p>
+</div>
+</p>]]></description>
+      <link>http://www.anandtech.com/show/7928/samsung-releases-standard-evo-and-pro-sd-cards</link>
+      <pubDate>Mon, 07 Apr 2014 10:05:00 EDT</pubDate>
+      <guid isPermaLink="false">tag:www.anandtech.com,7928:news</guid>
+      <category><![CDATA[Storage]]></category>
+    </item>
+    <item>
+      <title>NVIDIA GeForce Experience 2.0: Remote GameStream and Notebook Support</title>
+      <author>Jarred Walton</author>
+      <description><![CDATA[<p align="center"><a href="http://www.anandtech.com/show/7929/nvidia-geforce-experience-20-remote-gamestream-and-notebook-support"><img src="http://images.anandtech.com/doci/7929/NVIDIA GFE 2.0 (1)_575px.jpg" alt="" /></a></p><p><p>
+	Coinciding with <a href="http://www.anandtech.com/show/7926/nvidia-releases-33750-beta-driver-offers-significant-performance-improvements">today&rsquo;s launch of the R337 driver</a>, NVIDIA has also updated their GeForce Experience (GFE) software to version 2.0. The updated beta drivers are available for notebooks as well as desktops, but as discussed in our 337.50 article, the actual benefit for single GPUs is limited to specific games. As for GFE 2.0, we&rsquo;ve discussed many of the updated items in our recent <a href="http://www.anandtech.com/show/7834/nvidia-geforce-800m-lineup-battery-boost">NVIDIA 800M overview</a>, but with the R337 drivers and GFE 2.0 the features become active for all users. The key updates are mostly focused on notebooks, with a few exceptions, but let&rsquo;s quickly recap.</p>
+<p align="center">
+	<a href="http://www.anandtech.com/show/7929/nvidia-geforce-experience-20-remote-gamestream-and-notebook-support"><img alt="" src="http://images.anandtech.com/doci/7929/NVIDIA%20GFE%202.0%20%287%29_575px.jpg" /></a></p>
+<p>
+	First, the new GTX 800M cards feature a technology called Battery Boost. I&rsquo;ve been testing this with a GTX 880M notebook, and while the results vary with the game and settings you choose to run, the short summary is that you can realize gains of 25% to as much as 100% in battery life. A major component in Battery Boost is frame rate targeting, with an adjustable slider going from 20FPS to 50FPS, but NVIDIA is keen to point out that there&rsquo;s more going on than simple frame rate limits. We&rsquo;ll have some initial results in a review this week, and we&rsquo;re working on more extensive analysis of the technology; it does work, however, so if you&rsquo;re the type of gamer that want to be able to play games while unplugged, Battery Boost will at least get you well past the one hour mark &ndash; even on a beefy GTX 880M notebook.</p>
+<p align="center">
+	<a href="http://www.anandtech.com/show/7929/nvidia-geforce-experience-20-remote-gamestream-and-notebook-support"><img alt="" src="http://images.anandtech.com/doci/7929/NVIDIA%20GFE%202.0%20%288%29_575px.jpg" /></a></p>
+<p>
+	Two more additions to GFE 2.0 are support for GameStream and ShadowPlay on all GTX 800M laptops, as well as GTX 700M and select GTX 600M models. Basically, if you have a Kepler-based GTX notebook GPU, GameStream and ShadowPlay are now available. With many people now moving almost exclusively to notebooks, it makes sense that NVIDIA would extend these features to additional users. While the idea of streaming games from a mobile device to another mobile device might at first seem odd, Battery Boost and graphics hardware in general isn&rsquo;t at the point where you can play games for hours at a time without an AC adapter, but SHIELD can do that and more with GameStream. You&rsquo;ll need to turn down a few settings in some titles to achieve smooth frame rates, depending on your laptop GPU, but notebooks are now at the point where 30+ FPS at high detail settings is generally available.</p>
+<p align="center">
+	<a href="http://www.anandtech.com/show/7929/nvidia-geforce-experience-20-remote-gamestream-and-notebook-support"><img alt="" src="http://images.anandtech.com/doci/7929/NVIDIA%20GFE%202.0%20%2810%29_575px.jpg" /></a></p>
+<p>
+	ShadowPlay meanwhile offers the ability to capture at the click of a button the previous chunk of gameplay. The performance hit is negligible, so if you want to share your best gaming moments with friends it can be very convenient. There&rsquo;s a new feature being added to ShadowPlay as well &ndash; for desktop GPUs only right now, though we&rsquo;ll likely see support for mobile GPUs as well in the future &ndash; Full Desktop Capture. This allows users to capture windowed gaming sessions, but it also extends to simply capturing your desktop content even if you&rsquo;re not running a game. There&rsquo;s a certain segment of gamers (and games) where playing in a window with the ability to switch to other windows is desired, with MMOs being the most common, so expect to see more &ldquo;How to&hellip;&rdquo; gaming videos cropping up in the future thanks to ShadowPlay. ShadowPlay is also receiving updates to the encoding settings, allowing the use of custom resolutions, bitrates, framerates, and more.</p>
+<p align="center">
+	<a href="http://www.anandtech.com/show/7929/nvidia-geforce-experience-20-remote-gamestream-and-notebook-support"><img alt="" src="http://images.anandtech.com/doci/7929/NVIDIA%20GFE%202.0%20%2813%29_575px.jpg" /></a></p>
+<p>
+	Finally, GameStream has a new beta feature launching with the new drivers and GFE: Remote GameStream. The idea is to take the concepts from GameStream and the GRID Streaming Beta and merge them to allow users to use GameStream while away from home. The GRID Streaming Beta incidentally was a cool idea that used a custom GPU farm run by NVIDIA to render games and stream them to SHIELD devices, but the quality of the games was somewhat limited (i.e. NVIDIA didn&rsquo;t want to let everyone run each game at &ldquo;max&rdquo; settings). With Remote GameStream, since you&rsquo;re using your own hardware, you can tune the settings to fully utilize your GPU, potentially allowing 1080p maximum detail gaming on your SHIELD. We haven&rsquo;t had a chance to test this out yet, and the bandwidth requirement of 5Mbps upstream (from the host system) and 5Mbps downstream (to the SHIELD device) may limit the situations in which Remote GameStream is usable, which is why this is a beta release. Over time, we may see NVIDIA tune the performance to work better with lower bandwidths. Note that Remote GameStream will also require SHIELD Software Update 72, which includes Android &quot;KitKat&quot; 4.4.2 <a href="http://www.anandtech.com/show/7899/nvidia-shield-price-cuts-and-portal">as well as other changes</a>.</p>
+<p>
+	And that takes care of the GFE 2.0 update. NVIDIA continues to add titles to the GFE supported list, and they&rsquo;re now up to more than 150 games (from the initial 80 games GFE launched with). For supported games, with any modern NVIDIA GPU (Kepler or Fermi I believe being the requirement), you can let GFE apply &ldquo;smart&rdquo; settings to optimize quality and performance so that you end up with a good gaming experience. Beyond simply helping users tune their quality settings, GFE has become a useful tool for receiving driver updates, recording gaming sessions, streaming games to a SHIELD device, and now helping to improve battery life while gaming on select notebooks. I didn&rsquo;t think much of GFE when it first launched, but it&rsquo;s come a long way in only half a year, and the 2.0 release marks a significant milestone for NVIDIA with plenty of new additions still in the works. For those that are interested, the full slide deck from NVIDIA is in the gallery below.</p>
+<p>
+	<div>Gallery: <a href="/Gallery/Album/3529" target="_blank">NVIDIA GeForce Experience 2.0: Remote GameStream and Notebook Support</a><div><a href="/Gallery/Album/3529#1" target="_blank"><img src="http://images.anandtech.com/galleries/3529/NVIDIA GFE 2.0 (1)_thumb.jpg" width="85" height="85" border="0"/></a><a href="/Gallery/Album/3529#2" target="_blank"><img src="http://images.anandtech.com/galleries/3529/NVIDIA GFE 2.0 (10)_thumb.jpg" width="85" height="85" border="0"/></a><a href="/Gallery/Album/3529#3" target="_blank"><img src="http://images.anandtech.com/galleries/3529/NVIDIA GFE 2.0 (11)_thumb.jpg" width="85" height="85" border="0"/></a><a href="/Gallery/Album/3529#4" target="_blank"><img src="http://images.anandtech.com/galleries/3529/NVIDIA GFE 2.0 (12)_thumb.jpg" width="85" height="85" border="0"/></a><a href="/Gallery/Album/3529#5" target="_blank"><img src="http://images.anandtech.com/galleries/3529/NVIDIA GFE 2.0 (13)_thumb.jpg" width="85" height="85" border="0"/></a><a href="/Gallery/Album/3529#6" target="_blank"><img src="http://images.anandtech.com/galleries/3529/NVIDIA GFE 2.0 (14)_thumb.jpg" width="85" height="85" border="0"/></a></div></div></p>
+</p>]]></description>
+      <link>http://www.anandtech.com/show/7929/nvidia-geforce-experience-20-remote-gamestream-and-notebook-support</link>
+      <pubDate>Mon, 07 Apr 2014 09:42:00 EDT</pubDate>
+      <guid isPermaLink="false">tag:www.anandtech.com,7929:news</guid>
+      <category><![CDATA[GPUs]]></category>
+    </item>
+    <item>
+      <title>NVIDIA Releases 337.50 Beta Driver, Touts Significant Performance Improvements</title>
+      <author>Ryan Smith</author>
+      <description><![CDATA[<p align="center"><a href="http://www.anandtech.com/show/7926/nvidia-releases-33750-beta-driver-offers-significant-performance-improvements"><img src="http://images.anandtech.com/doci/7926/NV337_Car_575px.jpg" alt="" /></a></p><p><p>
+	Kicking off what will undoubtedly be a busy week in the world of video cards, NVIDIA has started the week with a new GeForce driver release over on their <a href="http://www.geforce.com">GeForce website</a>. This latest driver, version 337.50, is the first public release from the new R337 driver branch, and comes roughly two months after the first R334 driver.</p>
+<p>
+	In a change of pace reflecting the importance of this driver, NVIDIA will be rolling out the red carpet for R337. While every major driver branch includes its share of bug fixes and performance improvements, NVIDIA is promoting R337 as one of those rare and exceptional performance drivers that we always like to get, one that will significantly improve performance across a range of games. With that fanfare in mind, NVIDIA has briefed the press on these drivers ahead of time and given us a few days to play with them to see just what kind of performance improvements they bring.</p>
+<p>
+	To put this to the test, we&rsquo;ve updated our benchmarks for our GeForce GTX 780 Ti and plotted those results against the most recent set of comprehensive results we had for that card, which is last year&rsquo;s R331 driver release.</p>
+<p style="text-align: center;">
+	<a href="http://www.anandtech.com/show/7926/nvidia-releases-33750-beta-driver-offers-significant-performance-improvements"><img alt="GeForce GTX 780 Ti: R337 vs. R331" src="http://images.anandtech.com/graphs/graph7926/62483.png" /></a></p>
+<p>
+	To no great surprise the actual performance gains are very game specific. We&rsquo;re seeing anywhere between break-even performance on games like GRID 2 and Crysis 3, to 10%+ gains in games like Metro: Last Light and Bioshock: Infinite. Even in the cases NVIDIA makes sweeping changes to the underpinnings of their drivers, any potential performance improvement is going to hinge on where the bottlenecks are and what games are using the bottlenecked function.</p>
+<p>
+	NVIDIA has also put similar degree of effort &ndash; if not more &ndash; into improving SLI performance.</p>
+<p style="text-align: center;">
+	<a href="http://www.anandtech.com/show/7926/nvidia-releases-33750-beta-driver-offers-significant-performance-improvements"><img alt="GeForce GTX 780 Ti SLI: R337 vs. R331" src="http://images.anandtech.com/graphs/graph7926/62484.png" /></a></p>
+<p>
+	Unlike our single-GPU results, every SLI-compatible game has seen at least a slight performance increase. This ranges from 2% in Crysis 3 and 9% in Metro, up to 76% for Total War: Rome II. In the case of Rome II NVIDIA&rsquo;s previous drivers were incapable of getting good multi-GPU scaling out of the game, and with R337 they have apparently finally surmounted Rome&rsquo;s AFR-unfriendly nature. However it should be noted that for the moment Rome II is suffering from (or causing) graphical glitches on both NVIDIA and AMD multi-GPU setups, so both vendors still have some work to do when it comes to Rome II.</p>
+<p>
+	NVIDIA hasn&rsquo;t released a complete list of games they&rsquo;re expecting performance improvements in, but from our results and from their press deck it looks like the gains from these drivers are very hit &amp; miss. In our experience the gains from R337 will depend on the game and quite often the settings and features used within that game, and ultimately whether those combinations leave you CPU limited or GPU limited. Otherwise for better or worse some of NVIDIA&rsquo;s targets for optimization have included relatively popular (but old) benchmark games &ndash; titles like Alien vs. Predator and Sniper Elite V2 &ndash; a practice that&rsquo;s hardly unusual, but it means these performance gains may not translate over to to less popular games or games that don&rsquo;t benchmark well.</p>
+<p align="center">
+	<a href="http://www.anandtech.com/show/7926/nvidia-releases-33750-beta-driver-offers-significant-performance-improvements"><img alt="" src="http://images.anandtech.com/doci/7926/337_Perf_575px.jpg" /></a></p>
+<p>
+	Meanwhile for the moment NVIDIA is being rather coy on what they&rsquo;ve done under the hood to squeeze out these performance improvements out of their now well-developed Kepler GPUs, saying that they&rsquo;re going to waiting until these drivers are out of beta to talk about what they&rsquo;ve been doing under the hood. In other words, it looks like it will be few more weeks until we get a chance to see just what NVIDIA has been up to in the last couple of months.</p>
+<p>
+	What isn&rsquo;t under question however is NVIDIA&rsquo;s motivation, which is the favorable press and the performance gains AMD has picked up as a result of their fledgling Mantle program. As we saw a couple of weeks ago, low-level programming is going to be making a significant resurgence in the PC gaming space through <a href="http://www.anandtech.com/show/7889/microsoft-announces-directx-12-low-level-graphics-programming-comes-to-directx">Microsoft&rsquo;s forthcoming DirectX 12</a>, with Mantle in turn serving as a vanguard of sorts for the concept. In the interim with DirectX 12 development targeting Holiday 2015 games (a preview build is expected this year) NVIDIA needs to make sure they remain competitive with AMD regardless of the technical differences.</p>
+<p align="center">
+	<a href="http://www.anandtech.com/show/7926/nvidia-releases-33750-beta-driver-offers-significant-performance-improvements"><img alt="" src="http://images.anandtech.com/doci/7926/337_Mantle_575px.jpg" /></a></p>
+<p>
+	The end result has been that NVIDIA has been focusing on Mantle-enabled games for their driver performance improvements, doing what they can to improve performance within the confines of Direct3D 11. This has included Battlefield 4 and Thief so far, and we wouldn&rsquo;t be surprised if NVIDIA undertook a similar effort for any future high-profile Mantle games. All things considered NVIDIA has an overall hardware performance advantage at the high end, but AMD&rsquo;s Hawaii products are fast enough that NVIDIA needs to counter Mantle-derived performance improvements if they wish to stay on top, giving NVIDIA a very good reason to keep an eye on AMD and Mantle.</p>
+<p>
+	Finally, coinciding with today&rsquo;s launch of the 337.50 drivers, NVIDIA will also be launching <a href="http://www.anandtech.com/show/7929/nvidia-geforce-experience-20-remote-gamestream-and-notebook-support">GeForce Experience 2.0</a>. We&rsquo;ll be looking at that in a separate article, but GeForce Experience 2.0 will bring with it additional features for GeForce desktop and mobile products, including ShadowPlay feature enhancements and official support for ShadowPlay and Battery Boost on mobile products. Meanwhile GeForce Experience 2.0 will also be enabling Gamestream support over the Internet for NVIDIA&rsquo;s SHIELD handheld, finally allowing users to access home and centralized (GRID) remote gaming over both local networks and the larger Internet.</p>
+<p align="center">
+	<a href="http://www.anandtech.com/show/7926/nvidia-releases-33750-beta-driver-offers-significant-performance-improvements"><img alt="" src="http://images.anandtech.com/doci/7926/GeForce_Experience_575px.png" /></a></p>
+</p>]]></description>
+      <link>http://www.anandtech.com/show/7926/nvidia-releases-33750-beta-driver-offers-significant-performance-improvements</link>
+      <pubDate>Mon, 07 Apr 2014 09:00:00 EDT</pubDate>
+      <guid isPermaLink="false">tag:www.anandtech.com,7926:news</guid>
+      <category><![CDATA[GPUs]]></category>
+    </item>
+    <item>
+      <title>AMD Launches FirePro W9100</title>
+      <author>Ryan Smith</author>
+      <description><![CDATA[<p align="center"><a href="http://www.anandtech.com/show/7927/amd-launches-firepro-w9100"><img src="http://images.anandtech.com/doci/7927/FirePro_W9100_575px.jpg" alt="" /></a></p><p><p>
+	Kicking off this week is the 2014 NAB Show, the National Association of Broadcasters&rsquo; annual trade show for broadcast content and technology. The NAB Show is often a launch point for new video products and this year is no exception, with AMD using the show to launch their new FirePro W9100.</p>
+<p>
+	<a href="http://www.anandtech.com/show/7901/amd-announces-firepro-w9100">First announced last month</a>, the FirePro W9100 is AMD&rsquo;s new flagship FirePro video card. Based on AMD&rsquo;s Hawaii GPU, the FirePro W9100 is a fairly straightforward update to AMD&rsquo;s FirePro lineup, bringing with it the various GCN 1.1 feature upgrades along with Hawaii&rsquo;s stronger overall performance and greatly improved double precision (FP64) performance.</p>
+<table align="center" border="0" cellpadding="0" cellspacing="1" width="640">
+	<tbody>
+		<tr class="tgrey">
+			<td align="center" colspan="7">
+				AMD FirePro W Series Specification Comparison</td>
+		</tr>
+		<tr class="tlblue">
+			<td width="171">
+				&nbsp;</td>
+			<td align="center" valign="middle" width="113">
+				AMD FirePro W9100</td>
+			<td align="center" valign="middle" width="113">
+				AMD FirePro W9000</td>
+			<td align="center" valign="middle" width="118">
+				AMD FirePro W8000</td>
+			<td align="center" valign="middle" width="119">
+				AMD FirePro W7000</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">
+				Stream Processors</td>
+			<td align="center" valign="middle">
+				2816</td>
+			<td align="center" valign="middle">
+				2048</td>
+			<td align="center" valign="middle">
+				1792</td>
+			<td align="center" valign="middle">
+				1280</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">
+				Texture Units</td>
+			<td align="center" valign="middle">
+				176</td>
+			<td align="center" valign="middle">
+				128</td>
+			<td align="center" valign="middle">
+				112</td>
+			<td align="center" valign="middle">
+				80</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">
+				ROPs</td>
+			<td align="center" valign="middle">
+				64</td>
+			<td align="center" valign="middle">
+				32</td>
+			<td align="center" valign="middle">
+				32</td>
+			<td align="center" valign="middle">
+				32</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">
+				Core Clock</td>
+			<td align="center" valign="middle">
+				930MHz</td>
+			<td align="center" valign="middle">
+				975MHz</td>
+			<td align="center" valign="middle">
+				900MHz</td>
+			<td align="center" valign="middle">
+				950MHz</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">
+				Memory Clock</td>
+			<td align="center" valign="middle">
+				5GHz GDDR5</td>
+			<td align="center" valign="middle">
+				5.5GHz GDDR5</td>
+			<td align="center" valign="middle">
+				5.5GHz GDDR5</td>
+			<td align="center" valign="middle">
+				4.8GHz GDDR5</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">
+				Memory Bus Width</td>
+			<td align="center" valign="middle">
+				512-bit</td>
+			<td align="center" valign="middle">
+				384-bit</td>
+			<td align="center" valign="middle">
+				256-bit</td>
+			<td align="center" valign="middle">
+				256-bit</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">
+				VRAM</td>
+			<td align="center" valign="middle">
+				16GB</td>
+			<td align="center" valign="middle">
+				6GB</td>
+			<td align="center" valign="middle">
+				4GB</td>
+			<td align="center" valign="middle">
+				4GB</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">
+				Double Precision</td>
+			<td align="center" valign="middle">
+				1/2</td>
+			<td align="center" valign="middle">
+				1/4</td>
+			<td align="center" valign="middle">
+				1/4</td>
+			<td align="center" valign="middle">
+				1/16</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">
+				Transistor Count</td>
+			<td align="center" valign="middle">
+				6.2B</td>
+			<td align="center" valign="middle">
+				4.31B</td>
+			<td align="center" valign="middle">
+				4.31B</td>
+			<td align="center" valign="middle">
+				2.8B</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">
+				TDP</td>
+			<td align="center" valign="middle">
+				275W</td>
+			<td align="center" valign="middle">
+				274W</td>
+			<td align="center" valign="middle">
+				189W</td>
+			<td align="center" valign="middle">
+				&lt;150W</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">
+				Manufacturing Process</td>
+			<td align="center" valign="middle">
+				TSMC 28nm</td>
+			<td align="center" valign="middle">
+				TSMC 28nm</td>
+			<td align="center" valign="middle">
+				TSMC 28nm</td>
+			<td align="center" valign="middle">
+				TSMC 28nm</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">
+				Architecture</td>
+			<td align="center" valign="middle">
+				GCN 1.1</td>
+			<td align="center" valign="middle">
+				GCN 1.0</td>
+			<td align="center" valign="middle">
+				GCN 1.0</td>
+			<td align="center" valign="middle">
+				GCN 1.0</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">
+				Warranty</td>
+			<td align="center" valign="middle">
+				3-Year</td>
+			<td align="center" valign="middle">
+				3-Year</td>
+			<td align="center" valign="middle">
+				3-Year</td>
+			<td align="center" valign="middle">
+				3-Year</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">
+				Launch Price</td>
+			<td align="center" valign="middle">
+				$3999</td>
+			<td align="center" valign="middle">
+				$3999</td>
+			<td align="center" valign="middle">
+				$1599</td>
+			<td align="center" valign="middle">
+				$899</td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	At the time of the FirePro W9100 announcement AMD did not announce the complete specifications or the price, but with today&rsquo;s launch we finally have that information in hand. As expected, the W9100 will be utilizing a full-fledged Hawaii GPU, meaning all 2816 SPs and 64 ROPs are active. AMD will be clocking the card at 930Mhz, a slightly more conservative clockspeed than their consumer parts, but par for the course for these workstation parts. The tradeoff being that AMD will be able to ship it with a typical board power of just 275W, virtually unchanged from the 274W rating for the FirePro W9000.</p>
+<p>
+	From a raw specification standpoint AMD is going to be pushing memory bandwidth and memory capacity, and for good reason. The W9100 is outfit with 16GB of memory and will be utilizing Hawaii&rsquo;s full 512-bit memory bus, giving it more RAM than any prior workstation card and 320GB/sec of memory bandwidth to access that RAM through. Meanwhile on a technical note, from the product details we&rsquo;ve seen it looks like AMD is using 8Gb GDDR5 memory chips, which would mean the W9100 will be in a 16x8Gb memory configuration.</p>
+<p>
+	Also confirmed with today&rsquo;s launch is W9100&rsquo;s double precision floating point performance. We had earlier speculated based on AMD&rsquo;s generalized double precision performance numbers that an unrestricted Hawaii GPU was capable of &frac12; speed double precision performance, and AMD has since confirmed that. This puts W9100 at 5.24 TFLOPS of single precision performance and 2.62 TFLOPS of double precision performance, making it the first workstation card to offer more than 2 TFLOPS of double precision performance.</p>
+<p>
+	Meanwhile as for pricing, AMD has set the MSRP on the W9100 at $3999. Unsurprisingly this is the same price as the W9000 when it launched roughly a year and a half ago, making the W9100 the W9000&#39;s replacement in every sense of the word. This also happens to continue the trend of AMD significantly undercutting NVIDIA&rsquo;s workstation card prices, with the W9100 coming in roughly $1000 below the price of the Quadro K6000.</p>
+<p align="center">
+	<a href="http://www.anandtech.com/show/7927/amd-launches-firepro-w9100"><img alt="" src="http://images.anandtech.com/doci/7927/GPUCompute_575px.jpg" /></a></p>
+<p>
+	Wrapping things up, as we mentioned back in our initial look at AMD&rsquo;s announcement, expect to see AMD heavily push the W9100 on the basis of its memory and compute performance alongside its graphics performance. While traditional graphics-heavy professional applications (e.g. AutoCAD) are still as power hungry as ever, the amount of compute work being generated by these programs is increasing. This goes for both programs using compute in a more straightforward way, and programs leveraging compute for graphics related tasks such as video encoding and image processing. For both of these tasks AMD is banking on their 16GB of VRAM giving them a performance advantage due to the larger working sets such a large memory configuration can hold, in turn allowing them to better utilize the full compute capabilities of the Hawaii GPU. Which on that note, AMD OpenCL users will be happy to hear that AMD has set a release window of Q4 for their <a href="http://www.anandtech.com/show/7161/khronos-siggraph-2013-opengl-44-opencl-20-opencl-12-spir-announced/3">OpenCL 2.0</a> driver for FirePro, a long-awaited release that among other things will introduce dynamic parallelism into OpenCL.</p>
+</p>]]></description>
+      <link>http://www.anandtech.com/show/7927/amd-launches-firepro-w9100</link>
+      <pubDate>Mon, 07 Apr 2014 08:00:00 EDT</pubDate>
+      <guid isPermaLink="false">tag:www.anandtech.com,7927:news</guid>
+      <category><![CDATA[GPUs]]></category>
+    </item>
+    <item>
+      <title>Qualcomm's Snapdragon 808/810: 20nm High-End 64-bit SoCs with LTE Category 6/7 Support in 2015</title>
+      <author>Anand Lal Shimpi</author>
+      <description><![CDATA[<p align="center"><a href="http://www.anandtech.com/show/7925/qualcomms-snapdragon-808810-20nm-highend-64bit-socs-with-lte-category-67-support-in-2015"><img src="http://images.anandtech.com/doci/7925/Screen Shot 2014-04-07 at 2.28.11 AM_575px.png" alt="" /></a></p><p><p>
+	Today Qualcomm is rounding out its 64-bit family with the Snapdragon 808 and 810. Like the previous 64-bit announcements (Snapdragon <a href="http://www.anandtech.com/show/7573/qualcomm-announces-snapdragon-410-based-on-64bit-arm-cortex-a53-and-adreno-306-gpu">410</a>, <a href="http://www.anandtech.com/show/7784/snapdragon-610-615-qualcomm-continues-down-its-64bit-warpath-with-48core-cortex-a53-designs">610</a> and <a href="http://www.anandtech.com/show/7784/snapdragon-610-615-qualcomm-continues-down-its-64bit-warpath-with-48core-cortex-a53-designs">615</a>), the 808 and 810 leverage ARM&#39;s own CPU IP in lieu of a Qualcomm designed microarchitecture. We&#39;ll finally hear about Qualcomm&#39;s own custom 64-bit architecture later this year, but it&#39;s clear that all 64-bit Snapdragon SoCs shipping in 2014 (and early 2015) will use ARM CPU IP.</p>
+<p>
+	While the 410, 610 and 615 all use <a href="http://www.anandtech.com/show/7573/qualcomm-announces-snapdragon-410-based-on-64bit-arm-cortex-a53-and-adreno-306-gpu">ARM Cortex A53</a> cores (simply varying the number of cores and operating frequency), the 808 and 810 move to a big.LITTLE design with a combination of Cortex A53s and Cortex A57s. The latter is an evolution of the Cortex A15, offering anywhere from a 25 - 55% increase in IPC over the A15. The substantial increase in performance comes at around a 20% increase in power consumption at 28nm. Thankfully both the Snapdragon 808 and 810 will be built at 20nm, which should help offset some of the power increase.</p>
+<table align="center" border="0" cellpadding="0" cellspacing="1" width="678">
+	<tbody>
+		<tr class="tgrey">
+			<td align="center" colspan="8">
+				Qualcomm&#39;s 64-bit Lineup</td>
+		</tr>
+		<tr class="tlblue">
+			<td width="120">
+				&nbsp;</td>
+			<td align="center" valign="middle" width="85">
+				Snapdragon 810</td>
+			<td align="center" valign="middle" width="85">
+				Snapdragon 808</td>
+			<td align="center" valign="middle" width="85">
+				Snapdragon 615</td>
+			<td align="center" valign="middle" width="85">
+				Snapdragon 610</td>
+			<td align="center" valign="middle" width="85">
+				Snapdragon 410</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">
+				Internal Model Number</td>
+			<td align="center" valign="middle">
+				MSM8994</td>
+			<td align="center" valign="middle">
+				MSM8992</td>
+			<td align="center" valign="middle">
+				MSM8939</td>
+			<td align="center" valign="middle">
+				MSM8936</td>
+			<td align="center" valign="middle">
+				MSM8916</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">
+				Manufacturing Process</td>
+			<td align="center" valign="middle">
+				20nm</td>
+			<td align="center" valign="middle">
+				20nm</td>
+			<td align="center" valign="middle">
+				28nm LP</td>
+			<td align="center" valign="middle">
+				28nm LP</td>
+			<td align="center" valign="middle">
+				28nm LP</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">
+				CPU</td>
+			<td align="center" valign="middle">
+				4 x ARM Cortex A57 + 4 x ARM Cortex A53 (big.LITTLE)</td>
+			<td align="center" valign="middle">
+				2 x ARM Cortex A57 + 4 x ARM Cortex A53 (big.LITTLE)</td>
+			<td align="center" valign="middle">
+				8 x ARM Cortex A53</td>
+			<td align="center" valign="middle">
+				4 x ARM Cortex A53</td>
+			<td align="center" valign="middle">
+				4 x ARM Cortex A53</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">
+				ISA</td>
+			<td align="center" valign="middle">
+				32/64-bit ARMv8-A</td>
+			<td align="center" valign="middle">
+				32/64-bit ARMv8-A</td>
+			<td align="center" valign="middle">
+				32/64-bit ARMv8-A</td>
+			<td align="center" valign="middle">
+				32/64-bit ARMv8-A</td>
+			<td align="center" valign="middle">
+				32/64-bit ARMv8-A</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">
+				GPU</td>
+			<td align="center" valign="middle">
+				Adreno 430</td>
+			<td align="center" valign="middle">
+				Adreno 418</td>
+			<td align="center" valign="middle">
+				Adreno 405</td>
+			<td align="center" valign="middle">
+				Adreno 405</td>
+			<td align="center" valign="middle">
+				Adreno 306</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">
+				H.265 Decode</td>
+			<td align="center" valign="middle">
+				Yes</td>
+			<td align="center" valign="middle">
+				Yes</td>
+			<td align="center" valign="middle">
+				Yes</td>
+			<td align="center" valign="middle">
+				Yes</td>
+			<td align="center" valign="middle">
+				No</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">
+				H.265 Encode</td>
+			<td align="center" valign="middle">
+				Yes</td>
+			<td align="center" valign="middle">
+				No</td>
+			<td align="center" valign="middle">
+				No</td>
+			<td align="center" valign="middle">
+				No</td>
+			<td align="center" valign="middle">
+				No</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">
+				Memory Interface</td>
+			<td align="center" valign="middle">
+				2 x 32-bit LPDDR4-1600</td>
+			<td align="center" valign="middle">
+				2 x 32-bit LPDDR3-933</td>
+			<td align="center" valign="middle">
+				2 x 32-bit LPDDR3-800</td>
+			<td align="center" valign="middle">
+				2 x 32-bit LPDDR3-800</td>
+			<td align="center" valign="middle">
+				2 x 32-bit LPDDR2/3-533</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">
+				Integrated Modem</td>
+			<td align="center" valign="middle">
+				9x35 core, LTE Category 6/7, DC-HSPA+, DS-DA</td>
+			<td align="center" valign="middle">
+				9x35 core, LTE Category 6/7, DC-HSPA+, DS-DA</td>
+			<td align="center" valign="middle">
+				9x25 core, LTE Category 4, DC-HSPA+, DS-DA</td>
+			<td align="center" valign="middle">
+				9x25 core, LTE Category 4, DC-HSPA+, DS-DA</td>
+			<td align="center" valign="middle">
+				9x25 core, LTE Category 4, DC-HSPA+, DS-DA</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">
+				Integrated WiFi</td>
+			<td align="center" valign="middle">
+				-</td>
+			<td align="center" valign="middle">
+				-</td>
+			<td align="center" valign="middle">
+				Qualcomm VIVE 802.11ac 1-stream</td>
+			<td align="center" valign="middle">
+				Qualcomm VIVE 802.11ac 1-stream</td>
+			<td align="center" valign="middle">
+				Qualcomm VIVE 802.11ac 1-stream</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">
+				eMMC Interface</td>
+			<td align="center" valign="middle">
+				5.0</td>
+			<td align="center" valign="middle">
+				5.0</td>
+			<td align="center" valign="middle">
+				4.5</td>
+			<td align="center" valign="middle">
+				4.5</td>
+			<td align="center" valign="middle">
+				4.5</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">
+				Camera ISP</td>
+			<td align="center" valign="middle">
+				14-bit dual-ISP</td>
+			<td align="center" valign="middle">
+				12-bit dual-ISP</td>
+			<td align="center" valign="middle">
+				?</td>
+			<td align="center" valign="middle">
+				?</td>
+			<td align="center" valign="middle">
+				?</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">
+				Shipping in Devices</td>
+			<td align="center" valign="middle">
+				1H 2015</td>
+			<td align="center" valign="middle">
+				1H 2015</td>
+			<td align="center" valign="middle">
+				Q4 2014</td>
+			<td align="center" valign="middle">
+				Q4 2014</td>
+			<td align="center" valign="middle">
+				Q3 2014</td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	The Snapdragon 808 features four Cortex A53s and two Cortex A57s, while the 810 moves to four of each. In both cases all six/eight cores can be active at once (Global Task Scheduling). The designs are divided into two discrete CPU clusters (one for the A53s and one for the A57s). Within a cluster all of the cores have to operate at the same frequency (a change from previous Snapdragon designs), but each cluster can operate at a different frequency (which makes sense given the different frequency targets for these two core types). Qualcomm isn&#39;t talking about cache sizes at this point, but I&#39;m guessing we won&#39;t see anything as cool/exotic as a large shared cache between the two clusters. Although these are vanilla ARM designs, Qualcomm will be using its own optimized cells and libraries, which may translate into better power/performance compared to a truly off-the-shelf design.</p>
+<p>
+	The CPU is only one piece of the puzzle as the rest of the parts of these SoCs get upgraded as well. The Snapdragon 808 will use an Adreno 418 GPU, while the 810 gets an Adreno 430. I have no idea what either of those actually means in terms of architecture unfortunately (Qualcomm remains the sole tier 1 SoC vendor to refuse to publicly disclose <a href="http://www.anandtech.com/show/7793/imaginations-powervr-rogue-architecture-exposed">meaningful architectural</a> <a href="http://www.anandtech.com/show/5699/nvidia-geforce-gtx-680-review/2">details</a> <a href="http://www.anandtech.com/show/7764/the-nvidia-geforce-gtx-750-ti-and-gtx-750-review-maxwell">about its GPUs</a>). In terms of graphics performance, the Adreno 418 is apparently 20% faster than the Adreno 330, and the Adreno 430 is 30% faster than the Adreno 420 (100% faster in GPGPU performance). Note that the Adreno 420 itself is something like 40% faster than Adreno 330, which would make Adreno 430 over 80% faster than the Adreno 330 we have in Snapdragon 800/801 today.</p>
+<p>
+	Also on the video side: both SoCs boast dedicated HEVC/H.265 decode hardware. Only the Snapdragon 810 has a hardware HEVC encoder however. The 810 can support up to two 4Kx2K displays (1 x 60Hz + 1 x 30Hz), while the 808 supports a maximum primary display resolution of 2560 x 1600.</p>
+<p>
+	The 808/810 also feature upgraded ISPs, although once again details are limited. The 810 gets an upgraded 14-bit dual-ISP design, while the 808 (and below?) still use a 12-bit ISP. Qualcomm claims up to 1.2GPixels/s of throughput, putting ISP clock at 600MHz and offering a 20% increase in ISP throughput compared to the Snapdragon 805.</p>
+<p>
+	The Snapdragon 808 features a 64-bit wide LPDDR3-933 interface (1866MHz data rate, 15GB/s memory bandwidth). The 810 on the other hand features a 64-bit wide LPDDR4-1600 interface (3200MHz data rate, 25.6GB/s memory bandwidth). The difference in memory interface prevents the 808 and 810 from being pin-compatible. Despite the similarities otherwise, the 808 and 810 are two distinct pieces of silicon - the 808 isn&#39;t a harvested 810.</p>
+<p>
+	Both SoCs have a MDM9x35 derived LTE Category 6/7 modem. The SoCs feature essentially the same modem core as a 9x35 discrete modem, but with one exception: Qualcomm enabled support for 3 carrier aggregation LTE (up from 2). The discrete 9x35 modem implementation can aggregate up to two 20MHz LTE carriers in order to reach Cat 6 LTE&#39;s 300Mbps peak download rate. The 808/810, on the other hand, can combine up to three 20MHz LTE carriers (although you&#39;ll likely see 3x CA used with narrower channels, e.g. 20MHz + 5MHz + 5MHz or 20MHz + 10MHz + 10MHz).</p>
+<p>
+	Enabling 3x LTE CA requires two RF transceiver front ends: Qualcomm&#39;s WTR3925 and WTR3905. The WTR3925 is a single chip, 2x CA RF transceiver and you need the WTR3905 to add support for combining another carrier. Category 7 LTE is also supported by the hardware (100Mbps uplink), however due to operator readiness Qualcomm will be promoting the design primarily as category 6.</p>
+<p>
+	There&#39;s no integrated WiFi in either SoC. Qualcomm expects anyone implementing one of these designs to want to opt for a 2-stream, discrete solution such as the QCA6174.</p>
+<p style="text-align: center;">
+	<a href="http://www.anandtech.com/show/7925/qualcomms-snapdragon-808810-20nm-highend-64bit-socs-with-lte-category-67-support-in-2015"><img alt="" src="http://images.anandtech.com/doci/7925/Screen%20Shot%202014-04-07%20at%202.28.18%20AM_575px.png" /></a></p>
+<p>
+	Qualcomm refers to both designs as &quot;multi-billion transistor&quot; chips. I really hope we&#39;ll get to the point of actual disclosure of things like die sizes and transistor counts sooner rather than later (the die shot above is inaccurate).</p>
+<p>
+	The Snapdragon 808 is going to arrive as a successor to the 800/801, while the 810 sits above it in the stack (with a cost structure similar to the 805). We&#39;ll see some &quot;advanced packaging&quot; used in these designs. Both will be available in a PoP configuration, supporting up to 4GB of RAM in a stack. Based on everything above, it&#39;s safe to say that these designs are going to be a substantial upgrade over what Qualcomm offers today.</p>
+<p>
+	Unlike the rest of the 64-bit Snapdragon family, the 808 and 810 likely won&#39;t show up in devices until the first half of 2015 (410 devices will arrive in Q3 2014, while 610/615 will hit in Q4). The 810 will come first (and show up roughly two quarters after the Snapdragon 805, which will show up two quarters after the recently released 801). The 808 will follow shortly thereafter. This likely means we won&#39;t see Qualcomm&#39;s own 64-bit CPU microarchitecture show up in products until the second half of next year.</p>
+<p>
+	With the Snapdragon 808 and 810, Qualcomm rounds out almost all of its 64-bit lineup. The sole exception is the 200 series, but my guess is the pressure to move to 64-bit isn&#39;t quite as high down there.</p>
+<p>
+	What&#39;s interesting to me is just how quickly Qualcomm has shifted from not having any 64-bit silicon on its roadmap to a nearly complete product stack. Qualcomm appeared to stumble a bit after Apple&#39;s unexpected <a href="http://www.anandtech.com/show/7910/apples-cyclone-microarchitecture-detailed">64-bit Cyclone</a> announcement last fall. Leaked roadmaps pointed to a 32-bit only future in 2014 prior to the introduction of Apple&#39;s A7. By the end of 2013 however, Qualcomm had quickly added its first 64-bit ARMv8 based SoC to the roadmap (Snapdragon 410). Now here we are, just over six months since the release of iPhone 5s and Qualcomm&#39;s 64-bit product stack seems complete. It&#39;ll still be roughly a year before all of these products are shipping, but if this was indeed an unexpected detour I really think the big story is just how quickly Qualcomm can move.</p>
+<p>
+	I don&#39;t know of any other silicon player that can move and ship this quickly. Whatever efficiencies and discipline Qualcomm has internally, I feel like that&#39;s the bigger threat to competing SoC vendors, not the modem IP.</p>
+</p>]]></description>
+      <link>http://www.anandtech.com/show/7925/qualcomms-snapdragon-808810-20nm-highend-64bit-socs-with-lte-category-67-support-in-2015</link>
+      <pubDate>Mon, 07 Apr 2014 07:30:00 EDT</pubDate>
+      <guid isPermaLink="false">tag:www.anandtech.com,7925:news</guid>
+      <category><![CDATA[SOC]]></category>
+    </item>
+    <item>
+      <title>Corsair Obsidian 450D Case Review</title>
+      <author>E. Fylladitakis</author>
+      <description><![CDATA[<p>
+	Corsair is a company that hardly requires an introduction; almost every PC user has heard of their name and a large number own at least one of their products. More advanced users know that Corsair is one of the oldest companies that&#39;s still around. The company was established in 1994 as a cache module manufacturer but their focus changed to DRAM modules a few years later. Corsair began a very aggressive diversification scheme over the past decade, which turned the DRAM manufacturer into a giant that markets several dozen technology-related products, their four series of cases being among the most popular of them. Today we have the new Obsidian 450D case on our test bench; read on for the complete review.</p>]]></description>
+      <link>http://www.anandtech.com/show/7891/corsair-obsidian-450d-case-review</link>
+      <pubDate>Fri, 04 Apr 2014 06:00:00 EDT</pubDate>
+      <guid isPermaLink="false">tag:www.anandtech.com,7891:news</guid>
+      <category><![CDATA[Cases/Cooling/PSUs]]></category>
+    </item>
+    <item>
+      <title>MSI A88XM-E35 Motherboard Review: Micro-A88X for $68</title>
+      <author>Ian Cutress</author>
+      <description><![CDATA[<p>
+	While the desktop PC industry has been reported as shrinking these last few quarters, the dichotomy rests in a drive towards the smaller form factors while the large under-the-desk systems market remains steady. This would suggest a split between mini-ITX and ATX users, leaving micro-ATX platforms stranded in the middle. Is there still room in the market for this form factor?&nbsp; Today we review MSI&rsquo;s take on FM2+ and micro-ATX with the A88XM-E35.</p>]]></description>
+      <link>http://www.anandtech.com/show/7914/msi-a88xme35-review</link>
+      <pubDate>Thu, 03 Apr 2014 11:59:00 EDT</pubDate>
+      <guid isPermaLink="false">tag:www.anandtech.com,7914:news</guid>
+      <category><![CDATA[Motherboards]]></category>
+    </item>
+    <item>
+      <title>Nokia Lumia Updates - New High End, New Markets</title>
+      <author>Brett Howse</author>
+      <description><![CDATA[<p align="center"><a href="http://www.anandtech.com/show/7923/nokia-lumia-updates-new-high-end-new-markets"><img src="http://images.anandtech.com/doci/7923/Lumia 930Car_575px.jpg" alt="" /></a></p><p><p>
+	During the day 1 keynote at the Microsoft BUILD developer&rsquo;s conference, Stephen Elop took the stage to announce some new Nokia Lumia phones with Windows Phone 8.1.</p>
+<p>
+	First up was the new Lumia 930. The Lumia 930 is a 5&rdquo; 1080p phone, with a 20 Megapixel PureView camera with OIS, Snapdragon 800 2.2 GHz SoC, 2 GB of RAM, 32 GB of storage, and Qi wireless charging. This new phone is actually the recently released Lumia Icon rebranded, and pre-loaded with Windows Phone 8.1. Availability of the device is going to start with Europe in June, and move out from there. The announced price point is $599 USD off contract. This phone doesn&rsquo;t look like it will be launched in the USA anytime soon, since Verizon has an exclusive arrangement with Nokia for the rebranded Icon.</p>
+<table align="center" border="0" cellpadding="0" cellspacing="1" width="600">
+	<tbody>
+		<tr>
+			<td align="center" class="contentwhite" colspan="4">
+				New Lumia Comparison</td>
+		</tr>
+		<tr class="tlgrey">
+			<td class="tlgrey" width="126">
+				&nbsp;</td>
+			<td style="text-align: center;" width="156">
+				Nokia Lumia 930</td>
+			<td style="text-align: center;" width="156">
+				Nokia Lumia 630</td>
+			<td style="text-align: center;" width="157">
+				Nokia Lumia 635</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">
+				<strong>SoC</strong></td>
+			<td style="text-align: center;" width="156">
+				2.2 GHz Snapdragon 800 (Quad Core Krait)</td>
+			<td style="text-align: center;" width="156">
+				1.2GHz Snapdragon 400 (Quad Core Cortex-A7)</td>
+			<td style="text-align: center;" width="157">
+				1.2GHz Snapdragon 400 (Quad Core Cortex-A7)</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">
+				<strong>RAM</strong></td>
+			<td style="text-align: center;" width="156">
+				2GB</td>
+			<td style="text-align: center;" width="156">
+				512MB</td>
+			<td style="text-align: center;" width="157">
+				512MB</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">
+				<strong>NAND</strong></td>
+			<td style="text-align: center;" width="156">
+				32GB NAND</td>
+			<td style="text-align: center;" width="156">
+				8GB NAND with microSD slot</td>
+			<td style="text-align: center;" width="157">
+				8GB NAND with microSD slot</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">
+				<strong>Screen</strong></td>
+			<td style="text-align: center;" width="156">
+				5&quot; 1920x1080</td>
+			<td style="text-align: center;" width="156">
+				4.5&quot; 854x480</td>
+			<td style="text-align: center;" width="157">
+				4.5&quot; 854x480</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">
+				<strong>Network</strong></td>
+			<td style="text-align: center;">
+				2G/3G/4G LTE</td>
+			<td style="text-align: center;">
+				2G/3G (Dual-Sim Optional)</td>
+			<td style="text-align: center;">
+				2G/3G/4G LTE</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">
+				<strong>Price</strong></td>
+			<td style="text-align: center;" width="156">
+				N/A in North America</td>
+			<td style="text-align: center;" width="156">
+				$159/$169</td>
+			<td style="text-align: center;" width="157">
+				$189</td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	Windows Phone has been much more successful with the lower end of the market, and to serve this market, Elop announced the Lumia 630, and 635.</p>
+<p>
+	Spec wise, the 630 is decidedly low end, 4.5&rdquo; 854 x 480 smartphone. It comes with a Snapdragon 400 1.2 GHz quad core SoC, 512 MB of RAM, and 8 GB of onboard storage, and no LTE support. Even though the storage is low, it does support MicroSD cards, and Windows Phone 8.1 looks like it will have even better support for expandable storage than Windows Phone 8 did, so the small storage should not cause too many issues. The low 512 MB of RAM will restrict the apps that can run on the device, just as it does for current devices with the same memory.</p>
+<p align="center">
+	<a href="http://www.anandtech.com/show/7923/nokia-lumia-updates-new-high-end-new-markets"><img alt="" src="http://images.anandtech.com/doci/7923/Lumia%20630_575px.jpg" /></a></p>
+<p>
+	A new feature to Windows Phone for the 630 is Dual SIM support. Although not used much in North America, it is popular in many countries and will open this low cost device up to those markets. Dual SIM looks fairly well done, with different color tiles for different SIMs if you want, or you can link the tiles for both SIMs together much like the linked inbox. Dialing can be set per contact as to which SIM you want to use as well.</p>
+<p align="center">
+	<a href="http://www.anandtech.com/show/7923/nokia-lumia-updates-new-high-end-new-markets"><img alt="" src="http://images.anandtech.com/doci/7923/Lumia_630-Dual-Sim-group_575px.jpg" /></a></p>
+<p>
+	The 635 is identical to the 630 in every way, other than LTE support (bands 3, 7, and 20).</p>
+<p align="center">
+	<a href="http://www.anandtech.com/show/7923/nokia-lumia-updates-new-high-end-new-markets"><img alt="" src="http://images.anandtech.com/doci/7923/Lumia%20635_575px.jpg" /></a></p>
+<p>
+	Also discussed is a new &ldquo;Sensor Core&rdquo; which, like many phones being announced recently, is a way to track movement for health and fitness apps.</p>
+<p>
+	The 630 and 635 will be the first Windows Phone 8.1 devices sold, and will go on sale in May in Asia, moving across India and Europe with North American availability beginning in July.</p>
+<p>
+	Prices are starting at $159 for a single SIM 630, moving up a staggering $10 to $169 for the dual SIM version. The 635 with LTE has a MSRP of $189. Local subsidies may apply, so we&rsquo;ll have to see how the actual street price lands.</p>
+</p>]]></description>
+      <link>http://www.anandtech.com/show/7923/nokia-lumia-updates-new-high-end-new-markets</link>
+      <pubDate>Thu, 03 Apr 2014 10:00:00 EDT</pubDate>
+      <guid isPermaLink="false">tag:www.anandtech.com,7923:news</guid>
+      <category><![CDATA[Smartphones]]></category>
+    </item>
+    <item>
+      <title>Microsoft Announces Windows 8.1 Update - Desktop as a First Class Citizen</title>
+      <author>Brett Howse</author>
+      <description><![CDATA[<p align="center"><a href="http://www.anandtech.com/show/7922/microsoft-announces-windows-81-update-desktop-as-a-first-class-citizen"><img src="http://images.anandtech.com/doci/7922/Win81U2_575px.jpg" alt="" /></a></p><p><p>
+	Microsoft&rsquo;s day 1 keynote for the BUILD developer conference detailed an update to Windows coming on the next scheduled patch Tuesday called 8.1 Update. Notice it&rsquo;s not called Update 1, which means there may or may not be more of these updates later in the year. Hopefully there&rsquo;s more.</p>
+<p>
+	Windows 8 launched about 18 months ago. With that launch, Windows was put on a rapid release cycle, which resulted in Windows 8.1 a mere 12 months later. When Windows 8 launched, <a href="http://www.anandtech.com/show/5630/indepth-with-the-windows-8-consumer-preview">&ldquo;touch first&rdquo; was the talking point used during the reveal</a>. Windows 8 was likely the biggest ever change to Windows, and was a pretty big gamble on Microsoft&rsquo;s part. For the project head of Windows 8, it didn&rsquo;t work out with Steven Sinofsky leaving the company only a couple of weeks after the launch event. As a product launch, it certainly didn&rsquo;t halt the decline in PC sales that were already beginning.</p>
+<p align="center">
+	<a href="http://www.anandtech.com/show/7922/microsoft-announces-windows-81-update-desktop-as-a-first-class-citizen"><img alt="" src="http://images.anandtech.com/doci/7922/Win8b_575px.jpg" /></a></p>
+<p>
+	Much has been said of Windows 8 since its launch, some of it good, some of it bad. Most of the bad focused on how Microsoft forced a touch interface and mobile app system onto a market that was, especially at the time, dominated by non-touch PCs and devices. A lot of the criticism was valid, and was likely exaggerated due to there being no way to re-enable any legacy mode. In the history of Windows, there has always been a way to go back to the old version&rsquo;s look and feel, but keep the new functionality. In the case of Windows 8, this didn&rsquo;t happen, and many people don&rsquo;t appreciate that.</p>
+<p>
+	To add extra fuel to the fire, even the touch first interface (called Modern by this point) wasn&rsquo;t finished. Many settings and functionality could only be accessed by the desktop control panel which was decidedly non-touch. Even though Windows 8 was actually quite a good touch based operating system, it wasn&rsquo;t finished. The design decisions of the touch based system were all based on edge gestures, but there were no obvious way to know that.</p>
+<p>
+	Windows 8.1 addressed a lot of the complaints. The Start Button was back &ndash; even if its functionality was not the same. The Start button could be configured to launch into the All Apps mode rather than the Start Screen of Windows 8. You could choose to boot directly to the desktop. And on the touch side, some of the gestures were changed, and many more of the PC settings could be configured from the Modern interface. As a bonus (or not &ndash; depending on who you are) everything was synced with SkyDrive, and SkyDrive was installed on both x86 and ARM versions for file sync with the cloud. The built in apps were much better, the store was overhauled, and more people were happy.</p>
+<p align="center">
+	<a href="http://www.anandtech.com/show/7922/microsoft-announces-windows-81-update-desktop-as-a-first-class-citizen"><img alt="" src="http://images.anandtech.com/doci/7922/Win81b_575px.jpg" /></a></p>
+<p>
+	If Windows 8 was touch first, then 8.1 Update is most definitely keyboard/mouse first. Almost every single feature added in the Update is geared towards making the Desktop environment a first class citizen again, and it&rsquo;s wonderful &ndash; and I say that as someone who uses and enjoys Windows 8 and 8.1 every day.</p>
+<p>
+	Traditional PCs &ndash; desktops and laptops &ndash; will now boot to the desktop by default. PC makers building tablets or types of hybrid machines with touchscreens can now set a flag to identify the device as a Slate, which will make them boot to the Start Screen. The Modern interface is now aware of how it&rsquo;s being used. If you are using touch, it acts just like 8.1, but if you are using a keyboard and mouse, there are now context boxes on the right click menus. Moving the mouse to the top of the screen reveals the traditional minimize and close options. The task bar is now available on the Start Screen. Hidden functions like Search and the Power button are now available right on the Start Screen by your login ID.</p>
+<p align="center">
+	<a href="http://www.anandtech.com/show/7922/microsoft-announces-windows-81-update-desktop-as-a-first-class-citizen"><img alt="" src="http://images.anandtech.com/doci/7922/ContextMenu_575px.png" /></a></p>
+<p align="center">
+	<a href="http://www.anandtech.com/show/7922/microsoft-announces-windows-81-update-desktop-as-a-first-class-citizen"><img alt="" src="http://images.anandtech.com/doci/7922/PowerButton_575px.png" /></a></p>
+<p>
+	And speaking of the task bar, as in interim step until further Desktop/Modern integration happens is the ability to pin Modern apps to the taskbar. They still open the full screen or snapped Modern app, but it&rsquo;s an easy way to multitask with desktop and modern apps. Microsoft also demonstrated further integration coming in a future update. Whether that is an 8.1 Update 2 or Windows 9 wasn&rsquo;t specified, but it brings Modern apps to the desktop in a window. I think this will really increase the usefulness of Modern apps. Full screen on a 10&rdquo; tablet is fine, but when a desktop is equipped with 22&rdquo; to 32&rdquo; monitors, there&rsquo;s a LOT of wasted real estate by running these apps in full screen, or even split screen mode. This is a huge change from the original vision of Windows 8, and if anything can make Modern apps more useful, this is it.</p>
+<p align="center">
+	<a href="http://www.anandtech.com/show/7922/microsoft-announces-windows-81-update-desktop-as-a-first-class-citizen"><img alt="" src="http://images.anandtech.com/doci/7922/TaskBar%20pin_575px.png" /></a></p>
+<p align="center">
+	<a href="http://www.anandtech.com/show/7922/microsoft-announces-windows-81-update-desktop-as-a-first-class-citizen"><img alt="" src="http://images.anandtech.com/doci/7922/StartMenu%20and%20Windowed%20Apps_575px.png" /></a></p>
+<p>
+	Also with apps, one of the biggest issues with Windows 8 was that any app you installed dumped at least one tile onto the Start Screen. For Modern apps, this was mostly useful, since the tiles were usually live, but with desktop apps like Office, you could easily get 10-20 new tiles on your Start Screen which was a huge pain. So for Windows 8.1, they removed the auto-created tile on the Start Screen, and put it on the All Apps screen. This solved one issue, but certainly created a new one because once you installed an app, you had no idea where it was. For 8.1 Update, they are adding a text notification at the bottom of the screen to let you know that you&rsquo;ve got new apps there waiting to be used. I think this is an improvement, but the obvious solution is to add an option in the store to pin the app to the start screen automatically.</p>
+<p align="center">
+	<a href="http://www.anandtech.com/show/7922/microsoft-announces-windows-81-update-desktop-as-a-first-class-citizen"><img alt="" src="http://images.anandtech.com/doci/7922/NewApps_575px.png" /></a></p>
+<p>
+	And the final piece with the app situation is Universal Apps. At long last, common code can be used to develop for phones, tablets, laptops, and desktops. Visual Studio will now build one application, which can have both Windows 8/RT and Windows Phone binaries. This also enables the store to allow one app purchase to be installed on both platforms without having to re-purchase the app as you do now. The keynote demonstration was the Modern version of Office, coded to WinRT, and running on both the desktop and phone with the same code base. Even better, with the update developers can now target Desktop apps (due to the windowed mode), Tablet apps, Phone apps, and even Xbox One apps, all with common code. This is a big win for developers, and I&rsquo;m sure Microsoft is hoping it draws more developers to WinRT, which in turn will be a big win for consumers.</p>
+<p align="center">
+	<a href="http://www.anandtech.com/show/7922/microsoft-announces-windows-81-update-desktop-as-a-first-class-citizen"><img alt="" src="http://images.anandtech.com/doci/7922/Office%20Universal%20App_575px.png" /></a></p>
+<p>
+	Another notable change to Windows 8.1 Update is a new build which enables Windows on low end PCs. Windows has been shrunk, and the memory usage has been reduced, enabling the installation of Windows on devices with 1 GB of RAM, and 16 GB of storage. Previous to this, it&rsquo;s been difficult for hardware partners to be price competitive with Chrome OS devices and Android tablets because the Bill of Materials would be higher. This is coupled with a new licensing change, where Windows (Windows x86, RT, and Windows Phone) is now available free to OEMs for all devices with a screen size of less than 9&rdquo;. Although I would never buy a tablet with 16 GB of storage, Microsoft should now be able to be price competitive with Android and Chromebooks.</p>
+<p>
+	There are also some additional features for Businesses. Mobile Device Management (MDM) is now extended, and IE 11 now has a compatibility mode which can be enabled for intranet sites which require IE 8 functionality. This feature alone should allow companies that were stuck on XP a new way to get off of the aging OS, assuming they are not stuck with web apps that require IE 6 or lower.</p>
+<p>
+	This was an interesting keynote. Windows 8 was all about touch, and this keynote was all about restoring functionality to Windows that people have grown accustomed to over the years. The demos of both Modern apps running in a window with a start menu, and Office as a universal app were certainly a clear indication that the Steven Sinofsky days are over. Windows is changing again. No longer will it be &ldquo;touch first&rdquo; but instead be any input method you prefer. And I don&rsquo;t mean to imply that they are taking away any touch functionality either &ndash; both are now equally supported which is how it needs to be.</p>
+</p>]]></description>
+      <link>http://www.anandtech.com/show/7922/microsoft-announces-windows-81-update-desktop-as-a-first-class-citizen</link>
+      <pubDate>Thu, 03 Apr 2014 09:00:00 EDT</pubDate>
+      <guid isPermaLink="false">tag:www.anandtech.com,7922:news</guid>
+      <category><![CDATA[Software]]></category>
+    </item>
+    <item>
+      <title>Qualcomm Announces MU-MIMO 802.11ac Family: Increasing the Efficiency of 802.11ac Networks</title>
+      <author>Anand Lal Shimpi</author>
+      <description><![CDATA[<p align="center"><a href="http://www.anandtech.com/show/7921/qualcomm-announces-mumimo-80211ac-family-increasing-the-efficiency-of-80211ac-networks"><img src="http://images.anandtech.com/doci/7921/image_575px.png" alt="" /></a></p><p><p>
+	At the beginning of 2012 <a href="http://www.anandtech.com/show/5292/80211ac-gigabit-wifi-primer">Broadcom announced its first 802.11ac chipsets</a> under the banner of 5G (5th generation) WiFi. Since then we&#39;ve seen the latest high end notebooks adopt 802.11ac, as well as a handful of flagship smartphones and tablets. The first generation of 802.11ac devices brought 80MHz channels and 256-QAM to a 5GHz interface that enabled real transfer speeds of as much as 600/900Mbps (TCP/UDP) for a 3-antenna/3-stream solution.</p>
+<p>
+	The second generation of 802.11ac enables a few optional (WiFi Alliance certified) features:</p>
+<blockquote>
+	<p>
+		1) 4-stream configurations (up from 3-stream previously)<br />
+		2) up to 160MHz channels (up from 80MHz), and<br />
+		3) Multi-user MIMO (MU-MIMO)</p>
+</blockquote>
+<p>
+	The first point increases max PHY rate with 80MHz channels to 1.73Gbps (up from 1.33Gbps for a 3-stream/80MHz solution). The second feature can further increase performance, while the third feature is the one we really want to talk about today.</p>
+<p>
+	The difference between SU-MIMO (Single User MIMO) and MU-MIMO (Multi User MIMO) is pretty simple. In the SU case, each device gets full exclusive access to the AP&#39;s bandwidth for a given timeslice before moving on to the next one. This works beautifully for many-stream MIMO devices (e.g. a 3x3 3-stream notebook) as each device can easily use up all of the bandwidth the AP has to offer. In reality though, you&#39;re likely to have a number of devices attached to the network that support only 1 or 2 streams (think: tablets or smartphones). In the case of a SU-MIMO network with a 3 or 4 stream 802.11ac AP and a bunch of 1 or 2-stream clients, you&#39;ll end up with a lot of unused bandwidth capacity on the AP for any given timeslice. Each device is served sequentially, and a single stream device can only use a fraction of the AP&#39;s total bandwidth. This really becomes a problem when you oversubscribe the AP (e.g. think of the coffee shop or airport use case).</p>
+<p>
+	With MU-MIMO however it is possible to form groups of multiple devices that can be served at the same time. Through beam forming a MU-MIMO access point can group together multiple MU-MIMO aware devices into a single transmission slot. In the case of a 4x4 MU-MIMO AP, grouping even three clients in the same transmission slot would greatly increase the efficiency of the network - allowing it to support even more connected clients.</p>
+<p>
+	Today Qualcomm is announcing its complete lineup of MU-MIMO enabled WiFi chipsets. There are four chipsets on the infrastructure side (think: APs) and four on the client side. You need both to get the full benefits, but as long as you have a MU-MIMO AP and some MU-MIMO clients even SU-MIMO clients will benefit from the improved efficiency on the network.</p>
+<table align="center" border="0" cellpadding="0" cellspacing="1" width="100%">
+	<tbody>
+		<tr class="tgrey">
+			<td align="center" colspan="11">
+				Qualcomm 802.11ac MU-MIMO Products</td>
+		</tr>
+		<tr class="tlblue">
+			<td>
+				&nbsp;</td>
+			<td align="center" style="vertical-align:middle" width="8%">
+				QCA<br />
+				9980</td>
+			<td align="center" style="vertical-align:middle" width="8%">
+				QCA<br />
+				9982</td>
+			<td align="center" style="vertical-align:middle" width="8%">
+				QCA<br />
+				9990</td>
+			<td align="center" style="vertical-align:middle" width="8%">
+				QCA<br />
+				9992</td>
+			<td align="center" style="vertical-align:middle" width="8%">
+				QCA<br />
+				6174</td>
+			<td align="center" style="vertical-align:middle" width="8%">
+				QCA<br />
+				3680</td>
+			<td align="center" style="vertical-align:middle" width="8%">
+				QCA<br />
+				9378</td>
+			<td align="center" style="vertical-align:middle" width="8%">
+				QCA<br />
+				6574</td>
+		</tr>
+		<tr>
+			<td class="tlgrey" style="vertical-align:middle">
+				Target Market</td>
+			<td align="center" colspan="2" rowspan="1" style="vertical-align:middle">
+				Residential Routers /&nbsp;<br />
+				Gateways</td>
+			<td align="center" colspan="2" rowspan="1" style="vertical-align:middle">
+				Enterprise APs</td>
+			<td align="center" colspan="2" rowspan="1" style="vertical-align:middle">
+				Mobile &amp; Computing</td>
+			<td align="center" style="vertical-align:middle">
+				Consumer Electronics</td>
+			<td align="center" style="vertical-align:middle">
+				Auto</td>
+		</tr>
+		<tr>
+			<td class="tlgrey" style="vertical-align:middle">
+				Max Antenna Configuration</td>
+			<td align="center" style="vertical-align:middle">
+				4x4 4-stream</td>
+			<td align="center" style="vertical-align:middle">
+				3x3 3-stream</td>
+			<td align="center" style="vertical-align:middle">
+				4x4 4-stream</td>
+			<td align="center" style="vertical-align:middle">
+				3x3 3-stream</td>
+			<td align="center" style="vertical-align:middle">
+				2x2 2-stream</td>
+			<td align="center" style="vertical-align:middle">
+				1x1 1- stream</td>
+			<td align="center" style="vertical-align:middle">
+				2x2 2-stream</td>
+			<td align="center" style="vertical-align:middle">
+				2x2 2-stream</td>
+		</tr>
+		<tr>
+			<td class="tlgrey" style="vertical-align:middle">
+				Max Channel Bandwidth</td>
+			<td align="center" style="vertical-align:middle">
+				80MHz</td>
+			<td align="center" style="vertical-align:middle">
+				80MHz</td>
+			<td align="center" style="vertical-align:middle">
+				80MHz</td>
+			<td align="center" style="vertical-align:middle">
+				80MHz</td>
+			<td align="center" style="vertical-align:middle">
+				80MHz</td>
+			<td align="center" style="vertical-align:middle">
+				80MHz</td>
+			<td align="center" style="vertical-align:middle">
+				80MHz</td>
+			<td align="center" style="vertical-align:middle">
+				80MHz</td>
+		</tr>
+		<tr>
+			<td class="tlgrey" style="vertical-align:middle">
+				Max Link Rate</td>
+			<td align="center" style="vertical-align:middle">
+				1.73<br />
+				Gbps</td>
+			<td align="center" style="vertical-align:middle">
+				1.3<br />
+				Gbps</td>
+			<td align="center" style="vertical-align:middle">
+				1.73<br />
+				Gbps</td>
+			<td align="center" style="vertical-align:middle">
+				1.3<br />
+				Gbps</td>
+			<td align="center" style="vertical-align:middle">
+				867<br />
+				Mbps</td>
+			<td align="center" style="vertical-align:middle">
+				433<br />
+				Mbps</td>
+			<td align="center" style="vertical-align:middle">
+				867<br />
+				Mbps</td>
+			<td align="center" style="vertical-align:middle">
+				867<br />
+				Mbps</td>
+		</tr>
+		<tr>
+			<td class="tlgrey" style="vertical-align:middle">
+				Interface</td>
+			<td align="center" style="vertical-align:middle">
+				PCIe</td>
+			<td align="center" style="vertical-align:middle">
+				PCIe</td>
+			<td align="center" style="vertical-align:middle">
+				PCIe</td>
+			<td align="center" style="vertical-align:middle">
+				PCIe</td>
+			<td align="center" style="vertical-align:middle">
+				LP-PCIe</td>
+			<td align="center" style="vertical-align:middle">
+				Integrated into S801</td>
+			<td align="center" style="vertical-align:middle">
+				PCIe, USB, SDIO</td>
+			<td align="center" style="vertical-align:middle">
+				Integrated</td>
+		</tr>
+		<tr>
+			<td class="tlgrey" style="vertical-align:middle">
+				Bluetooth 4.1</td>
+			<td align="center" style="vertical-align:middle">
+				N</td>
+			<td align="center" style="vertical-align:middle">
+				N</td>
+			<td align="center" style="vertical-align:middle">
+				N</td>
+			<td align="center" style="vertical-align:middle">
+				N</td>
+			<td align="center" style="vertical-align:middle">
+				Y</td>
+			<td align="center" style="vertical-align:middle">
+				Y</td>
+			<td align="center" style="vertical-align:middle">
+				Y</td>
+			<td align="center" style="vertical-align:middle">
+				Y</td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	None of the MU-MIMO solutions support 160MHz channels, but through the addition of a fourth stream on some solutions we get max link rates of 1.73Gbps. You&#39;ll notice some feature overlap between the enterprise and residential AP solutions, the only difference there is really on the feature side as enterprise APs tend to be a bit more specific in their requirements.</p>
+<p>
+	On the device side, Snapdragon 801 platforms that use Qualcomm&#39;s integrated 1-stream 802.11ac WiFi will already support MU-MIMO with nothing more than a software update (the device vendor needs to actually offer that update however). The QCA6174 will be the 2-stream MU-MIMO 802.11ac discrete solution to keep an eye out for in tablets/smartphones.</p>
+<p>
+	Enabling MU-MIMO is a big deal for improving the carrying capacity of larger 802.11ac networks. For the sake of having a good experience on public networks, I do hope that when we eventually see the shift to 802.11ac in more places we&#39;ll see it happen with MU-MIMO APs. Qualcomm isn&#39;t expecting announcements based around any of these solutions until the end of this year at the earliest, with product availability sometime in Q1 next year.</p>
+</p>]]></description>
+      <link>http://www.anandtech.com/show/7921/qualcomm-announces-mumimo-80211ac-family-increasing-the-efficiency-of-80211ac-networks</link>
+      <pubDate>Thu, 03 Apr 2014 07:30:00 EDT</pubDate>
+      <guid isPermaLink="false">tag:www.anandtech.com,7921:news</guid>
+      <category><![CDATA[Networking]]></category>
+    </item>
+    <item>
+      <title>Microsoft Announces Windows Phone 8.1</title>
+      <author>Brett Howse</author>
+      <description><![CDATA[<p align="center"><a href="http://www.anandtech.com/show/7920/microsoft-announces-windows-phone-81"><img src="http://images.anandtech.com/doci/7920/Win81Car2_575px.jpg" alt="" /></a></p><p><p>
+	This morning at the Moscone Center in San Francisco, Microsoft kicked off its semi-annual BUILD developer conference with a keynote address detailing what&rsquo;s coming now and in the near term for its major consumer platforms of Windows, Windows Phone, and Xbox.</p>
+<p>
+	Microsoft had a lot to discuss, and started the keynote off with Joe Belfiore officially announcing Windows Phone 8.1.&nbsp; Unlike previous updates to Windows Phone 8, this is certainly a major release.</p>
+<p>
+	Microsoft is really trying to push Windows Phone into a more global audience.&nbsp; At Mobile World Congress, they had announced that they are now partnering with Nokia (which they are awaiting regulatory approval of the purchase), Samsung, HTC, Huawei, Lenovo, LG, Xolo, ZTE, and Gionee to manufacture Windows Phones.&nbsp; At build today, Micromax and Prestigio were also announced as additional hardware partners.&nbsp; Micromax is based out of India, and Prestigio is headquartered in Cyprus.</p>
+<p>
+	Both Prestigio and Micromax phones were briefly demonstrated, and were both based off of the Qualcomm reference design for Windows Phone.</p>
+<p>
+	Just looking at the companies that they&rsquo;ve partnered with, it&rsquo;s fairly apparent that they are trying to push Windows Phone into different markets that are well served by local consumer electronics companies.</p>
+<p>
+	Next, the long awaited (and I mean long awaited) Action Center was shown.&nbsp; It is fairly customizable in how it will allow notifications for applications, and it means you won&rsquo;t have to pin every single app to your start screen in order to get usable notifications from it.&nbsp; It also allows you to choose what kind of a notification each app can perform, including audible, toast, or just a notification in the action center.&nbsp; Also the action center allows quick access to things like WiFi but can be configured however the user likes.&nbsp; It&rsquo;s certainly nothing game changing, but for Windows Phone users it will likely be very well received.</p>
+<p align="center">
+	<a href="http://www.anandtech.com/show/7920/microsoft-announces-windows-phone-81"><img alt="" src="http://images.anandtech.com/doci/7920/WP81Notifications_575px.jpg" style="width: 281px; height: 500px;" /></a> <a href="http://www.anandtech.com/show/7920/microsoft-announces-windows-phone-81"><img alt="" src="http://images.anandtech.com/doci/7920/WP81Action_575px.png" style="width: 390px; height: 344px;" /></a></p>
+<p>
+	Next up was new Lock Screen features, and a set of APIs to allow developers to integrate more deeply with the lock screen.&nbsp; Windows Phone 8 already allowed apps to control the lock screen, and this is a further development of that.&nbsp; The demonstrations were certainly interesting, but we&rsquo;ll have to wait and see what developers can come up with.</p>
+<p align="center">
+	<a href="http://www.anandtech.com/show/7920/microsoft-announces-windows-phone-81"><img alt="" src="http://images.anandtech.com/doci/7920/WP81LockScreen_575px.png" /></a></p>
+<p>
+	Another new feature is the ability to show more tiles on the start screen.&nbsp; With Windows Phone 8 GDR3, an extra row of tiles were added for any 1080p phones, allowing three medium size tiles on one row.&nbsp; This option is now being extended to all phones, so it will be up to an individual to decide whether or not they want to cram extra info onto the Start Screen.&nbsp; This adds a feature that already exists on Windows 8.</p>
+<p align="center">
+	<a href="http://www.anandtech.com/show/7920/microsoft-announces-windows-phone-81"><img alt="" src="http://images.anandtech.com/doci/7920/WP81Tiles1_575px.png" /></a> <a href="http://www.anandtech.com/show/7920/microsoft-announces-windows-phone-81"><img alt="" src="http://images.anandtech.com/doci/7920/WP81Tiles2_575px.png" /></a></p>
+<p>
+	Also on the start screen, users now have the ability to add backgrounds to their start screen.&nbsp; This gives a cool effect where any tile that is colored by the phone theme turns transparent, and allows the background to be seen with an almost old school side scrolling video game effect.&nbsp; The background scrolls, but at a slower speed than the tiles are scrolled, giving a sense of depth.&nbsp; I don&rsquo;t want to compare it to the iOS parallax feature, because it&rsquo;s really quite a different effect, although both have the same purpose which is to give the illusion of depth on the screen.&nbsp; If you don&rsquo;t like it, you can always turn it off, but certainly Windows Phone has needed more customization options for users to make their phone their own.</p>
+<p>
+	Cortana was launched next as a digital personal assistant.&nbsp; Powered by Bing, Cortana is a complete replacement for the search button on Windows Phone.&nbsp; You can still type your questions in if you don&rsquo;t love talking to your phone.&nbsp; It also allows apps to integrate for speech enabled apps on the phone.&nbsp; In addition to being a search function, it also has a live tile function to scroll through news and updates from friends and family.&nbsp; Cortana looks like a combination of Siri and Google Now and looks like it has some good natural language abilities and contextual search so you can refine searches after they&rsquo;ve been done.&nbsp; It will be fun to see how it works in the real world.&nbsp; In the demo there were a couple of misheard words which fooled it, but it was far from an ideal location.</p>
+<p align="center">
+	<a href="http://www.anandtech.com/show/7920/microsoft-announces-windows-phone-81"><img alt="" src="http://images.anandtech.com/doci/7920/Cortanna_575px.png" style="width: 300px; height: 533px;" /></a> <a href="http://www.anandtech.com/show/7920/microsoft-announces-windows-phone-81"><img alt="" src="http://images.anandtech.com/doci/7920/Cortanna2_575px.jpg" style="width: 300px; height: 533px;" /></a></p>
+<p>
+	Enterprise support was also beefed up.&nbsp; There&rsquo;s certainly a market here as many enterprises already are heavily invested in the Microsoft Server, SharePoint and Office tools, so it&rsquo;s always been a bit odd that the enterprise support has been lacking ever since Windows Phone 7 launched with only a subset of the enterprise features of Windows Mobile.&nbsp; With Windows Phone 8.1 VPN support was finally added, however it wasn&rsquo;t clear just what kind of support is available.&nbsp; If it&rsquo;s a direct port of the Windows RT VPN, it will be a good solution for a lot of companies, but Cisco&rsquo;s popular AnyConnect software is not available on RT due to API limitations.&nbsp; Cisco is interestingly absent from all of the slides and materials, so it&rsquo;s a good bet that AnyConnect is not supported yet.&nbsp; Mobile Device Management was also demonstrated, and the MDM client supports many management suites.</p>
+<p>
+	With Windows Phone 8, Microsoft introduced Data Sense to show a person how much of their data plan is available at any time.&nbsp; It shows which apps are heavy users, and can stop your data connection before incurring overage charges.&nbsp; Originally it was carrier restricted, but later on became available for all phones (unless explicitly blocked by a carrier).&nbsp; Battery Saver was also added to increase the run time for a phone but disabling apps if the battery was low.&nbsp; GDR3 then added Storage Sense so that you can keep track of what is on your phone as far as apps, music, videos, or the dreaded &ldquo;other&rdquo; category.&nbsp; Windows Phone 8.1 now adds Wi-Fi Sense which allows seamless Wi-Fi connections to trusted networks.</p>
+<p align="center">
+	<a href="http://www.anandtech.com/show/7920/microsoft-announces-windows-phone-81"><img alt="" src="http://images.anandtech.com/doci/7920/WiFiSense_575px.jpg" style="width: 281px; height: 500px;" /></a></p>
+<p>
+	Windows Phone 8.1 also adds Settings Sync like Windows 8.1, as well as the ability to broadcast to an external display using Miracast or USB.&nbsp; Internet Explorer 11 is of course the new browser, and apps like Calendar have been heavily updated.&nbsp; The Music and Videos Hub is no more &ndash; instead replaced with standalone applications for each task, which should in theory allow much faster updates of the actual programs.&nbsp; At the same time, the People Hub was been expanded to allow developers to hook right into it.</p>
+<p align="center">
+	<a href="http://www.anandtech.com/show/7920/microsoft-announces-windows-phone-81"><img alt="" src="http://images.anandtech.com/doci/7920/UniversalApps_575px_575px.jpg" /></a></p>
+<p>
+	Likely the biggest announcement at build was the new Universal Apps.&nbsp; Developers can now target a single application at Windows Phone, Windows RT, and Windows 8.&nbsp; Inside the package will still be multiple binaries, but they will share an Application ID allowing a single purchase to now allow installs on all the classes of devices.&nbsp; With Microsoft hoping that their tablets can compete against iOS and Android, the store needs this unification.&nbsp; I say it&rsquo;s the biggest announcement, because no matter what they do with the Operating System, if there&rsquo;s not a strong ecosystem of applications behind Windows Phone 8.1, it&rsquo;s going to continue to struggle in the market.</p>
+<p>
+	And of course, the enthusiast program that was created for the last update is going to be available.&nbsp; As soon as the final code is ready for download, anyone with a (free) developer account will be able to get the software, bypassing the carrier update process.&nbsp; Hopefully they will do the same with firmware updates, but it&rsquo;s a big change from how updates have been handled in the past.</p>
+<p>
+	To sum up the event, Microsoft looks like they are finally pushing forward with Windows Phone.&nbsp; Windows Phone 7 launched as a way to introduce a touch based phone OS and ditch Windows Mobile&rsquo;s stylus based interface, but it was crippled by both Windows CE and an extremely limited API based on Silverlight.&nbsp; Windows Phone 8 moved the entire platform to the same kernel as Windows, and the same was true for Xbox after the launch of the Xbox One.&nbsp; It was a big accomplishment but didn&rsquo;t really push forward too many new features since the coding time was clearly spent on the port.&nbsp; With 8.1 though, the entire update is focused on adding new features to the platform.&nbsp; They are certainly late to the party, but the features look excellent.&nbsp; Now to wait for the final software release (indicated to be later this month) and a chance to run the update to see what kind of improvement in user experience will be seen.</p>
+</p>]]></description>
+      <link>http://www.anandtech.com/show/7920/microsoft-announces-windows-phone-81</link>
+      <pubDate>Wed, 02 Apr 2014 23:20:00 EDT</pubDate>
+      <guid isPermaLink="false">tag:www.anandtech.com,7920:news</guid>
+      <category><![CDATA[Smartphones]]></category>
+    </item>
+    <item>
+      <title>Razer BlackWidow Ultimate Mechanical Gaming Keyboard Review</title>
+      <author>E. Fylladitakis</author>
+      <description><![CDATA[<p>
+	Several months ago, we had a quick look at the <a href="http://anandtech.com/show/7254/capsule-razer-roundup-deathstalker-ultimate-blackwidow-ultimate-and-tartarus">BlackWidow Ultimate</a> from Razer, a company very well known for their focus on gaming-related products. A few weeks ago, Razer announced that they have developed their own all-new mechanical switches, upgrading most of their keyboards with them in the process. The upgrade involves the BlackWidow Ultimate keyboard, and we have the new &quot;2014&quot; version that we&#39;ll be reviewing today.</p>]]></description>
+      <link>http://www.anandtech.com/show/7911/razer-blackwidow-ultimate-mechanical-gaming-keyboard-review</link>
+      <pubDate>Wed, 02 Apr 2014 20:05:00 EDT</pubDate>
+      <guid isPermaLink="false">tag:www.anandtech.com,7911:news</guid>
+      <category><![CDATA[Keyboards]]></category>
+    </item>
+    <item>
+      <title>USB-IF Publishes First Type-C Connector Renderings</title>
+      <author>Ryan Smith</author>
+      <description><![CDATA[<p align="center"><a href="http://www.anandtech.com/show/7919/usbif-publishes-first-typec-connector-renderings"><img src="http://images.anandtech.com/doci/7919/Cable_Render4_575px.jpg" alt="" /></a></p><p><p>
+	The last time we talked to the USB Implementers Forum (USB-IF), the governing body for USB, it was <a href="http://www.anandtech.com/show/7652/usbif-updates-us-on-type-c-connector-demonstrates-usb-superspeed-31-transfers">back at CES 2014</a>. At the time the USB-IF was showing off their plans for USB 3.1, an updated version of USB set to double USB&rsquo;s throughput from 5Gbps to 10Gbps. The USB-IF was also using CES to discuss their plans for the new Type-C connector, a small, reversible connector that would be designed to replace the existing standard (large) and micro connectors on hosts and devices alike, while also doing away with the frustrations of trying to properly orient a USB plug the first time. However at the time the USB-IF was still finalizing the design for the Type-C connector, so while they could discuss their plans they didn&rsquo;t have a final connector to show off.</p>
+<p>
+	Catching up to today, while the USB-IF still hasn&rsquo;t finalized the Type-C connector, they have for the first time released renderings of what they&rsquo;re expecting the connector to look like. Since it&rsquo;s intended to replace standard and micro devices alike, it comes as no surprise then that the Type-C connector looks a lot like today&rsquo;s USB 2.0 Micro-B connector, with concessions made to make the connector reversible and to house the additional pins that are necessary. We&rsquo;re told the connector is 8.3x2.5mm, which makes it larger than USB 2.0 Micro-B, but still smaller than the wider Micro-B connector for USB 3.0.</p>
+<p align="center">
+	<a href="http://www.anandtech.com/show/7919/usbif-publishes-first-typec-connector-renderings"><img alt="" src="http://images.anandtech.com/doci/7919/Socket_Render_575px.jpg" /></a><br />
+	<em>Images Courtesy <a href="http://www.theverge.com/2014/4/2/5573680/first-images-of-the-reversible-usb-cable">The Verge</a></em></p>
+<p>
+	Meanwhile in the USB-IF&rsquo;s rendering of the socket itself, we can clearly see that Type-C will still be using tongues in the socket, with the pins once again organized around the tongue. There had been some speculation that Type-C would do away with tongues and be similar to Apple&rsquo;s Lightning connector, but this is clearly not the case.</p>
+<p>
+	As exemplified by the USB-IF&rsquo;s render and in their previous statements, the USB-IF is intending for this connector to be a long term replacement for hosts and devices alike. So while we&rsquo;ll still see Type-A connectors on hosts for some time, the idea is to eventually replace those with Type-C connectors, just as how devices will move to Type-C. The ultimate idea being that once that transition is complete both hosts and devices will use the same connector, doing away with the differing ports and asymmetrical cables of today.</p>
+<p>
+	The USB-IF is anticipating completion of the Type-C specification in July, which means we could be seeing Type-C cables and design by the end of this year.</p>
+</p>]]></description>
+      <link>http://www.anandtech.com/show/7919/usbif-publishes-first-typec-connector-renderings</link>
+      <pubDate>Wed, 02 Apr 2014 19:30:00 EDT</pubDate>
+      <guid isPermaLink="false">tag:www.anandtech.com,7919:news</guid>
+      <category><![CDATA[USB-IF]]></category>
+    </item>
+    <item>
+      <title>Spotify Introduces a Major Cross Platform UI Overhaul</title>
+      <author>Saumitra Bhagwat</author>
+      <description><![CDATA[<p align="center"><a href="http://www.anandtech.com/show/7918/spotify-introduces-major-cross-platform-ui-overhaul"><img src="http://images.anandtech.com/doci/7918/spotify-logo-700x325_575px.png" alt="" /></a></p><p><p>
+	Spotify has been quite a busy outfit in 2014, first with their unlimited ad-supported streaming for iOS and Android tablets, followed by discounted student subscriptions in the United States last week; but it seems they were saving the best for last with today&#39;s cross platform UI overhaul.</p>
+<p>
+	Let us begin with the Mac app, which barring a handful of minor UI iterations over the years has largely remained unchanged in terms of its look and functionality, and was beginning to feel seriously dated. That finally changes today with a brand new interface sporting a darker coat of paint that has apparently tested well with users during extensive beta testing. That being said, the app&#39;s&nbsp;basic functionality and placement of core UI elements hasn&#39;t changed, so existing users should feel right at home.&nbsp;</p>
+<p>
+	<span style="-webkit-text-stroke-color: transparent;">The iOS app has also received a thorough facelift, finally bringing it up to version 1.0.0. It takes several visual cues from the desktop app, combining them with iOS 7 style design elements to create an&nbsp;aesthetically pleasing user experience.</span><span style="-webkit-text-stroke-color: transparent;">&nbsp;</span><span style="-webkit-text-stroke-color: transparent;">The visual redesign also comes with a new typeface and icons, which are now consistent across platforms, creating a sense of cohesion, which was previously lacking. Finally, the iOS app also brings some welcome speed improvements, and genuinely feels &#39;snappier&#39;.</span></p>
+<p>
+	<div>Gallery: <a href="/Gallery/Album/3528" target="_blank">Spotify's New iOS and Web Apps</a><div><a href="/Gallery/Album/3528#1" target="_blank"><img src="http://images.anandtech.com/galleries/3528/overview_thumb.jpg" width="85" height="85" border="0"/></a><a href="/Gallery/Album/3528#2" target="_blank"><img src="http://images.anandtech.com/galleries/3528/IMG_1589_thumb.PNG" width="85" height="85" border="0"/></a><a href="/Gallery/Album/3528#3" target="_blank"><img src="http://images.anandtech.com/galleries/3528/IMG_1590_thumb.PNG" width="85" height="85" border="0"/></a><a href="/Gallery/Album/3528#4" target="_blank"><img src="http://images.anandtech.com/galleries/3528/IMG_1591_thumb.PNG" width="85" height="85" border="0"/></a><a href="/Gallery/Album/3528#5" target="_blank"><img src="http://images.anandtech.com/galleries/3528/IMG_1592_thumb.PNG" width="85" height="85" border="0"/></a><a href="/Gallery/Album/3528#6" target="_blank"><img src="http://images.anandtech.com/galleries/3528/Screen Shot 2014-04-02 at 9.57.18 PM_thumb.png" width="85" height="85" border="0"/></a></div></div></p>
+<p>
+	From a functional standpoint, the desktop app now has a &#39;My Music&#39; option in the sidebar, letting users add individual songs and albums, without the need to create new playlists. Fortunately, the &#39;My Music&#39; option exists on iOS and Android apps as well, freeing users from infinitely scrolling through playlists. Today&#39;s update also does away with the iconic &#39;starring&#39; feature, which may or may not sit well with the accustomed older user base (myself included).</p>
+<p>
+	I surmise some of these changes are probably being rolled out in phases, as I can still star tracks on the iOS app and the &#39;My Music&#39; option hasn&#39;t appeared yet. In any case, this seems to be a pretty solid update, and users should appreciate the UI changes and performance improvements.</p>
+<p>
+	The redesigned iOS and web apps are available now and the Mac update should be rolled out to all users within the next few days. No word yet on updates to the Windows, Windows Phone and Android apps, but these should hopefully follow soon.</p>
+<p>
+	Source: <a href="http://news.spotify.com/us/">Spotify Blog</a>, <a href="https://play.spotify.com">Spotify Web Player</a>, <a href="https://itunes.apple.com/us/app/spotify-music/id324684580?mt=8">iOS App</a></p>
+</p>]]></description>
+      <link>http://www.anandtech.com/show/7918/spotify-introduces-major-cross-platform-ui-overhaul</link>
+      <pubDate>Wed, 02 Apr 2014 09:30:00 EDT</pubDate>
+      <guid isPermaLink="false">tag:www.anandtech.com,7918:news</guid>
+      <category><![CDATA[spotify]]></category>
+    </item>
+    <item>
+      <title>Dell Announces Latitude Rugged Extreme 12 and 14 Laptops</title>
+      <author>Jarred Walton</author>
+      <description><![CDATA[<p align="center"><a href="http://www.anandtech.com/show/7915/dell-announces-latitude-rugged-extreme-12-and-14-laptops"><img src="http://images.anandtech.com/doci/7915/10A0998_575px.jpg" alt="" /></a></p><p><p>
+	We don&rsquo;t really give much coverage to the rugged device category, but it&rsquo;s at least somewhat cool see what companies can do when they want something that can withstand all sorts of extreme environments. Today Dell is announcing their latest fourth generation edition of the Latitude Rugged Extreme 12 and 14 laptops. These are fourth generation in the sense that they&rsquo;re using Intel Haswell CPUs, but they&rsquo;re also the fourth iteration of rugged devices from Dell in the past seven years. That&rsquo;s a bit long compared to the consumer side of things where we see yearly or sometimes even more frequent updates, but for rugged devices designed for industrial, military, etc. use the rate of change tends to be slower.</p>
+<p>
+	That said, these are both all new designs, and while they build off of Dell&rsquo;s previous experience in the ruggedized devices market, they will require new peripherals &ndash; specifically a new docking connector means you would need new vehicle mounts and docks if you want to upgrade from previous generation offerings. One of the new features is that both the Latitude 12 and Latitude 14 now work with the same docking connector and the docks &ndash; vehicular or otherwise &ndash; work with both laptops. That&rsquo;s beneficial for companies that have shared vehicles (or desks) where one user might prefer a Latitude 12 and another might want the larger Latitude 14, and with this update Dell expects to support the new connector/docks for several years.</p>
+<p>
+	<div>Gallery: <a href="/Gallery/Album/3526" target="_blank">Dell Latitude Rugged Extreme 14</a><div><a href="/Gallery/Album/3526#1" target="_blank"><img src="http://images.anandtech.com/galleries/3526/0214000XX_rugged_beauty_base_im_thumb.jpg" width="85" height="85" border="0"/></a><a href="/Gallery/Album/3526#2" target="_blank"><img src="http://images.anandtech.com/galleries/3526/la7404_dnb_Stylus_Detail_thumb.jpg" width="85" height="85" border="0"/></a><a href="/Gallery/Album/3526#3" target="_blank"><img src="http://images.anandtech.com/galleries/3526/la7404_lnb_00000f090_bk_thumb.jpg" width="85" height="85" border="0"/></a><a href="/Gallery/Album/3526#4" target="_blank"><img src="http://images.anandtech.com/galleries/3526/la7404_lnb_00000t090_bk_thumb.jpg" width="85" height="85" border="0"/></a><a href="/Gallery/Album/3526#5" target="_blank"><img src="http://images.anandtech.com/galleries/3526/la7404_lnb_00030lb045_bk_thumb.jpg" width="85" height="85" border="0"/></a><a href="/Gallery/Album/3526#6" target="_blank"><img src="http://images.anandtech.com/galleries/3526/la7404_lnb_0045lf110_bk_thumb.jpg" width="85" height="85" border="0"/></a></div></div></p>
+<p>
+	Digging into the specifics of each device, while there are similarities there are also some major differences. The new Latitude Rugged Extreme 12 is a convertible tablet/laptop, somewhat similar to the XPS 12 hinge design only substantially beefed up. It also includes an 8MP rear-facing camera, though holding up a 6 pound rugged hybrid device to snap photos may not be everyone&rsquo;s idea of a good time. The Latitude Rugged Extreme 14 on the other hand is a more typical rugged laptop. The previous generation Latitude E6420 XFR looks mostly the same as the new Latitude 14 Rugged Extreme, whereas the 12-inch model is basically &ldquo;all new&rdquo;. Note also that the last generation XFR used Sandy Bridge processors, so there&rsquo;s a two generation jump in CPU and GPU performance this round. (The Dell Latitude E6430 ATG isn&rsquo;t in the same category, if you&rsquo;re wondering &ndash; it&rsquo;s only IP5X rated where the XFR and the new models are IP-65 rated.)</p>
+<table align="center" border="1" cellpadding="0" cellspacing="0" width="100%">
+	<tbody>
+		<tr>
+			<td align="center" class="contentwhite" colspan="3">
+				<strong>Dell Rugged Extreme 12 and 14 Specifications</strong></td>
+		</tr>
+		<tr>
+			<td>
+				<strong>Device</strong></td>
+			<td>
+				Rugged Extreme 12 (7204)</td>
+			<td>
+				Rugged Extreme 14 (7404)</td>
+		</tr>
+		<tr>
+			<td>
+				<strong>CPU</strong></td>
+			<td>
+				Intel 4<sup>th</sup> Gen i3/i5/i7 dual-core</td>
+			<td>
+				Intel 4<sup>th</sup> Gen i3/i5/i7 dual-core</td>
+		</tr>
+		<tr>
+			<td>
+				<strong>Chipset</strong></td>
+			<td>
+				Intel QM87</td>
+			<td>
+				Intel QM87</td>
+		</tr>
+		<tr>
+			<td>
+				<strong>RAM</strong></td>
+			<td>
+				Up to 16GB (2 slots) DDR3L</td>
+			<td>
+				Up to 16GB (2 slots) DDR3L</td>
+		</tr>
+		<tr>
+			<td>
+				<strong>Graphics</strong></td>
+			<td>
+				Intel HD 4400 or HD 5000 (i7)</td>
+			<td>
+				Intel HD 4400 or HD 5000 (i7)<br />
+				<br />
+				NVIDIA GT 720M 2GB DDR3 (Optional)</td>
+		</tr>
+		<tr>
+			<td>
+				<strong>Display</strong></td>
+			<td>
+				11.6&rdquo; 1366x768 resistive multi-touch</td>
+			<td>
+				14.0&rdquo; 1366x768 resistive touchscreen</td>
+		</tr>
+		<tr>
+			<td>
+				<strong>Storage</strong></td>
+			<td>
+				128/256/512GB mSATA SSD<br />
+				Optional 256GB mSATA SED SSD</td>
+			<td>
+				128/256/512GB mSATA SSD<br />
+				Optional 256GB mSATA SED SSD<br />
+				Optional DVDRW</td>
+		</tr>
+		<tr>
+			<td>
+				<strong>Battery</strong></td>
+			<td>
+				4-cell (58 Wh) &ndash; up to 9 hours<br />
+				4-cell (51 Wh) long life</td>
+			<td>
+				6-cell (65 Wh)<br />
+				9-cell (97 Wh) &ndash; up to 14 hours<br />
+				6-cell (58 Wh) long life<br />
+				9-cell (87 Wh) long life</td>
+		</tr>
+		<tr>
+			<td>
+				<strong>Power</strong></td>
+			<td>
+				65W AC adapter<br />
+				Optional 90W auto/air</td>
+			<td>
+				65W or 90W AC adapter<br />
+				Optional 90W auto/air</td>
+		</tr>
+		<tr>
+			<td>
+				<strong>Connectivity</strong></td>
+			<td>
+				Gigabit Ethernet<br />
+				Dual-Band 802.11ac Intel WiFi<br />
+				Bluetooth 4.0 + vPro<br />
+				Dell 5808E multi-mode Gobi 5000 4G LTE (optional)<br />
+				Dell 5570E single-mode HSPA+ with A-GPS<br />
+				Optional SiiRFstarV GPS and Antenna</td>
+			<td>
+				Gigabit Ethernet<br />
+				Dual-Band 802.11ac Intel WiFi<br />
+				Bluetooth 4.0 + vPro<br />
+				Dell 5808E multi-mode Gobi 5000 4G LTE (optional)<br />
+				Dell 5570E single-mode HSPA+ with A-GPS<br />
+				Optional SiiRFstarV GPS and Antenna</td>
+		</tr>
+		<tr>
+			<td>
+				<strong>I/O Options</strong></td>
+			<td>
+				2 x USB 3.0<br />
+				1 x USB 2.0<br />
+				1 x RS-232 (serial)<br />
+				1 x RJ-45 Ethernet<br />
+				Headset audio jack<br />
+				Pogo-pin docking connector<br />
+				1 x VGA<br />
+				1 x HDMI<br />
+				Memory card reader<br />
+				Optional ExpressCard/54 or PCMCIA<br />
+				(lose one USB 3.0 and card reader)<br />
+				2 x M.2 internal</td>
+			<td>
+				2 x USB 3.0<br />
+				2 x USB 2.0<br />
+				2 x RS-232 (serial)<br />
+				2 x RJ-45 Ethernet<br />
+				Headset audio jack<br />
+				Pogo-pin docking connector<br />
+				1 x VGA<br />
+				1 x HDMI<br />
+				Memory card reader<br />
+				ExpressCard/54 or PCMCIA<br />
+				2 x M.2 internal</td>
+		</tr>
+		<tr>
+			<td>
+				<strong>Security</strong></td>
+			<td>
+				Reinforced cable lock slot<br />
+				SmartCard reader<br />
+				Contactless SmartCard reader<br />
+				Optional fingerprint reader<br />
+				FIPS 140-2 TPM 1.2<br />
+				NIST SP800-147 secure platform</td>
+			<td>
+				Reinforced cable lock slot<br />
+				SmartCard reader<br />
+				Contactless SmartCard reader<br />
+				Optional fingerprint reader<br />
+				FIPS 140-2 TPM 1.2<br />
+				NIST SP800-147 secure platform</td>
+		</tr>
+		<tr>
+			<td>
+				<strong>Dimensions</strong></td>
+			<td>
+				12.2&rdquo; x 8.6&rdquo; x 1.6&rdquo; (WxDxH)<br />
+				(311 x 219 x 39mm)</td>
+			<td>
+				14.0&rdquo; x 9.7&rdquo; x 2.03&rdquo; (WxDxH)<br />
+				(356 x 247 x 52mm)</td>
+		</tr>
+		<tr>
+			<td>
+				<strong>Weight</strong></td>
+			<td>
+				Starting at 6.0 lbs. (2.72kg)</td>
+			<td>
+				Starting at 7.79 lbs. (3.54kg)</td>
+		</tr>
+		<tr>
+			<td>
+				<strong>Input</strong></td>
+			<td>
+				RGB backlit keyboard<br />
+				(Optional rubberized RGB keyboard)<br />
+				Resistive 5-point multi-touch touchscreen<br />
+				(works with gloves)<br />
+				Resistive touchpad</td>
+			<td>
+				RGB backlit keyboard<br />
+				(Optional rubberized RGB keyboard)<br />
+				Resistive single-point touchscreen (works with gloves)<br />
+				Resistive touchpad</td>
+		</tr>
+		<tr>
+			<td>
+				<strong>Management</strong></td>
+			<td>
+				Intel vPro on Core i5/i7</td>
+			<td>
+				Intel vPro on Core i5/i7</td>
+		</tr>
+		<tr>
+			<td>
+				<strong>Regulatory/<br />
+				Environmental</strong></td>
+			<td>
+				P18T / P18T001<br />
+				Energy Star 6.0, EPEAT<br />
+				MIL-STD-810G (72&rdquo;/60&rdquo;/48&rdquo; drops)<br />
+				-20F to 145F (-29C to 63C)<br />
+				IEC 60529: IP-65<br />
+				ANSI/ISA 12.12.01<br />
+				MIL-STD-461F</td>
+			<td>
+				P45G / P45G001<br />
+				Energy Star 6.0, EPEAT<br />
+				MIL-STD-810G (72&rdquo;/60&rdquo;/48&rdquo; drops)<br />
+				-20F to 145F (-29C to 63C)<br />
+				IEC 60529: IP-65<br />
+				ANSI/ISA 12.12.01<br />
+				MIL-STD-461F</td>
+		</tr>
+		<tr>
+			<td>
+				<strong>OS</strong></td>
+			<td>
+				Windows 7 Professional x64<br />
+				Windows 8.1 Pro x64<br />
+				Windows 7/8.1 x86/x64<br />
+				Ubuntu 12.04</td>
+			<td>
+				Windows 7 Professional x64<br />
+				Windows 8.1 Pro x64<br />
+				Windows 7/8.1 x86/x64<br />
+				Ubuntu 12.04</td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	Getting into the particulars, both laptops feature 1366x768 resistive touchscreens that are designed to be outdoor-viewable. The displays provide improved outdoor functionality via higher brightness ratings, but more importantly they also focus on reduced reflectivity. The latter is critical as simply cranking up the brightness can create a major drain on battery life, and with too many reflections it&rsquo;s still not ideal. The screens use three main layers: the LCD (with anti-glare coating), a direct-bonded touchscreen (with another anti-glare coating), and then a final layer of Gorilla Glass. There are no air gaps, which should greatly reduce reflections. If you&rsquo;re wondering about the use of resistive touchscreens, the screens are designed to function even when someone is wearing heavy work gloves, so capacitive touchscreens wouldn&rsquo;t suffice. Also note that the 12-inch model includes multi-touch support so it can work like a regular tablet with all the usual gestures.</p>
+<p>
+	One area where Dell touts their superior design is with their fourth generation QuadCool thermal management. Most fully rugged laptops are fanless in order to seal off the chassis from dust and water, but Dell was able to create a fan unit that&rsquo;s sealed off from the rest of the notebook &ndash; and they were the first to provide active cooling with a rugged device. The benefit is that Dell&rsquo;s rugged laptops don&rsquo;t need to sacrifice performance in order to meet IP-65 requirements, which is what often happens with other rugged devices where they have to use lower power processors. Dell is also able to support a discrete GPU (GT 720M) in the Latitude 14 Rugged Extreme, though that&rsquo;s not a particularly potent GPU. There&rsquo;s passive and active heat dissipation, with the fan engaging if the components get hot, and an operational range of up to ~145F. The fan is fully water/dust resistant (IP-65 again), so you can spray it with water to clean it out if needed. Dell reports that in testing of the laptops, even in a hot vehicle in a desert location, the active cooling is able to keep performance high and avoid throttling.</p>
+<p>
+	Without getting too bogged down in the regulatory and environmental specifications, both laptops meet IP-65 requirements (dust-tight and protected against pressurized water). They are also dropped 26 times each at 48&rdquo;, 60&rdquo;, and 72&rdquo; as well as at 36&rdquo; while operational. It&rsquo;s the sort of device that should withstand just about anything that might conceivably happen in the course of a day, and the pictures and videos Dell has emphasize this fact.</p>
+<p>
+	The laptops also come with good support for legacy devices, including optional ExpressCard/54 or PCMCIA (PC Card) and one or two serial RS-232 ports. The 12-inch model does require the sacrifice of one of the USB 3.0 ports as well as the card reader if you want ExpressCard/54 or PCMCIA support. Both laptops also include two M.2 internal slots, though the SSDs are still mSATA &ndash; and it&rsquo;s nice to see that Dell has fully embraced SSDs on the newest models, with no HDD options available. Legacy support might seem a bit odd for a modern device, but the target markets (military, scientific, industrial, etc.) often have different requirements and need things like serial ports.</p>
+<p>
+	Despite having a few children, I&rsquo;m not the target market for these sort of systems, and I suspect that&rsquo;s true of most of us. The military is obviously one of the big markets, and industrial machinery would be another. Law enforcements and emergency vehicles also use such devices. Dell mentioned that the SSDs are designed so that they can be removed within 30 seconds without the use of tools as part of the military requirements, which is pretty cool to think about for a machine that can be dropped, soaked, and/or covered in dust. Security features like TPM 1.2 are also present, and a variety of other extras make these very niche devices, but important ones nonetheless.</p>
+<p>
+	Pricing and availability are scheduled for next month, though availability will vary by region. Given the fully ruggedized nature of these laptops, as expected the prices are quite high. The Rugged Extreme 12 starts at $3649 and will be available May 6, while the Rugged Extreme 14 is slated for a mid-May launch with a starting price of $3499. If you need something that can withstand harsh environments, be ready to pony up.</p>
+<p>
+	<div>Gallery: <a href="/Gallery/Album/3525" target="_blank">Dell Latitude Rugged Extreme 12</a><div><a href="/Gallery/Album/3525#1" target="_blank"><img src="http://images.anandtech.com/galleries/3525/_68A0813_thumb.jpg" width="85" height="85" border="0"/></a><a href="/Gallery/Album/3525#2" target="_blank"><img src="http://images.anandtech.com/galleries/3525/la7204_dnb_Hinge_Flip_Detail_thumb.jpg" width="85" height="85" border="0"/></a><a href="/Gallery/Album/3525#3" target="_blank"><img src="http://images.anandtech.com/galleries/3525/la7204_dnb_QD_Ring_Detail_thumb.jpg" width="85" height="85" border="0"/></a><a href="/Gallery/Album/3525#4" target="_blank"><img src="http://images.anandtech.com/galleries/3525/la7204_lnb_00000f000_bk_thumb.jpg" width="85" height="85" border="0"/></a><a href="/Gallery/Album/3525#5" target="_blank"><img src="http://images.anandtech.com/galleries/3525/la7204_lnb_00090l090_bk_thumb.jpg" width="85" height="85" border="0"/></a></div></div></p>
+</p>]]></description>
+      <link>http://www.anandtech.com/show/7915/dell-announces-latitude-rugged-extreme-12-and-14-laptops</link>
+      <pubDate>Wed, 02 Apr 2014 09:00:00 EDT</pubDate>
+      <guid isPermaLink="false">tag:www.anandtech.com,7915:news</guid>
+      <category><![CDATA[Mobile]]></category>
+    </item>
+    <item>
+      <title>AMD’s Next Teaser: The Mystery Briefcase</title>
+      <author>Ryan Smith</author>
+      <description><![CDATA[<p align="center"><a href="http://www.anandtech.com/show/7916/amds-next-teaser-the-mystery-briefcase"><img src="http://images.anandtech.com/doci/7916/AMD_Case1_575px.jpg" alt="" /></a></p><p><p>
+	After taking a week off, AMD is back once more with another teaser for their forthcoming dual-GPU product. This should, we assume, be the final such teaser, meaning we&rsquo;re getting close to the launch of the card.</p>
+<p>
+	Following last month&rsquo;s <a href="http://www.anandtech.com/show/7881/amd-teases-dualgpu-video-card-once-more">chips &amp; water</a>, this time AMD has sent over a rather large metal briefcase. The briefcase is adorned with an unusual Radeon logo on one side, and the AMD logo on the top.</p>
+<p align="center">
+	<a href="http://www.anandtech.com/show/7916/amds-next-teaser-the-mystery-briefcase"><img alt="" src="http://images.anandtech.com/doci/7916/AMD_Case2_575px.jpg" /></a><br />
+	<em>The code is 0-0-0, for anyone wondering</em></p>
+<p>
+	But what&rsquo;s in the briefcase? That will be a subject for another day&hellip;</p>
+<p align="center">
+	<a href="http://www.anandtech.com/show/7916/amds-next-teaser-the-mystery-briefcase"><img alt="" src="http://images.anandtech.com/doci/7916/AMD_Case3_575px.jpg" /></a></p>
+</p>]]></description>
+      <link>http://www.anandtech.com/show/7916/amds-next-teaser-the-mystery-briefcase</link>
+      <pubDate>Wed, 02 Apr 2014 08:00:00 EDT</pubDate>
+      <guid isPermaLink="false">tag:www.anandtech.com,7916:news</guid>
+      <category><![CDATA[GPUs]]></category>
+    </item>
+    <item>
+      <title>MSI Extends its Gaming Motherboards to B85I and B85M</title>
+      <author>Ian Cutress</author>
+      <description><![CDATA[<p align="center"><a href="http://www.anandtech.com/show/7917/msi-extends-its-gaming-motherboards-to-b85i-and-b85m"><img src="http://images.anandtech.com/doci/7917/five_pictures1_3080_20140205145656_575px.png" alt="" /></a></p><p><p>
+	Word from MSI suggests that sales of their Gaming motherboard range are better than projected and there is an enthusiasm for the brand across PC building forums.&nbsp; We reviewed the <a href="http://www.anandtech.com/show/6902/msi-z77agd65-gaming-review">Z77A-GD65 Gaming</a> motherboard here at AnandTech last year and have a couple more in to review in the near future, but today MSI is announcing the extension of the gaming range into the B85 chipset.&nbsp; B85 is the cheapest PCIe 3.0 8-series chipset from Intel (before H81, &nbsp;which loses even more features from Z87), and thus the aim for MSI is to bring the Gaming branding down to lower price points.&nbsp; Other manufacturers are doing this with their gaming ranges, but MSI is being particularly aggressive by also focusing on the smaller form factors.&nbsp; They are announcing this week the B85I Gaming (mini-ITX) and B85M Gaming (micro-ATX) as a result, complementing their B85-G43 Gaming (ATX).</p>
+<p align="center">
+	<a href="http://www.anandtech.com/show/7917/msi-extends-its-gaming-motherboards-to-b85i-and-b85m"><img alt="" src="http://images.anandtech.com/doci/7917/five_pictures2_3080_20140205145656_575px.png" /></a></p>
+<p>
+	There are few details regarding the B85M Gaming currently available, but the B85I Gaming already <a href="http://www.msi.com/product/mb/B85I_GAMING.html#overview">has its own page</a> on the MSI website with detailed specifications and high resolution images.&nbsp; Aside from the form factor MSI has equipped the motherboard with:</p>
+<ul>
+	<li>
+		A Killer E2205 network interface</li>
+	<li>
+		A mini-PCIe port</li>
+	<li>
+		Audio Boost (an enhanced Realtek ALC1150 audio solution) with Sound Blaster Cinema</li>
+	<li>
+		An enhanced polling rate USB port</li>
+	<li>
+		An audio oriented USB port (smoother power supply)</li>
+	<li>
+		VGA Boost (increases power limits for MSI graphics cards)</li>
+	<li>
+		MSI&rsquo;s Click BIOS 4, OC Genie 4, Military Class 4</li>
+</ul>
+<p>
+	As this is a B85 product, it is limited to DDR3-1600 memory, as well as no hardware RAID.&nbsp; MSI offers their software RAID solution to compensate. &nbsp;<span style="-webkit-text-stroke-color: transparent;">With the cheaper motherboards it is not always easy to get the features exactly as required, and the location of the 8-pin CPU power connector does cause some concern requiring cables over other components. &nbsp;But the SATA, USB 3.0 and 24-pin ATX are all easy enough to get to.</span></p>
+<p align="center">
+	<a href="http://www.anandtech.com/show/7917/msi-extends-its-gaming-motherboards-to-b85i-and-b85m"><img alt="" src="http://images.anandtech.com/doci/7917/five_pictures3_3080_20140205145656_575px.png" /></a></p>
+<p>
+	While we were not furnished with release dates and times, we can extrapolate that they might be ~$5-10 more than the non-gaming counterparts.&nbsp; The <a href="http://www.newegg.com/Product/Product.aspx?Item=N82E16813130740">MSI B85I</a> is currently $80, so I would assume the B85I Gaming will retail $85-90.&nbsp; Similarly the <a href="http://www.newegg.com/Product/Product.aspx?Item=N82E16813130740">MSI B85M-G43</a> is $75, putting the MSI B85M Gaming at $80-85.</p>
+<p>
+	Source: MSI</p>
+<div>Gallery: <a href="/Gallery/Album/3527" target="_blank">MSI Extends its Gaming Motherboards to B85I and B85M</a><div><a href="/Gallery/Album/3527#1" target="_blank"><img src="http://images.anandtech.com/galleries/3527/five_pictures1_3080_20140205145656_thumb.png" width="85" height="85" border="0"/></a><a href="/Gallery/Album/3527#2" target="_blank"><img src="http://images.anandtech.com/galleries/3527/five_pictures4_3080_20140205145656_thumb.png" width="85" height="85" border="0"/></a><a href="/Gallery/Album/3527#3" target="_blank"><img src="http://images.anandtech.com/galleries/3527/five_pictures5_3080_20140205145656_thumb.png" width="85" height="85" border="0"/></a></div></div></p>]]></description>
+      <link>http://www.anandtech.com/show/7917/msi-extends-its-gaming-motherboards-to-b85i-and-b85m</link>
+      <pubDate>Wed, 02 Apr 2014 06:44:00 EDT</pubDate>
+      <guid isPermaLink="false">tag:www.anandtech.com,7917:news</guid>
+      <category><![CDATA[Motherboards]]></category>
+    </item>
+    <item>
+      <title>ADATA SP920 (128GB, 256GB, 512GB &amp; 1TB) Review</title>
+      <author>Kristian Vättö</author>
+      <description><![CDATA[<p>
+	This spring has turned out to be the time for nearly all SSD OEMs to update their lineups. A little over a month ago Intel introduced the SSD 730 and a bit over a week ago Crucial/Micron added the M550 to its portfolio. Today it&#39;s ADATA&#39;s time to join the game with their Premier Pro SP920. How does it compare to the other latest SSDs? Read on for the full review.</p>]]></description>
+      <link>http://www.anandtech.com/show/7908/adata-sp920-128gb-256gb-512gb-1tb-review</link>
+      <pubDate>Tue, 01 Apr 2014 20:30:00 EDT</pubDate>
+      <guid isPermaLink="false">tag:www.anandtech.com,7908:news</guid>
+      <category><![CDATA[Storage]]></category>
+    </item>
+    <item>
+      <title>Linksys and ZyXEL Launch Enterprise 802.11ac Access Points</title>
+      <author>Ganesh T S</author>
+      <description><![CDATA[<p align="center"><a href="http://www.anandtech.com/show/7912/linksys-and-zyxel-launch-enterprise-80211ac-access-points"><img src="http://images.anandtech.com/doci/7912/80211ac_ap_575px.png" alt="" /></a></p><p><p>
+	The enterprise Wi-Fi market is a hotly contested one with expensive offerings from companies such as Aruba Networks and Ruckus Wireless being the preferred choice of many IT administrators. Primary requirements for products in this market are the ability to support high client device densities and the provision of a robust and flexible management interface. We covered the launch of the <a href="http://www.anandtech.com/show/6856/ubiquiti-networks-brings-80211ac-to-enterprise-wifi-aps">Ubiquiti UniFi 3.0 </a>and <a href="http://anandtech.com/show/7848/xirrus-to-offer-low-cost-2x2-80211ac-upgradable-enterprise-ap">Xirrus XR620</a> earlier this year.</p>
+<p>
+	Traditional consumer Wi-Fi vendors have also started targeting offerings towards this expanding market segment recently. Coinciding with Interop 2014, we have <a href="http://www.linksys.com/en-us/business/products/accesspoints">Linksys launching two</a> and <a href="http://www.zyxel.com/us/en/products_services/nwa1120_series.shtml?t=p">ZyXEL officially launching one</a> 802.11ac access point targeting business users. The Linksys LAPAC1200 is a 2x2 design, while the LAPAC1750 is a 3x3 one. The ZyXEL NWA1123-AC is a 2x2 design. All three devices are&nbsp; ceiling-mount units which are dual-band capable and support Power-over-Ethernet (PoE) to eliminate extra power connectors. As applicable to business users, we have support for multiple SSIDs, Layer-2 isolation, specific security features including 802.1X RADIUS authentication, MAC-based ACL etc.</p>
+<p>
+	The ZyXEL AP is based on the Qualcomm Atheros AR9342 CPU with a QCA9882 radio. It includes support for transmit beamforming (TxBF) and can have up to 128 wireless clients (64 per radio).</p>
+<p>
+	All three devices can operate as either stand-alone APs or repeaters. While the ZyXEL NWA1123-AC retails for a MSRP of $199, the Linksys LAPAC1200 and LAPAC1750 come in at $330 and $380 respectively. Small businesses / SOHO operations looking for a complete system would do well to combine the APs (and any surveillance cameras) with one of the sub-$250 fanless PoE+ switches from either vendor. ZyXEL has the <a href="http://www.newegg.com/Product/Product.aspx?Item=N82E16833181321">GS1900-8HP</a> GbE 8 Port PoE+ Web Managed Switch while Linksys has the LGS308P 8-Port Smart Gigabit PoE+ Switch in its portfolio. Both of them are fanless and support the latest 802.3at (PoE+) standard with a 70 W power budget.</p>
+</p>]]></description>
+      <link>http://www.anandtech.com/show/7912/linksys-and-zyxel-launch-enterprise-80211ac-access-points</link>
+      <pubDate>Tue, 01 Apr 2014 08:01:00 EDT</pubDate>
+      <guid isPermaLink="false">tag:www.anandtech.com,7912:news</guid>
+      <category><![CDATA[Enterprise]]></category>
+    </item>
+    <item>
+      <title>Dell UP3214Q Review</title>
+      <author>Chris Heinonen</author>
+      <description><![CDATA[<p>
+	<span id="docs-internal-guid-fce7f51e-053d-4b8d-447e-c017393ccfe4"><span style="font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;">Last year I spent time with one of the first UltraHD monitors to be come out and came away convinced of the benefits. Even though the screen size was not much larger than my usual display, the extra clarity and detail was totally worth it. It sealed my decision to buy a MacBook Pro Retina when it was updated last fall as well. Now we&rsquo;ve seen the field of UltraHD displays expand considerably and so we now look at another 32&rdquo; UltraHD display, the Dell UP3214Q.</span></span></p>]]></description>
+      <link>http://www.anandtech.com/show/7906/dell-up3214q-review</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 EDT</pubDate>
+      <guid isPermaLink="false">tag:www.anandtech.com,7906:news</guid>
+      <category><![CDATA[Monitors]]></category>
+    </item>
+    <item>
+      <title>GIGABYTE GA-6PXSV3 Review</title>
+      <author>Ian Cutress</author>
+      <description><![CDATA[<p>
+	Server motherboards, unlike consumer motherboards, are never bought for looks. It is all about function, and the GIGABYTE GA-6PXSV3 we are reviewing today is aiming to supply enough at the lower end of the extreme workstation segment. Here we have an ATX motherboard akin to our usual socket 2011 platform but with server level features such as Xeon/RDIMM ECC support, an ASpeed AST2300 remote management controller and a focus on virtualized environments.</p>]]></description>
+      <link>http://www.anandtech.com/show/7902/gigabyte-ga6pxsv3-review</link>
+      <pubDate>Mon, 31 Mar 2014 11:59:00 EDT</pubDate>
+      <guid isPermaLink="false">tag:www.anandtech.com,7902:news</guid>
+      <category><![CDATA[Motherboards]]></category>
+    </item>
+    <item>
+      <title>ARM Partners Ship 50 Billion Chips Since 1991 - Where Did They Go?</title>
+      <author>Anand Lal Shimpi</author>
+      <description><![CDATA[<p align="center"><a href="http://www.anandtech.com/show/7909/arm-partners-ship-50-billion-chips-since-1991-where-did-they-go"><img src="http://images.anandtech.com/doci/7909/pie_575px.png" alt="" /></a></p><p><p>
+	<span style="-webkit-text-stroke-color: transparent;">A few weeks ago ARM celebrated its partners shipping over 10 billion ARM based chips in 2013. As <a href="http://www.anandtech.com/show/7112/the-arm-diaries-part-1-how-arms-business-model-works">ARM makes a royalty on every IP license shipped</a>, it was a banner year for the company. The bigger story was that the 10 billion in 2013 brought the cumulative total for ARM based processors to over 50 billion (note that these are discrete ICs, multiple cores within a single design are not counted multiple times). ARM&#39;s press activities were limited to talking about the big final number, but ARM has a pretty broad IP portfolio. What I wanted was a breakdown of where the 50 billion went, so I asked.</span></p>
+<p>
+	What I got in response were tables of data. I was asked not to share specific numbers, but using the data in graphs was ok - and that&#39;s all I wanted to do. We&#39;ll start with where the 50 billion went in terms of markets (pictured above). Mobile obviously took the majority of shipments, followed by embedded markets. Remember that ARM cores are used all over the place, including in things like HDD and SSD controllers. The modems that work alongside the main apps processors in mobile devices are also frequently home to ARM processor IP. Intel&#39;s Quark project actually came about because Intel needed a low power/low cost core to use internally for various projects and eventually decided to offer it to anyone who wanted it. For those companies that don&#39;t have the desire/ability to build and validate their own low power CPU core, they often turn to ARM.</p>
+<p>
+	The enterprise slice may be a bit misleading depending on what you define as enterprise. We often refer to enterprise in terms of primary CPU shipments into servers. In this case we&#39;re talking about chips that go into things like routers and wireless access points. ARM obviously hopes to take a big portion of the high dollar enterprise CPU market with its ARMv8 based IP in the coming years, but it&#39;s not there yet.</p>
+<p>
+	The smallest slice, labeled home, is still nearly 3 billion shipments. Here we&#39;re talking about things like consumer set top boxes as well as wearables.&nbsp;</p>
+<p>
+	Note that 37.5 of the 50 billion chips shipped in the past five years (2009 - 2013). That shouldn&#39;t come as a surprise given the overlap between that time period and the rise of modern smartphones and tablets.</p>
+<p>
+	While ARM wasn&#39;t willing to give me shipments by specific core, it was willing to give me family data:</p>
+<p style="text-align: center;">
+	<a href="http://www.anandtech.com/show/7909/arm-partners-ship-50-billion-chips-since-1991-where-did-they-go"><img alt="" src="http://images.anandtech.com/doci/7909/cumulative2_575px.png" /></a></p>
+<p>
+	Two thirds of all ARM mobile shipments are really old ARM7 and ARM9 based designs (remember my point about modems above). Here we get the first hint that the reign of the ARM11 designs (the foundation of the original iPhone) was a small blip in the grand scheme of things - the Cortex A family is really what allowed mobile to grow.</p>
+<p>
+	The embedded market is dominated by these lower power cores, although the newer Cortex M designs have made a huge dent. The same is true for the enterprise market, which is indicative of what I said earlier about ARM&#39;s enterprise market not yet including primary CPU sockets.&nbsp;</p>
+<p style="text-align: center;">
+	<a href="http://www.anandtech.com/show/7909/arm-partners-ship-50-billion-chips-since-1991-where-did-they-go"><img alt="" src="http://images.anandtech.com/doci/7909/since95_575px.png" /></a></p>
+<p>
+	The trends are extremely telling. ARM7 (and ARM9) shipments peaked back in 2011 and have been in a slow decline ever since. Cortex M based designs have been skyrocketing since their introduction and show the most aggressive growth of any ARM line. The Cortex A line shows a similar slope over the past two years, with the ARM11 shipments crossing over in 2012.&nbsp;</p>
+<p>
+	The next two charts show the same data but focusing on the past 7 years and past 4 years, respectively:</p>
+<p style="text-align: center;">
+	<a href="http://www.anandtech.com/show/7909/arm-partners-ship-50-billion-chips-since-1991-where-did-they-go"><img alt="" src="http://images.anandtech.com/doci/7909/since07_575px.png" /></a></p>
+<p align="center">
+	<a href="http://www.anandtech.com/show/7909/arm-partners-ship-50-billion-chips-since-1991-where-did-they-go"><img alt="" src="http://images.anandtech.com/doci/7909/since10_575px.png" /></a></p>
+<p>
+	You can easily correlate the rise in ARM&#39;s shipments with the explosion in mobile. It&#39;s also interesting to point out that, for the most part, shipments are growing with higher performing product families. A smart man once told me that no one wins by betting against performance. Although ARM definitely has its fair share of area and power optimized designs, ultimately it&#39;s the serious focus on performance that&#39;s been responsible for the surge over the past few years.</p>
+<p>
+	It&#39;s worth pointing out that although the shipment numbers we&#39;re talking about here are in the billions, there&#39;s a point to be made about margin. ARM pointed out that Cortex-A shipments overtook x86 in 2012, but with most Cortex-A based designs shipping at well below $30 it&#39;s important to put volume in context.</p>
+<p>
+	There&#39;s a real opportunity for ARM and its partners to start pushing for even higher end designs in my opinion. Thus far all of the talk about ARM enterprise CPUs has been focused on effectively repurposing smartphone designs for the datacenter. You could argue that the Cortex A57 is more enterprise focused than mobile focused, but the fact remains that it&#39;s still small/low power enough to get into a phone. I believe one of the next opportunities for disruption will be if ARM (and/or its partners) build a truly big core, something aimed exclusively at the enterprise (and could be repurposed for notebook/desktop use). I&#39;ve got to believe that all the big players in the ARM space are working on such a thing. And the implications of even moderate success of such a thing are pretty big (particularly if you look at the impact to server CPU ASPs).</p>
+</p>]]></description>
+      <link>http://www.anandtech.com/show/7909/arm-partners-ship-50-billion-chips-since-1991-where-did-they-go</link>
+      <pubDate>Mon, 31 Mar 2014 09:00:00 EDT</pubDate>
+      <guid isPermaLink="false">tag:www.anandtech.com,7909:news</guid>
+      <category><![CDATA[SOC]]></category>
+    </item>
+    <item>
+      <title>Apple's Cyclone Microarchitecture Detailed</title>
+      <author>Anand Lal Shimpi</author>
+      <description><![CDATA[<p align="center"><a href="http://www.anandtech.com/show/7910/apples-cyclone-microarchitecture-detailed"><img src="http://images.anandtech.com/doci/7910/LLVM_575px.png" alt="" /></a></p><p><p>
+	The most challenging part of last year&#39;s <a href="http://www.anandtech.com/show/7335/the-iphone-5s-review">iPhone 5s review</a> was piecing together details about Apple&#39;s A7 without any internal Apple assistance. I had less than a week to turn the review around and limited access to tools (much less time to develop them on my own) to figure out what Apple had done to double CPU performance without scaling frequency. The end result was an (incorrect) assumption that Apple had simply evolved its first ARMv7 architecture (codename: Swift). Based on the limited information I had at the time I assumed Apple simply addressed some low hanging fruit (e.g. memory access latency) in building Cyclone, its first 64-bit ARMv8 core. By the time the <a href="http://www.anandtech.com/show/7460/apple-ipad-air-review/">iPad Air review rolled around</a>, <a href="http://www.anandtech.com/show/7460/apple-ipad-air-review/2">I had more knowledge of what was underneath the hood</a>:</p>
+<p style="margin-left: 40px;">
+	<span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; font-weight: 700; vertical-align: baseline; color: rgb(34, 149, 171);">As far as I can tell, peak issue width of Cyclone is 6 instructions. That&rsquo;s at least 2x the width of Swift and Krait, and at best more than 3x the width depending on instruction mix. Limitations on co-issuing FP and integer math have also been lifted as you can run up to four integer adds and two FP adds in parallel. You can also perform up to two loads or stores per clock.</span></p>
+<p>
+	With Swift, I had the luxury of Apple committing LLVM changes that not only gave me the code name but also confirmed the size of the machine (3-wide OoO core, 2 ALUs, 1 load/store unit). With Cyclone however, Apple &nbsp;held off on any public commits. Figuring out the codename and its architecture required a lot of digging.</p>
+<p>
+	Last week, the same reader who pointed me at the Swift details let me know that Apple revealed Cyclone microarchitectural details in LLVM commits made a few days ago (thanks again R!). Although I empirically verified many of Cyclone&#39;s features in advance of the iPad Air review last year, today we have some more concrete information on what Apple&#39;s first 64-bit ARMv8 architecture looks like.</p>
+<p>
+	<strong>Note that everything below is based on Apple&#39;s LLVM commits (and confirmed by my own testing where possible).</strong></p>
+<table align="center" border="0" cellpadding="0" cellspacing="1" width="650">
+	<tbody>
+		<tr class="tgrey">
+			<td align="center" colspan="7">
+				Apple Custom CPU Core Comparison</td>
+		</tr>
+		<tr class="tlblue">
+			<td width="120">
+				&nbsp;</td>
+			<td align="center" valign="middle" width="85">
+				Apple A6</td>
+			<td align="center" valign="middle" width="85">
+				Apple A7</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">
+				CPU Codename</td>
+			<td align="center" valign="middle">
+				Swift</td>
+			<td align="center" valign="middle">
+				Cyclone</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">
+				ARM ISA</td>
+			<td align="center" valign="middle">
+				ARMv7-A (32-bit)</td>
+			<td align="center" valign="middle">
+				ARMv8-A (32/64-bit)</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">
+				Issue Width</td>
+			<td align="center" valign="middle">
+				3 micro-ops</td>
+			<td align="center" valign="middle">
+				6 micro-ops</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">
+				Reorder Buffer Size</td>
+			<td align="center" valign="middle">
+				45 micro-ops</td>
+			<td align="center" valign="middle">
+				192 micro-ops</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">
+				Branch Mispredict Penalty</td>
+			<td align="center" valign="middle">
+				14 cycles</td>
+			<td align="center" valign="middle">
+				16 cycles (14 - 19)</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">
+				Integer ALUs</td>
+			<td align="center" valign="middle">
+				2</td>
+			<td align="center" valign="middle">
+				4</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">
+				Load/Store Units</td>
+			<td align="center" valign="middle">
+				1</td>
+			<td align="center" valign="middle">
+				2</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">
+				Load Latency</td>
+			<td align="center" valign="middle">
+				3 cycles</td>
+			<td align="center" valign="middle">
+				4 cycles</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">
+				Branch Units</td>
+			<td align="center" valign="middle">
+				1</td>
+			<td align="center" valign="middle">
+				2</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">
+				Indirect Branch Units</td>
+			<td align="center" valign="middle">
+				0</td>
+			<td align="center" valign="middle">
+				1</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">
+				FP/NEON ALUs</td>
+			<td align="center" valign="middle">
+				?</td>
+			<td align="center" valign="middle">
+				3</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">
+				L1 Cache</td>
+			<td align="center" valign="middle">
+				32KB I$ + 32KB D$</td>
+			<td align="center" valign="middle">
+				64KB I$ + 64KB D$</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">
+				L2 Cache</td>
+			<td align="center" valign="middle">
+				1MB</td>
+			<td align="center" valign="middle">
+				1MB</td>
+		</tr>
+		<tr>
+			<td class="tlgrey">
+				L3 Cache</td>
+			<td align="center" valign="middle">
+				-</td>
+			<td align="center" valign="middle">
+				4MB</td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	As I mentioned in the iPad Air review, Cyclone is a wide machine. It can decode, issue, execute and retire up to 6 instructions/micro-ops per clock. I verified this during my iPad Air review by executing four integer adds and two FP adds in parallel. The same test on Swift actually yields fewer than 3 concurrent operations, likely because of an inability to issue to all integer and FP pipes in parallel. Similar limits exist with Krait.</p>
+<p>
+	I also noted an increase in overall machine size in my initial tinkering with Cyclone. Apple&#39;s LLVM commits indicate a massive 192 entry reorder buffer (coincidentally the same size as <a href="http://www.anandtech.com/show/6355/intels-haswell-architecture/8">Haswell&#39;s ROB</a>). Mispredict penalty goes up slightly compared to Swift, but Apple does present a range of values (14 - 19 cycles). This also happens to be the same range as Sandy Bridge and later Intel Core architectures (including Haswell). Given how much larger Cyclone is, a doubling of L1 cache sizes makes a lot of sense.&nbsp;</p>
+<p>
+	On the execution side Cyclone doubles the number of integer ALUs, load/store units and branch units. Cyclone also adds a unit for indirect branches and at least one more FP pipe. Cyclone can sustain three FP operations in parallel (including 3 FP/NEON adds). The third FP/NEON pipe is used for div and sqrt operations, the machine can only execute two FP/NEON muls in parallel.</p>
+<p>
+	I also found references to buffer sizes for each unit, which I&#39;m assuming are the number of micro-ops that feed each unit. I don&#39;t believe Cyclone has a unified scheduler ahead of all of its execution units and instead has statically partitioned buffers in front of each port. I&#39;ve put all of this information into the crude diagram below:</p>
+<p style="text-align: center;">
+	<a href="http://www.anandtech.com/show/7910/apples-cyclone-microarchitecture-detailed"><img alt="" src="http://images.anandtech.com/doci/7910/Cyclone_575px.png" style="width: 536px; height: 500px;" /></a></p>
+<p>
+	Unfortunately I don&#39;t have enough data on Swift to really produce a decent comparison image. With six decoders and nine ports to execution units, Cyclone is big. As I mentioned before, it&#39;s bigger than anything else that goes in a phone. Apple didn&#39;t build a Krait/Silvermont competitor, it built something much closer to Intel&#39;s big cores. At the launch of the iPhone 5s, Apple referred to the A7 as being &quot;desktop class&quot; - it turns out that wasn&#39;t an exaggeration.</p>
+<p>
+	Cyclone is a bold move by Apple, but not one that is without its challenges. I still find that there are almost no applications on iOS that really take advantage of the CPU power underneath the hood. More than anything Apple needs first party software that really demonstrates what&#39;s possible. The challenge is that at full tilt a pair of Cyclone cores can consume quite a bit of power. So for now, Cyclone&#39;s performance is really used to exploit race to sleep and get the device into a low power state as quickly as possible. The other problem I see is that although Cyclone is incredibly forward looking, it launched in devices with only 1GB of RAM. It&#39;s very likely that you&#39;ll run into memory limits before you hit CPU performance limits if you plan on keeping your device for a long time.</p>
+<p style="text-align: center;">
+	<a href="http://www.anandtech.com/show/7910/apples-cyclone-microarchitecture-detailed"><img src="http://images.anandtech.com/doci/7299/AppleTownHall-869_575px.jpg" /></a></p>
+<p>
+	It wasn&#39;t until I wrote this piece that Apple&#39;s codenames started to make sense. Swift was quick, but Cyclone really does stir everything up. The earlier than expected introduction of a consumer 64-bit ARMv8 SoC caught pretty much everyone off guard (e.g. <a href="http://www.anandtech.com/show/7784/snapdragon-610-615-qualcomm-continues-down-its-64bit-warpath-with-48core-cortex-a53-designs">Qualcomm&#39;s shift to vanilla ARM cores for more of its product stack</a>).</p>
+<p>
+	The real question is where does Apple go from here? By now we know to expect an &quot;A8&quot; branded Apple SoC in the iPhone 6 and iPad Air successors later this year. There&#39;s little benefit in going substantially wider than Cyclone, but there&#39;s still a ton of room to improve performance. One obvious example would be through frequency scaling. Cyclone is clocked very conservatively (1.3GHz in the 5s/iPad mini with Retina Display and 1.4GHz in the iPad Air), assuming Apple moves to a 20nm process later this year it should be possible to get some performance by increasing clock speed scaling without a power penalty. I suspect Apple has more tricks up its sleeve than that however. Swift and Cyclone were two tocks in a row by Intel&#39;s definition, a third in 3 years would be unusual but not impossible (Intel sort of committed to doing the same with Saltwell/Silvermont/Airmont in 2012 - 2014).</p>
+<p>
+	Looking at Cyclone makes one thing very clear: the rest of the players in the ultra mobile CPU space didn&#39;t aim high enough. I wonder what happens next round.</p>
+</p>]]></description>
+      <link>http://www.anandtech.com/show/7910/apples-cyclone-microarchitecture-detailed</link>
+      <pubDate>Mon, 31 Mar 2014 02:10:00 EDT</pubDate>
+      <guid isPermaLink="false">tag:www.anandtech.com,7910:news</guid>
+      <category><![CDATA[SOC]]></category>
+    </item>
+    <item>
+      <title>MSI Radeon R9 290 Gaming 4G Giveaway</title>
+      <author>Anand Lal Shimpi</author>
+      <description><![CDATA[<p>
+	Anyone looking to upgrade their gaming rig will be extremely excited about our next giveaway. MSI&#39;s Radeon R9 Gaming 4G features AMD&#39;s 6.2 billion transistor Hawaii GPU. The R9 290 launched last year at an MSRP of $399, but incredible demand from the coin mining community have kept its prices substantially higher since then.&nbsp;</p>
+<p>
+	<a href="http://www.anandtech.com/show/7907/msi-radeon-r9-290-gaming-4g-giveaway"><img alt="" src="http://images.anandtech.com/doci/7907/Screen%20Shot%202014-03-28%20at%202.22.54%20AM_575px.png" /></a><br />
+	<br />
+	<span style="-webkit-text-stroke-color: transparent;">If you&#39;ve had troubles finding an R9 290 at MSRP post launch, MSI is about to solve that problem for two lucky AnandTech readers.&nbsp;</span><span style="-webkit-text-stroke-color: transparent;">We&#39;ll be drawing two winners at random, who will each receive an MSI Radeon R9 Gaming 4G graphics card. We&#39;ll be accepting entries until 3/31 at 12PM ET. To enter just leave a comment below (please only post once) and make sure you&#39;re a US resident with a US mailing address. For all entry details check out our official terms below. Good luck!</span></p>
+<p>
+	<a href="http://www.anandtech.com/show/7907/msi-radeon-r9-290-gaming-4g-giveaway"><img alt="" src="http://images.anandtech.com/doci/7907/r9290_575px.jpg" /></a></p>]]></description>
+      <link>http://www.anandtech.com/show/7907/msi-radeon-r9-290-gaming-4g-giveaway</link>
+      <pubDate>Fri, 28 Mar 2014 09:00:00 EDT</pubDate>
+      <guid isPermaLink="false">tag:www.anandtech.com,7907:news</guid>
+      <category><![CDATA[Giveaways]]></category>
+    </item>
+    <item>
+      <title>NVIDIA Announces Jetson TK1 Dev Board; Adds Erista To Tegra Roadmap</title>
+      <author>Ryan Smith</author>
+      <description><![CDATA[<p align="center"><a href="http://www.anandtech.com/show/7905/nvidia-announces-jetson-tk1-dev-board-adds-erista-to-tegra-roadmap"><img src="http://images.anandtech.com/doci/7905/GTC2014_575px.jpg" alt="" /></a></p><p><p>
+	Continuing our coverage of NVIDIA&rsquo;s 2014 GPU Technology Conference, today we&rsquo;re looking at NVIDIA&rsquo;s Tegra-related announcements. As Tegra is primarily a consumer facing product, especially the pre-K1 parts, NVIDIA centers the bulk of their Tegra announcements around the annual Consumer Electronics Show in January. So what is announced at GTC just 2 months later tends to focus on developers and professional uses of announced products.</p>
+<p>
+	With that said, while NVIDIA isn&rsquo;t offering much in the way of architectural details at the moment, they have given us a GPU-centric roadmap update for the Tegra product line.</p>
+<p align="center">
+	<a href="http://www.anandtech.com/show/7905/nvidia-announces-jetson-tk1-dev-board-adds-erista-to-tegra-roadmap"><img alt="" src="http://images.anandtech.com/doci/7905/2013_Tegra_Roadmap_575px.jpg" /></a><br />
+	<em>NVIDIA&#39;s GTC 2013 Tegra Roadmap</em></p>
+<p align="center">
+	<a href="http://www.anandtech.com/show/7905/nvidia-announces-jetson-tk1-dev-board-adds-erista-to-tegra-roadmap"><img alt="" src="http://images.anandtech.com/doci/7905/GTC2014_Tegra_Roadmap_575px.jpg" /></a><br />
+	<em>NVIDIA&#39;s GTC 2014 Tegra Roadmap</em></p>
+<p>
+	The new roadmap includes a new SoC called Erista, which we have limited details about. Scheduled for 2015, Erista will be based on a Maxwell GPU, affirming NVIDIA&rsquo;s earlier commitments to get their Tegra line up to Maxwell in 2015. Unfortunately that&rsquo;s all we know about it at this time; the CPU component, additional features, and manufacturing process have not been specified. That said, a little research shows that <a href="http://www.comicvine.com/erista/4005-60735/lists/">Erista is the son of Wolverine/Logan</a>, so the fact that this isn&rsquo;t a distinct product name but rather a name related to Logan (like Kayla last year) may offer a hint of what to expect.</p>
+<p>
+	Not separately shown on this roadmap but clustered under the K1 heading as the 64bit CPU, is NVIDIA&rsquo;s alternative K1 design utilizing their Denver CPU rather than the ARM A15. <a href="http://www.anandtech.com/show/7620/nvidia-announces-tegra-k1-soc-project-logan-cortex-a15-kepler">The Denver K1 was announced back at CES</a>, and from the perspective of this roadmap is equivalent to the A15 K1, since both utilize the same Kepler GPU. NVIDIA hasn&rsquo;t offered up any additional Denver details at GTC, but we&rsquo;re not expecting any this soon after CES, so we expect to hear more about it when the Denver K1 is closer to shipping (currently scheduled for H2 2014, likely the later part of that window).</p>
+<p>
+	However Parker is a mystery that we&rsquo;re still tracking down. Parker is oddly not on this roadmap, and the introduction of Erista doesn&rsquo;t help. Parker still is (as far as we know) a Denver + Maxwell + FinFET design, which overlaps with Erista&rsquo;s unknown CPU + Maxwell design. Given that Denver K1 should be out this year and Maxwell is scheduled for next year regardless, the most questionable part of that combination is the FinFET aspect, presumably TSMC&rsquo;s 16nm FinFET process. We&rsquo;re still working on finding out more information on the current state of Parker, but we wouldn&rsquo;t be surprised if Erista was the 20nm backup plan in case 16nm FinFET wasn&rsquo;t ready in time.</p>
+<p>
+	<strong>Update</strong>: We received a brief response from NVIDIA on Parker: &quot;Erista was moved ahead of Parker. We&#39;ll provide further updates later.&quot;</p>
+<p>
+	So this confirms Parker is still in the pipeline, and lends some support to our suspicions that there&#39;s a delay on the manufacturing side (rather than the architecture side).</p>
+<h2>
+	Jetson &ldquo;TK1&rdquo;: A Tegra K1 Development Board</h2>
+<p>
+	Roadmaps aside, this week&rsquo;s Tegra announcements are short but significant for the GTC crowd. The highlight of the Tegra product announcements here is NVIDIA&rsquo;s new Jetson &ldquo;TK1&rdquo; development board. Jetson follows in the footsteps of <a href="http://www.anandtech.com/show/6847/more-details-on-nvidias-kayla-a-dev-platform-for-cuda-on-arm">Kayla</a>, which was NVIDIA&rsquo;s prior Tegra development board and was announced at the previous GTC. But whereas Kayla was essentially a prototype &ndash; a 2 chip solution using a Tegra 3 and a GK208 PCIe card, mounted on a mini-ITX board and intended for early development testing of K1-like GPU performance &ndash; Jetson is the final product.</p>
+<p align="center">
+	<a href="http://www.anandtech.com/show/7905/nvidia-announces-jetson-tk1-dev-board-adds-erista-to-tegra-roadmap"><img alt="" src="http://images.anandtech.com/doci/7905/Jetson_TK1_575px.jpg" /></a></p>
+<p>
+	Jetson is composed of a Tegra K1 mounted on to smaller board (possibly Nano-ITX?), outfitted with 2GB of RAM and 16GB of NAND (eMMC) storage. The board provides a suite of I/O options including HDMI 1.4, analog audio in and out, GigE, SATA, mini-PCIe, USB, a suite of GPIOs, and an RS-232 serial port (apparently a highly demanded feature that Kayla lacked). NVIDIA&rsquo;s release information doesn&rsquo;t make mention of cooling, so at first glance this appears to be a bring-your-own-cooler affair, which shouldn&rsquo;t be too difficult given K1&rsquo;s sub-10W TDP.</p>
+<p>
+	Meanwhile Jetson&rsquo;s software stack is composed of a 32bit version of Ubuntu 13.04 for Tegra processors. Layered on it is of course NVIDIA&rsquo;s drivers and software stack, exposing OpenGL and the other common APIs on the graphics side, and CUDA and OpenCL on the compute side. Jetson will also be the first device to come with NVIDIA&rsquo;s new <a href="http://www.nvidia.com/object/visionworks-cv-toolkit.html">VisionWorks</a> middleware, which is a computer vision software package that provides APIs and software samples for a range of computational vision tasks, analogous to what the CUDA toolkit provided for GU programming and language development. VisionWorks includes code for &nbsp;augmented reality, computational photography, robotics, human machine interaction, and driver assistance systems. NVIDIA has big plans for K1 in embedded systems, and VisionWorks is one way they will be priming the pump, by providing some of the software themselves to bring on board new users early.</p>
+<p>
+	From a programming standpoint, K1 (and Jetson as a result) are Compute Capability 3.2, which is essentially the GK110 feature set minus the dynamic parallelism functionality, and including all of the integer, register, and thread improvements that differentiate GK110 from GK10x. On that note, it&rsquo;s worth mentioning that while Jetson/K1 has a unified memory pool &ndash; the first such CUDA capable product due to the integration of Kepler &ndash; the actual memory architecture isn&rsquo;t fully unified. NVIDIA is essentially at an AMD Llano level of integration; full integration will likely come in the future with newer GPUs and CPUs.</p>
+<p>
+	As we mentioned earlier, Jetson is first and foremost targeted towards hardware and software developers looking to further develop software for deployment on finalized K1-equipped devices (phones, tablets, cars, etc). However because Jetson is a complete, COTS K1 device, there is significant buzz around the show about just utilizing Jetson as it is. For smaller companies who don&rsquo;t need the space savings and customization of building their own K1 device, Jetson can be used instead, especially in bigger devices where Jetson&rsquo;s size is not a problem.</p>
+<p align="center">
+	<a href="http://www.anandtech.com/show/7905/nvidia-announces-jetson-tk1-dev-board-adds-erista-to-tegra-roadmap"><img alt="" src="http://images.anandtech.com/doci/7905/GE_Jetson_575px.jpg" /></a></p>
+<p>
+	In fact the first K1 device we&rsquo;ve seen up and running is a Jetson board, being utilized by <a href="http://www.ge-ip.com/">GE Intelligent Platforms</a>. GEIP is among the first Jetson users, and is showcasing the ability for Jetson/K1 to drive one of their combined camera/lidar sensors. The setup taps both the GPUs and CPUs to process data and identify the movement of objects, and interestingly despite the heavy workload from this kind of processing, only reaches approximately 75% resource utilization on Jetson. GEIP&rsquo;s big market for this technology is of course defense applications (automated target identification) where they already do something similar with larger dGPU setups, but GEIP&rsquo;s also investigating other uses such a medical, with a concept of a handheld ultrasound device.</p>
+<p>
+	Moving on, Jetson is expected to become available in April. NVIDIA is already taking pre-orders for Jetson over at their <a href="https://developer.nvidia.com/jetson-tk1">developer site</a>, and in NVIDIA&rsquo;s usually cheeky fashion will go for $192 &ndash; one dollar for every CUDA core on the K1. This also gives us an idea of when K1 consumer devices should be available, as the shorter lead time for Jetson (as opposed to radio certified mobile devices) means that NVIDIA can be shipping K1s for Jetson while also shipping K1s to their OEM customers for their devices.</p>
+<p>
+	On a lighter note, after some further investigation into the Jetson codename we&rsquo;ve determined that NVIDIA has dropped their superhero codenames for this development board, finding no relation between &ldquo;Jetson&rdquo; and &ldquo;Logan&rdquo; or any other superhero. Our best guess is that NVIDIA is taking a futuristic spin, at least for development boards.</p>
+<p>
+	Finally, though it wasn&rsquo;t covered in NVIDIA&rsquo;s initial keynote, NVIDIA will be producing a second, better equipped board for automotive customers under the Jetson name. Dubbed <a href="http://www.nvidia.com/object/jetson-automotive-development-platform.html">Jetson Pro</a>, the board is a customizable building block that uses a Tegra 3 processor as the core system component, with the I/O necessary to add on a number of different devices as an Enhanced Breakout Board (EBB). NVIDIA specifically notes that dGPUs are an option here, explaining the use of the relatively old Tegra 3, as it&rsquo;s the most recent Tegra SoC to feature PCI-Express capabilities.</p>
+<p align="center">
+	<a href="http://www.anandtech.com/show/7905/nvidia-announces-jetson-tk1-dev-board-adds-erista-to-tegra-roadmap"><img alt="" src="http://images.anandtech.com/doci/7905/Jetson_Pro_575px.jpg" /></a></p>
+</p>]]></description>
+      <link>http://www.anandtech.com/show/7905/nvidia-announces-jetson-tk1-dev-board-adds-erista-to-tegra-roadmap</link>
+      <pubDate>Thu, 27 Mar 2014 16:00:00 EDT</pubDate>
+      <guid isPermaLink="false">tag:www.anandtech.com,7905:news</guid>
+      <category><![CDATA[SOC]]></category>
+    </item>
+    <item>
+      <title>Corsair Graphite 760T Case Review</title>
+      <author>E. Fylladitakis</author>
+      <description><![CDATA[<p>
+	Corsair has been releasing one case after another lately, expanding their already large ranks with an even greater variety of products. It has been less than three months since the release of the&nbsp;<a href="http://anandtech.com/show/7710/corsair-obsidian-250d-case-review">Obsidian 250D</a>, a cubic Mini-ITX case, and only two days since another member of the Obsidian series, the Midi-ATX Obsidian 450D, has been announced. Today, Corsair announced the release of yet another case, the Graphite 730T/760T. We&#39;ve had the case for a few days, so read on for our review.</p>]]></description>
+      <link>http://www.anandtech.com/show/7904/corsair-graphite-760t-case-review</link>
+      <pubDate>Thu, 27 Mar 2014 13:10:00 EDT</pubDate>
+      <guid isPermaLink="false">tag:www.anandtech.com,7904:news</guid>
+      <category><![CDATA[Cases/Cooling/PSUs]]></category>
+    </item>
+  </channel>
+</rss>
